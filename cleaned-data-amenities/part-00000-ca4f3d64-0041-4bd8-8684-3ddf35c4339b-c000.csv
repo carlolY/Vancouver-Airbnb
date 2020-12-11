@@ -1,0 +1,2864 @@
+amenity,lat,lon,name,category,amnt_id
+cafe,49.26081,-123.12573,Starbucks,Food,0
+fast_food,49.260952,-123.1257,Salad Loop,Food,1
+pub,49.28319,-123.10905,The Cambie,Nightlife,2
+pub,49.26595,-123.24663,Mahony and Sons,Nightlife,3
+fast_food,49.23475,-123.154724,McDonald's,Food,4
+pub,49.26849,-123.25809,Koerner's Pub,Nightlife,5
+cinema,49.281998,-123.124344,Scotiabank Theatre Vancouver,Leisure,6
+theatre,49.280502,-123.10687,Cineplex Odeon International Village Cinemas,Attraction,7
+ferry_terminal,49.2742,-123.10982,Plaza of Nations Dock,Transportation,8
+ferry_terminal,49.272488,-123.105644,Village Dock,Transportation,9
+cafe,49.263584,-123.12884,Waves,Food,10
+library,49.219593,-123.06685,VPL Fraserview Branch,Leisure,11
+car_rental,49.202206,-123.13416,Wicked Camper Van,Transportation,12
+bar,49.26866,-123.10451,Faculty Brewing,Nightlife,13
+bicycle_rental,49.2757,-123.14245,Vanier Park,Transportation,14
+bicycle_rental,49.27777,-123.12085,Nelson & Richards,Transportation,15
+bicycle_rental,49.26671,-123.10482,Ontario & 5th,Transportation,16
+cafe,49.26857,-123.10452,Argo Cafe,Food,17
+pub,49.26725,-123.10339,R & B Ale & Pizza House,Nightlife,18
+restaurant,49.266575,-123.103745,Peaceful Restaurant,Food,19
+university,49.279224,-123.09951,UBC Learning Exchange,Attraction,20
+restaurant,49.281303,-123.057556,Tacofino Commissary,Food,21
+restaurant,49.2813,-123.05734,Miyako Sushi,Food,22
+restaurant,49.28129,-123.05509,What's Up? Hot Dog!,Food,23
+cafe,49.282154,-123.09984,Waves Coffee,Food,24
+restaurant,49.283264,-123.09789,St Lawrence Restaurant,Food,25
+restaurant,49.283287,-123.098076,Cuhillo,Food,26
+cafe,49.283173,-123.09351,The Uncommon Cafe,Food,27
+bank,49.27938,-123.09948,Vancity,Business,28
+restaurant,49.279606,-123.10028,Juniper,Food,29
+restaurant,49.27962,-123.10111,Gold Stone Bakery & Restaurant,Food,30
+bar,49.282196,-123.1024,Back and Forth Bar,Nightlife,31
+restaurant,49.283165,-123.10353,The Sardine Can,Food,32
+ice_cream,49.283604,-123.10368,Soft Peaks Ice Cream,Food,33
+bar,49.28417,-123.107346,131 Water Kitchen & Bar,Nightlife,34
+restaurant,49.283424,-123.106415,Jules Bistro,Food,35
+cafe,49.273106,-123.10073,Tim Hortons,Food,36
+restaurant,49.287395,-123.12884,JoongWon,Food,37
+fast_food,49.286625,-123.12826,Chongqing on Robson,Food,38
+restaurant,49.287666,-123.12925,Stepho's,Food,39
+fast_food,49.28674,-123.12842,A Taste of India,Food,40
+restaurant,49.28757,-123.12911,Hon's Wun-Tun House,Food,41
+restaurant,49.287373,-123.12823,miss KOREAN BBQ,Food,42
+restaurant,49.287155,-123.12908,Forage,Food,43
+restaurant,49.287045,-123.1289,Timber,Food,44
+restaurant,49.287487,-123.12898,Miko Sushi,Food,45
+restaurant,49.287563,-123.129715,Cora,Food,46
+cafe,49.286602,-123.12821,Chatime,Food,47
+fast_food,49.28656,-123.12818,Pok'e Time,Food,48
+cafe,49.28642,-123.127235,Abode,Food,49
+pub,49.286655,-123.127495,Shenanigans,Nightlife,50
+restaurant,49.262352,-123.08948,Hail Mary's,Food,51
+bicycle_rental,49.287193,-123.11292,Canada Place,Transportation,52
+bicycle_rental,49.27966,-123.116295,Homer & Robson,Transportation,53
+fast_food,49.265724,-123.243095,Red Burrito,Food,54
+fast_food,49.26611,-123.24209,Pita Pit,Food,55
+cafe,49.26601,-123.24233,Only U Cafe,Food,56
+bicycle_rental,49.282394,-123.11858,Granville & Georgia,Transportation,57
+bicycle_rental,49.27805,-123.1057,Expo & Carrall,Transportation,58
+bicycle_rental,49.2798,-123.107925,Keefer & Abbott,Transportation,59
+bicycle_rental,49.26561,-123.152534,7th & Arbutus,Transportation,60
+bicycle_rental,49.26508,-123.11943,Heather & 7th,Transportation,61
+bicycle_rental,49.26827,-123.147865,Cypress & 4th,Transportation,62
+bicycle_rental,49.264214,-123.11782,8th & Ash,Transportation,63
+bicycle_rental,49.268925,-123.118095,Stamp's Landing,Transportation,64
+bicycle_rental,49.25877,-123.115295,14th & Cambie,Transportation,65
+bicycle_rental,49.257538,-123.148476,Cypress & 16th,Transportation,66
+bicycle_rental,49.263145,-123.12413,Laurel & Broadway,Transportation,67
+pub,49.26871,-123.11864,The Wicklow Pub,Nightlife,68
+bar,49.282146,-123.07621,Callister Tasting Room,Nightlife,69
+bar,49.283363,-123.07575,Powell Brewery Tasting Room,Nightlife,70
+bar,49.272495,-123.07773,Strange Fellows Tasting Room,Nightlife,71
+bicycle_rental,49.28961,-123.13215,Cardero & Robson,Transportation,72
+bicycle_rental,49.291195,-123.135216,Robson & Denman,Transportation,73
+bicycle_rental,49.288143,-123.13202,Nicola & Robson,Transportation,74
+restaurant,49.28212,-123.13366,Ramen Koika,Food,75
+cafe,49.28148,-123.133606,Exile,Food,76
+pub,49.209442,-123.116165,Dublin Crossing Irish Pub,Nightlife,77
+bicycle_rental,49.286003,-123.1166,Hornby & Pender,Transportation,78
+bicycle_rental,49.28268,-123.107,Abbott & Cordova,Transportation,79
+cafe,49.287342,-123.114395,Starbucks,Food,80
+fast_food,49.284267,-123.11976,Smokehouse Sandwich Co,Food,81
+bank,49.24695,-123.18542,Vancity,Business,82
+cafe,49.23878,-123.03163,Tim Hortons,Food,83
+cafe,49.264133,-123.18167,Essentia Cafe,Food,84
+restaurant,49.264343,-123.17572,Deacon's Corner,Food,85
+cafe,49.268616,-123.158775,Starbucks,Food,86
+restaurant,49.286327,-123.12562,Kirin Mandarin Restaurant,Food,87
+restaurant,49.28599,-123.125084,Pink Elephant Thai,Food,88
+cafe,49.285904,-123.124916,Tim Hortons,Food,89
+fast_food,49.286057,-123.125175,A&W,Food,90
+fast_food,49.286087,-123.12523,Subway,Food,91
+restaurant,49.28525,-123.125404,Fantacity Karaoke,Food,92
+cafe,49.287613,-123.11492,Starbucks,Food,93
+bank,49.263737,-123.155556,BlueShore Financial,Business,94
+bicycle_rental,49.28338,-123.13104,Bute & Comox,Transportation,95
+bicycle_rental,49.273853,-123.114555,Marinaside & Cooperage,Transportation,96
+bicycle_rental,49.260605,-123.11343,12th & Yukon,Transportation,97
+bicycle_rental,49.269543,-123.13783,Anderson & 2nd,Transportation,98
+bicycle_rental,49.277496,-123.114235,Beatty & Robson,Transportation,99
+bicycle_rental,49.278214,-123.11863,Homer & Smithe,Transportation,100
+bicycle_rental,49.276134,-123.11455,Expo & Smithe,Transportation,101
+bicycle_rental,49.27615,-123.12389,Richards & Davie,Transportation,102
+bicycle_rental,49.276505,-123.118904,Nelson & Mainland,Transportation,103
+pub,49.284206,-123.100204,Alibi Room,Nightlife,104
+fast_food,49.263336,-123.11442,A&W,Food,105
+bank,49.26334,-123.11404,Coast Capital Savings CU,Business,106
+cafe,49.263096,-123.1173,Elysian Coffee Roasters,Food,107
+cafe,49.212994,-123.1401,Starbucks,Food,108
+place_of_worship,49.262524,-123.19438,Point Grey Inter-Mennonite Fellowship (PGIMF),Attraction,109
+cinema,49.312744,-123.08275,Cineplex Cinemas Esplanade,Leisure,110
+restaurant,49.26439,-123.06951,Cabrito - Tapas Bebidas,Food,111
+restaurant,49.284866,-123.12566,Spicy 6,Food,112
+cafe,49.249226,-123.10078,Caffe Artigiano,Food,113
+restaurant,49.25001,-123.10081,French Table Bistro,Food,114
+restaurant,49.28021,-123.099976,Golden Garden Vietnamese Cuisine,Food,115
+restaurant,49.249874,-123.100784,Old Bird,Food,116
+restaurant,49.279755,-123.09994,Virtuous Pie,Food,117
+cafe,49.27962,-123.09994,Starbucks,Food,118
+fast_food,49.226223,-123.12877,Tim Hortons,Food,119
+restaurant,49.245213,-123.10151,East is East - Main St,Food,120
+cafe,49.232754,-123.11729,Blenz,Food,121
+bicycle_rental,49.279633,-123.115005,Hamilton & Robson,Transportation,122
+restaurant,49.289036,-123.13202,Liuyishou Hotpot Robson,Food,123
+cafe,49.279224,-123.11683,Gong Cha,Food,124
+bicycle_rental,49.284153,-123.09996,Alexander & Main,Transportation,125
+restaurant,49.276627,-123.100105,Pizza Farina,Food,126
+restaurant,49.274323,-123.126945,Kaide Sushi Bar,Food,127
+bicycle_rental,49.26227,-123.12616,Oak & 10th,Transportation,128
+bicycle_rental,49.25676,-123.120026,Heather & 16th,Transportation,129
+bicycle_rental,49.26177,-123.13149,Alder & 11th,Transportation,130
+restaurant,49.290936,-123.13605,Sushiholic,Food,131
+place_of_worship,49.265854,-123.21146,Allan Kardec Vancouver Society,Attraction,132
+restaurant,49.281273,-123.04724,Le Petit Saigon,Food,133
+fast_food,49.27253,-123.056206,Panago Pizza,Food,134
+bureau_de_change,49.281227,-123.12038,Charlie's currency exchange,Business,135
+restaurant,49.268738,-123.04573,Fuku Ramen,Food,136
+restaurant,49.282715,-123.104805,Tacofino,Food,137
+nightclub,49.27539,-123.10964,Privé,Nightlife,138
+restaurant,49.281307,-123.10797,Mirai Sushi,Food,139
+bicycle_rental,49.273643,-123.12706,Pacific & Richards,Transportation,140
+bicycle_rental,49.265285,-123.1382,7th & Granville,Transportation,141
+bicycle_rental,49.256832,-123.10528,Ontario & 16th,Transportation,142
+bicycle_rental,49.27021,-123.105156,1st & Ontario,Transportation,143
+bicycle_rental,49.2584,-123.10081,14th & Main,Transportation,144
+bicycle_rental,49.27021,-123.10913,1st & Columbia,Transportation,145
+restaurant,49.264038,-123.1801,Green Leaf Sushi,Food,146
+bicycle_rental,49.285793,-123.120964,Burrard Station,Transportation,147
+bicycle_rental,49.278065,-123.13051,Burrard & Drake,Transportation,148
+bicycle_rental,49.280613,-123.12478,Horny & Nelson,Transportation,149
+bicycle_rental,49.280296,-123.13528,Harwood & Bute,Transportation,150
+bicycle_rental,49.280293,-123.11769,Richards & Robson,Transportation,151
+bicycle_rental,49.27992,-123.12745,Helmcken & Burrard,Transportation,152
+bicycle_rental,49.27971,-123.110085,Dunsmuir & Beatty,Transportation,153
+bicycle_rental,49.28529,-123.13436,Comox & Broughton,Transportation,154
+bicycle_rental,49.2897,-123.144005,Chilco & Beach,Transportation,155
+bicycle_rental,49.287468,-123.142075,Davie & Beach,Transportation,156
+bicycle_rental,49.28587,-123.12726,Bute & Robson,Transportation,157
+bicycle_rental,49.28803,-123.14218,Morton & Denman,Transportation,158
+bicycle_rental,49.288517,-123.139336,Comox & Denman,Transportation,159
+bus_station,49.209217,-123.11613,Marine Drive Station,Transportation,160
+fast_food,49.256783,-123.18491,Dairy Queen,Food,161
+restaurant,49.22542,-123.06553,Victoria Restaurant,Food,162
+restaurant,49.288002,-123.14036,Rio Brazilian Steakhouse,Food,163
+restaurant,49.28903,-123.131325,Cinch Grill Italian,Food,164
+fast_food,49.29089,-123.13427,Subway,Food,165
+fast_food,49.20819,-123.14014,Freshslice,Food,166
+fast_food,49.208237,-123.14013,Donair Spot,Food,167
+bicycle_rental,49.26123,-123.07375,Woodland & 10th,Transportation,168
+restaurant,49.22575,-123.06594,Pho Thai Son Restaurant,Food,169
+restaurant,49.22587,-123.06615,On May Chinese Restaurant,Food,170
+restaurant,49.231857,-123.06539,Kim Phung Restaurant,Food,171
+fast_food,49.231205,-123.06577,Freshslice Pizza,Food,172
+restaurant,49.23207,-123.06575,MK Chop Chop BBQ House,Food,173
+restaurant,49.232,-123.06574,Shun Fa Noodle House,Food,174
+restaurant,49.233524,-123.065315,Happy Sushi,Food,175
+restaurant,49.234596,-123.065674,Pho Hue,Food,176
+restaurant,49.235355,-123.06565,Banh Mi Saigon,Food,177
+restaurant,49.237648,-123.06558,La Maison Da Nang,Food,178
+restaurant,49.238564,-123.06557,Bun Cha Ca Hoang Yen,Food,179
+restaurant,49.238537,-123.06519,Chau Veggie Express,Food,180
+restaurant,49.23866,-123.06556,Kozak Ukraїnian Eatery,Food,181
+restaurant,49.242996,-123.060196,17°C Dessert Café,Food,182
+restaurant,49.24307,-123.06036,Kings Cafe,Food,183
+restaurant,49.242638,-123.05922,Pho Hoa Noodle Soup,Food,184
+bicycle_rental,49.287132,-123.118614,Pender & Burrard,Transportation,185
+university,49.284477,-123.11235,Simon Fraser University - Vancouver Campus,Attraction,186
+restaurant,49.245815,-123.09001,Masayoshi,Food,187
+restaurant,49.246716,-123.101006,Meet on Main,Food,188
+restaurant,49.283245,-123.10484,Meet in Gastown,Food,189
+restaurant,49.25135,-123.1012,Bob Likes Thai Food,Food,190
+restaurant,49.250782,-123.10117,The Fish Counter,Food,191
+cinema,49.282608,-123.10808,Goldcorp Centre for the Arts,Leisure,192
+theatre,49.27999,-123.116455,The Centre For Performing Arts,Attraction,193
+restaurant,49.231388,-123.065765,Mui Garden,Food,194
+fast_food,49.263035,-123.1013,Freshslice Pizza,Food,195
+restaurant,49.263042,-123.10154,Fable Diner,Food,196
+restaurant,49.281467,-123.11724,Glowbal,Food,197
+fast_food,49.208122,-123.140785,McDonald's,Food,198
+fast_food,49.265884,-123.02428,McDonald's,Food,199
+fast_food,49.246796,-123.06824,Subway,Food,200
+bank,49.250076,-123.07542,CIBC,Business,201
+bank,49.243187,-123.06147,Scotiabank,Business,202
+bank,49.234386,-123.03593,CIBC,Business,203
+fast_food,49.23309,-123.06573,McDonald's,Food,204
+fast_food,49.2331,-123.06594,Kent's Kitchen,Food,205
+atm,49.2331,-123.06617,CIBC,Business,206
+bank,49.232494,-123.06524,BMO,Business,207
+fast_food,49.21792,-123.07666,Hometown Pizza,Food,208
+fast_food,49.22569,-123.07772,Papa Dave's Pizza Indian Cuisine,Food,209
+fast_food,49.218258,-123.077385,McDonald's,Food,210
+pub,49.232914,-123.07612,East Side Craft House,Nightlife,211
+fast_food,49.225613,-123.07772,KFC,Food,212
+clock,49.284386,-123.10889,Gastown Steam Clock,Attraction,213
+restaurant,49.284233,-123.10903,Water Street Cafe,Food,214
+restaurant,49.26354,-123.1272,Minato Japanese Restaurant,Food,215
+fast_food,49.26339,-123.11608,McDonald's,Food,216
+bank,49.263523,-123.12249,TD Canada Trust,Business,217
+restaurant,49.263508,-123.1249,Saravanaa Bhavan (South Indian),Food,218
+restaurant,49.263424,-123.11731,Cactus Club Cafe,Food,219
+cafe,49.26352,-123.12313,Tim Hortons,Food,220
+cafe,49.263206,-123.10705,Starbucks,Food,221
+restaurant,49.263645,-123.13169,Royal Seoul House,Food,222
+restaurant,49.263332,-123.11308,Menya Raizo,Food,223
+fast_food,49.26328,-123.11062,Fatburger,Food,224
+bank,49.263412,-123.11823,HSBC,Business,225
+fast_food,49.263336,-123.113625,Subway,Food,226
+fast_food,49.26349,-123.12152,A&W,Food,227
+restaurant,49.237038,-123.06564,Sandy La Chinese Restaurant,Food,228
+cafe,49.267345,-123.11299,Starbucks,Food,229
+fast_food,49.23907,-123.065,Dairy Queen,Food,230
+ice_cream,49.276928,-123.08156,La Casa Gelato,Food,231
+restaurant,49.24127,-123.10165,Au Petit Café,Food,232
+ferry_terminal,49.287014,-123.109024,Waterfront,Transportation,233
+ferry_terminal,49.309536,-123.083885,Lonsdale Quay,Transportation,234
+restaurant,49.291386,-123.13502,Banana Leaf,Food,235
+restaurant,49.29077,-123.13408,Dinesty Dumpling House,Food,236
+fast_food,49.290623,-123.13385,McDonald's,Food,237
+restaurant,49.289986,-123.13349,Sushi Itoga,Food,238
+restaurant,49.262325,-123.088646,Nha Trang Restaurant,Food,239
+restaurant,49.286266,-123.12766,Momo Sushi,Food,240
+restaurant,49.260788,-123.10081,Mali Thai Food,Food,241
+cafe,49.23522,-123.115715,Starbucks,Food,242
+bank,49.234753,-123.15789,Scotiabank,Business,243
+conference_centre,49.28833,-123.11257,Vancouver Convention Centre East,Business,244
+restaurant,49.28446,-123.0657,Scan-Delicious,Food,245
+bank,49.246662,-123.06877,Moneymart,Business,246
+restaurant,49.23443,-123.03607,Chef Pin,Food,247
+restaurant,49.26233,-123.08984,Klasik Inasal,Food,248
+restaurant,49.291676,-123.134895,Rad on Denman,Food,249
+fast_food,49.279884,-123.106804,Canra Plus,Food,250
+fast_food,49.279984,-123.10657,Ryo,Food,251
+fast_food,49.280052,-123.10647,India’s Flavour,Food,252
+fast_food,49.280094,-123.10643,Kazoku,Food,253
+fast_food,49.280895,-123.107315,McDonald's,Food,254
+restaurant,49.280804,-123.10745,Goldies,Food,255
+cafe,49.28081,-123.10702,Caveman Cafe,Food,256
+bureau_de_change,49.280212,-123.10711,Mtt Centre,Business,257
+bar,49.28021,-123.10685,Shiny Tea,Nightlife,258
+fast_food,49.279926,-123.10668,Taco Time,Food,259
+restaurant,49.280132,-123.1064,Abdul's Bbq,Food,260
+fast_food,49.279903,-123.106735,Bubble King,Food,261
+fast_food,49.279957,-123.10662,Tina,Food,262
+fast_food,49.280018,-123.10652,Thai Town,Food,263
+fast_food,49.280174,-123.10636,Wow Thai Food,Food,264
+fast_food,49.280212,-123.10633,Bali Thai,Food,265
+fast_food,49.28026,-123.1063,Giant Panda,Food,266
+restaurant,49.230972,-123.06537,Lucky Dragon Palace Restaurant,Food,267
+restaurant,49.271084,-123.15531,Cafe Zen,Food,268
+restaurant,49.269184,-123.06943,Federico's Supper Club,Food,269
+bar,49.27776,-123.07604,Off The Rail Tasting Room,Nightlife,270
+bar,49.277473,-123.07452,Bomber Tasting Room,Nightlife,271
+bicycle_rental,49.27354,-123.12985,Beach & Seymour,Transportation,272
+bicycle_rental,49.2932,-123.13861,Chilco & Robson,Transportation,273
+car_sharing,49.285213,-123.11129,Zipcar,Transportation,274
+bicycle_rental,49.28463,-123.10861,Cambie & Water,Transportation,275
+bicycle_rental,49.291847,-123.140785,Chilco & Barclay,Transportation,276
+bicycle_rental,49.25916,-123.148254,Cypress & 14th,Transportation,277
+bicycle_rental,49.25769,-123.15327,Arbutus & 16th,Transportation,278
+bicycle_rental,49.263817,-123.105286,8th & Ontario,Transportation,279
+bar,49.273335,-123.11952,The Wine Bar,Nightlife,280
+restaurant,49.283092,-123.135635,Kinara,Food,281
+restaurant,49.286953,-123.14108,The Park at English Bay,Food,282
+fast_food,49.28645,-123.14033,Yummy to Go,Food,283
+restaurant,49.28661,-123.14059,Grotto,Food,284
+cafe,49.286556,-123.14101,Tim Hortons,Food,285
+bicycle_rental,49.27446,-123.12172,Yaletown-Roundhouse Station,Transportation,286
+theatre,49.278584,-123.0706,York Theatre,Attraction,287
+theatre,49.270138,-123.108734,BMO Theatre Centre,Attraction,288
+theatre,49.224934,-123.10869,Studio 58,Attraction,289
+theatre,49.203712,-123.13752,Metro Theatre,Attraction,290
+theatre,49.29119,-123.130165,PAL Studio Theatre,Attraction,291
+bicycle_rental,49.2793,-123.10177,Keefer & Columbia,Transportation,292
+bicycle_rental,49.262592,-123.13888,10th & Granville,Transportation,293
+bicycle_rental,49.26222,-123.109314,10th & Columbia,Transportation,294
+fast_food,49.272633,-123.13537,Fraser Valley Juice,Food,295
+fast_food,49.27266,-123.135315,Pizza Pzazz,Food,296
+pub,49.28494,-123.064964,Princeton Pub,Nightlife,297
+fast_food,49.282127,-123.11646,Bay Sushi Cafe,Food,298
+fast_food,49.282093,-123.1165,Kung Fu Noodle,Food,299
+fast_food,49.282616,-123.11512,Pokérrito,Food,300
+fast_food,49.282707,-123.11475,Dae Ji,Food,301
+fast_food,49.28261,-123.114624,Sushi Home,Food,302
+fast_food,49.282566,-123.114555,Big Bowl Rice,Food,303
+pub,49.28413,-123.10838,Pourhouse,Nightlife,304
+bicycle_rental,49.27352,-123.117836,Marinaside & Davie,Transportation,305
+bicycle_rental,49.285275,-123.141785,Bidwell & Beach,Transportation,306
+bicycle_rental,49.272755,-123.14772,Cypress & Cornwall,Transportation,307
+bicycle_rental,49.25897,-123.13935,14th & Granville,Transportation,308
+bicycle_rental,49.266666,-123.112434,5th & Yukon,Transportation,309
+bicycle_rental,49.277115,-123.12252,Richards & Helmcken,Transportation,310
+bar,49.27569,-123.12811,Cecil Bar,Nightlife,311
+restaurant,49.29157,-123.12752,Cardero's,Food,312
+restaurant,49.283936,-123.12235,Shabusen,Food,313
+restaurant,49.27423,-123.12393,House Special,Food,314
+restaurant,49.274723,-123.1227,La Pentala,Food,315
+restaurant,49.274555,-123.12328,Kuma,Food,316
+restaurant,49.27442,-123.12357,Saigon Xua,Food,317
+restaurant,49.274323,-123.12377,Tasty Indian Bistro,Food,318
+bar,49.27413,-123.124115,Soho,Nightlife,319
+bar,49.27539,-123.12164,Yaletown Distilling Company,Nightlife,320
+restaurant,49.27517,-123.122574,Hapa Izakaya,Food,321
+fast_food,49.27505,-123.122154,Living Produce Aisle,Food,322
+restaurant,49.275105,-123.122086,The Flying Pig,Food,323
+restaurant,49.275295,-123.121185,Robba Da Matti,Food,324
+bar,49.27525,-123.12127,The Distillery Bar,Nightlife,325
+restaurant,49.275158,-123.12139,Paulies Kitchen,Food,326
+restaurant,49.275063,-123.12108,Zend Conscious Lounge,Food,327
+fast_food,49.275112,-123.12146,Mister,Food,328
+restaurant,49.274837,-123.12189,Sushi Maro,Food,329
+cafe,49.28298,-123.10987,New Amsterdam Cafe,Food,330
+restaurant,49.26133,-123.10075,Josephines Restaurant and Catering,Food,331
+bar,49.261673,-123.100746,The Cascade,Nightlife,332
+restaurant,49.261745,-123.100746,Charlie's Little Italian,Food,333
+cafe,49.26244,-123.100716,Bean Around The World,Food,334
+restaurant,49.262524,-123.10071,Cafe Barney,Food,335
+restaurant,49.26317,-123.100716,Frenchies Diner,Food,336
+fast_food,49.2633,-123.100716,Pizza 604,Food,337
+restaurant,49.26311,-123.101875,Chutney Villa,Food,338
+cafe,49.262444,-123.10128,Kafka's Coffee and Tea,Food,339
+restaurant,49.26357,-123.100655,The Wallflower,Food,340
+cafe,49.262238,-123.101295,Sunny Spot,Food,341
+ice_cream,49.248158,-123.1009,Yum Sweet Shop,Food,342
+taxi,49.28718,-123.113,Taxi,Transportation,343
+bicycle_rental,49.289097,-123.121826,Cordova & Bute,Transportation,344
+restaurant,49.255695,-123.08965,Bells And Whistles,Food,345
+bicycle_rental,49.264904,-123.08122,Glen & 6th,Transportation,346
+bicycle_rental,49.26147,-123.089485,10th & Fraser,Transportation,347
+bicycle_rental,49.264923,-123.07945,Keith & 6th,Transportation,348
+bicycle_rental,49.26132,-123.08529,St Catherines & 10th,Transportation,349
+bicycle_rental,49.26213,-123.08149,Glen & Broadway,Transportation,350
+bicycle_rental,49.262306,-123.09306,St. George & Broadway,Transportation,351
+restaurant,49.255947,-123.0878,Thanh Thanh,Food,352
+restaurant,49.282627,-123.12521,Le Crocrodile,Food,353
+restaurant,49.26383,-123.14138,Earls,Food,354
+fast_food,49.263447,-123.13807,McDonald's,Food,355
+cafe,49.26563,-123.25436,Tim Hortons,Food,356
+fast_food,49.26567,-123.25427,Pizza Pizza,Food,357
+fast_food,49.265564,-123.25433,Stackables,Food,358
+cafe,49.267303,-123.25269,Ike's Café,Food,359
+restaurant,49.265858,-123.25444,Triple O's,Food,360
+fast_food,49.260185,-123.2484,Tim Hortons,Food,361
+bank,49.23404,-123.11587,CIBC,Business,362
+bank,49.23458,-123.11571,Vancity,Business,363
+fast_food,49.22675,-123.12887,A&W,Food,364
+restaurant,49.28358,-123.104065,Local Public Eatery,Food,365
+bar,49.283253,-123.10538,Gringo,Nightlife,366
+bus_station,49.219852,-123.0657,54th Avenue Loop,Transportation,367
+bus_station,49.21383,-123.140625,63rd Avenue Loop,Transportation,368
+fast_food,49.27967,-123.122116,Harvey's,Food,369
+restaurant,49.24755,-123.10136,Restaurant Yugo,Food,370
+bus_station,49.210175,-123.06477,Harrison Loop,Transportation,371
+fast_food,49.23327,-123.10127,Subway,Food,372
+cafe,49.234753,-123.158264,Tim Hortons,Food,373
+theatre,49.273403,-123.15828,Kitsilano Showboat,Attraction,374
+cafe,49.272938,-123.09979,Starbucks,Food,375
+fast_food,49.27396,-123.09805,A&W,Food,376
+pub,49.26658,-123.25017,The Pit,Nightlife,377
+fast_food,49.273083,-123.10397,White Spot Triple O's,Food,378
+cafe,49.26437,-123.167435,Starbucks,Food,379
+theatre,49.260014,-123.115326,"Yuck, Yucks Comedy Club",Attraction,380
+fast_food,49.283802,-123.11583,Urban Sushi,Food,381
+cafe,49.283684,-123.11598,Caffe Artigiano,Food,382
+cafe,49.284805,-123.11433,Trees Coffee,Food,383
+cafe,49.284737,-123.11445,Creme de la Crumb,Food,384
+bicycle_rental,49.26203,-123.10472,10th & Ontario,Transportation,385
+pub,49.271496,-123.10064,Dubh Linn Gate,Nightlife,386
+fast_food,49.273033,-123.100395,A&W,Food,387
+bicycle_rental,49.27002,-123.10013,1st & Main,Transportation,388
+bicycle_rental,49.271748,-123.15548,York & Yew,Transportation,389
+cafe,49.310722,-123.08126,Bean Around The World,Food,390
+cafe,49.281414,-123.11947,Café Crêpe,Food,391
+restaurant,49.269268,-123.138824,Afghan Horsemen Restaurant,Food,392
+restaurant,49.276447,-123.119514,Tacofino,Food,393
+restaurant,49.2764,-123.1196,West Oak,Food,394
+cafe,49.276043,-123.11964,Chasers,Food,395
+restaurant,49.27592,-123.12031,Wild Tale,Food,396
+cafe,49.275684,-123.12017,Lime & Moon Pie Company,Food,397
+restaurant,49.278576,-123.11411,Fanny Bay Oyster Bar,Food,398
+restaurant,49.276287,-123.11976,The Greek by Anatoli,Food,399
+fast_food,49.27649,-123.118965,Subway,Food,400
+cafe,49.27641,-123.11908,Coffee House,Food,401
+restaurant,49.259045,-123.13893,KYO Korean BBQ & Sushi house,Food,402
+pub,49.2898,-123.11689,Tap & Barrel,Nightlife,403
+bar,49.279034,-123.1236,Johnnie Fox's,Nightlife,404
+place_of_worship,49.279606,-123.09886,Evergreen Taoist Church Of Canada,Attraction,405
+restaurant,49.274204,-123.153755,The Boathouse Restaurant,Food,406
+cafe,49.28618,-123.12697,Blenz,Food,407
+restaurant,49.257816,-123.16506,Trafalgars Bistro,Food,408
+cafe,49.263844,-123.100044,Pleasant Beans Coffee House,Food,409
+cafe,49.28216,-123.10451,Nelson the Seagull,Food,410
+cafe,49.287037,-123.1181,Blenz Coffee,Food,411
+fast_food,49.28982,-123.1332,Book Kyung Ban Jeoun & BK Karaoke,Food,412
+restaurant,49.263783,-123.139336,Bob Likes Thai Food,Food,413
+restaurant,49.23243,-123.09038,New Bhaia Sweet Shop and Restaurant,Food,414
+arts_centre,49.278774,-123.114685,The Post at 750,Attraction,415
+fast_food,49.280785,-123.124855,The Alley,Food,416
+cafe,49.299892,-123.13122,Ocean Wise Cafe,Food,417
+cafe,49.225506,-123.10139,Roots Café,Food,418
+bicycle_rental,49.27609,-123.15133,Arbutus & McNicoll,Transportation,419
+bicycle_rental,49.275963,-123.146,Chestnut & McNicoll,Transportation,420
+restaurant,49.27017,-123.05689,Song Huong,Food,421
+bicycle_rental,49.281513,-123.120155,Robson & Granville,Transportation,422
+bicycle_rental,49.282394,-123.10203,Cordova & Columbia,Transportation,423
+restaurant,49.242752,-123.060425,Cafe Xu Hue,Food,424
+restaurant,49.242817,-123.06057,Veggie Bowl,Food,425
+cafe,49.290443,-123.11766,The Cockpit,Food,426
+restaurant,49.278652,-123.09865,The Ramen Butcher,Food,427
+restaurant,49.27866,-123.098915,Fat Mao Noodles,Food,428
+restaurant,49.27864,-123.098015,Mamie Taylor's,Food,429
+restaurant,49.279064,-123.09994,Pacific Poke,Food,430
+restaurant,49.279358,-123.10021,Juke,Food,431
+restaurant,49.280518,-123.10017,New Mitzie's Restaurant,Food,432
+restaurant,49.280293,-123.10095,Sai Woo,Food,433
+restaurant,49.280537,-123.10101,Jade Dynasty Restaurant,Food,434
+restaurant,49.275032,-123.07707,Truck Stop Cafe,Food,435
+restaurant,49.22555,-123.054276,Yu Ki BBQ Kitchen,Food,436
+restaurant,49.225407,-123.05351,Pho Thai Ha,Food,437
+restaurant,49.225525,-123.05353,Bubble Waffle Cafe,Food,438
+fast_food,49.271675,-123.094734,Subway,Food,439
+fast_food,49.271732,-123.09488,Taco Del Mar,Food,440
+restaurant,49.271774,-123.095116,Bibi's Kitchen,Food,441
+pub,49.317238,-123.10825,Pemberton Station Neighbourhood Pub,Nightlife,442
+restaurant,49.21894,-123.09119,Dosa Hut,Food,443
+bank,49.210674,-123.14081,Scotiabank,Business,444
+restaurant,49.20285,-123.13558,Fresh Window Cafe,Food,445
+restaurant,49.22099,-123.06604,Lim Kee Restaurant,Food,446
+fast_food,49.220814,-123.0657,Paragon Pizza,Food,447
+restaurant,49.220863,-123.0657,Huang's Beef Noodle,Food,448
+restaurant,49.220432,-123.065674,Karakoram Restaurant,Food,449
+bar,49.28374,-123.1185,Prohibition,Nightlife,450
+restaurant,49.262386,-123.057014,Subway,Food,451
+restaurant,49.233463,-123.034935,Peaceful Restaurant,Food,452
+restaurant,49.23365,-123.03531,Happy Day Cafe,Food,453
+restaurant,49.23449,-123.03619,Beijiang Restaurant,Food,454
+restaurant,49.234077,-123.03537,The Captain's Boil,Food,455
+restaurant,49.234028,-123.03526,Congee Noodle King,Food,456
+cafe,49.233307,-123.03388,Milk & Sugar Cafe,Food,457
+restaurant,49.23361,-123.034454,Hyoga Japanese Cuisine,Food,458
+fast_food,49.23725,-123.032555,Subway,Food,459
+restaurant,49.237183,-123.03262,Japanese Bistro Kammone,Food,460
+restaurant,49.23788,-123.032555,Joyce Jiaozi,Food,461
+cafe,49.23803,-123.032295,Sunflower Bubble Tea,Food,462
+bank,49.23801,-123.031746,Community Savings Credit Union,Business,463
+fast_food,49.263752,-123.024216,Subway,Food,464
+restaurant,49.29103,-123.13452,Flower & Horse In Spring,Food,465
+bank,49.29104,-123.13504,CIBC,Business,466
+restaurant,49.291576,-123.13506,Kintaro Ramen,Food,467
+restaurant,49.29087,-123.13617,Gon's Izakaya,Food,468
+cafe,49.29092,-123.13652,Milano Coffee Roasters,Food,469
+restaurant,49.290966,-123.13645,Ma Dang Goul,Food,470
+restaurant,49.29116,-123.13616,Zakkushi,Food,471
+cafe,49.29132,-123.13593,Breka Bakery & Cafe,Food,472
+restaurant,49.2914,-123.13579,Ukrainian Village Restaurant,Food,473
+restaurant,49.286957,-123.141975,The Blind Sparrow,Food,474
+restaurant,49.292236,-123.134674,Ciao Bella Restaurant,Food,475
+cafe,49.290237,-123.13757,Blenz Coffee,Food,476
+cafe,49.290417,-123.137276,Hui Lau Shan,Food,477
+restaurant,49.290627,-123.13697,Damso Restaurant,Food,478
+restaurant,49.290775,-123.13674,Khaghan Restaurant,Food,479
+restaurant,49.283813,-123.10661,The Flying Pig Gastown,Food,480
+restaurant,49.31,-123.08204,The Fried Chicken Works Korean,Food,481
+bar,49.310074,-123.08252,Green Leaf Brewing,Nightlife,482
+restaurant,49.31215,-123.077034,Maru Korean Bistro,Food,483
+restaurant,49.31185,-123.076485,South Castle Korean Restaurant,Food,484
+restaurant,49.283146,-123.103035,Rodney's Oyster House,Food,485
+restaurant,49.288876,-123.13173,Sura Korean,Food,486
+restaurant,49.289906,-123.13331,Hongdae Pocha Korean,Food,487
+bicycle_rental,49.267876,-123.145805,Burrard & 4th,Transportation,488
+fast_food,49.283337,-123.11743,Opa! Of Greece,Food,489
+restaurant,49.261623,-123.13807,Vij's,Food,490
+restaurant,49.263443,-123.13996,Liquids + Solids,Food,491
+library,49.262814,-123.137505,Firehall Branch,Leisure,492
+bureau_de_change,49.26305,-123.138435,Vancouver Bullion & Currency Exchange,Business,493
+fast_food,49.230812,-123.090805,Little Caesars,Food,494
+restaurant,49.240147,-123.06493,Indian Bay Leaf,Food,495
+fast_food,49.27408,-123.12138,Loving Hut Express food van,Food,496
+place_of_worship,49.27041,-123.069016,Chinese Grace Mennonite Church,Attraction,497
+restaurant,49.253994,-123.23535,Togo Sushi,Food,498
+cafe,49.284603,-123.124596,Starbucks,Food,499
+bicycle_rental,49.28867,-123.11821,Shaw Tower,Transportation,500
+bicycle_rental,49.282043,-123.13304,Bute & Davie,Transportation,501
+cafe,49.268764,-123.1838,Aphrodite's Organic Cafe,Food,502
+cafe,49.268463,-123.185455,Blenz Coffee,Food,503
+bar,49.246853,-123.100914,The Shameful Tiki,Nightlife,504
+restaurant,49.260845,-123.10081,Lucy's Eastside Diner,Food,505
+restaurant,49.210636,-123.09221,Panos,Food,506
+restaurant,49.273277,-123.11967,Provence Marinaside,Food,507
+bank,49.20877,-123.14086,RBC,Business,508
+restaurant,49.286175,-123.116974,The Butcher & Bullock,Food,509
+bar,49.27999,-123.119705,Hollywood North,Nightlife,510
+fast_food,49.277206,-123.12652,Numero Uno Pizza,Food,511
+cafe,49.278957,-123.12122,Starbucks,Food,512
+cafe,49.278385,-123.12205,Nero Belgian Waffle Bar,Food,513
+fast_food,49.277515,-123.12708,Sushi Howe,Food,514
+bar,49.209885,-123.08171,Dogwood Lounge,Nightlife,515
+pub,49.28031,-123.12168,Cinema Public House,Nightlife,516
+restaurant,49.281807,-123.12401,Kamei Baru,Food,517
+fast_food,49.280155,-123.12093,Pizza Garden,Food,518
+restaurant,49.281708,-123.12387,Pacifico,Food,519
+fast_food,49.279446,-123.13002,Donair King,Food,520
+nightclub,49.280144,-123.131355,Playhouse Nightclub,Nightlife,521
+nightclub,49.279385,-123.12991,Celebrities,Nightlife,522
+bar,49.28294,-123.11512,Railway Club,Nightlife,523
+cafe,49.27842,-123.11822,Homer St Cafe and Bar,Food,524
+restaurant,49.2802,-123.13067,Kadoya,Food,525
+fast_food,49.280228,-123.13071,Fat Burger,Food,526
+restaurant,49.288452,-123.13981,Legendary Noodle House,Food,527
+cinema,49.20982,-123.115715,Cineplex Cinemas Marine Gateway and VIP,Leisure,528
+bus_station,49.202934,-123.1336,Marpole Loop,Transportation,529
+cafe,49.282764,-123.11028,Nemesis,Food,530
+cafe,49.29079,-123.13625,True Confections,Food,531
+restaurant,49.263058,-123.11644,Yolks,Food,532
+restaurant,49.290604,-123.13339,Marutama Ra-men,Food,533
+restaurant,49.290195,-123.13382,Snowy Village,Food,534
+restaurant,49.290165,-123.133736,Hokkaido Ramen Santouka,Food,535
+bicycle_rental,49.277233,-123.12964,Drake & Hornby,Transportation,536
+restaurant,49.312397,-123.07787,Meat at O'Neill's,Food,537
+pub,49.275906,-123.1278,Yale Hotel,Nightlife,538
+restaurant,49.264366,-123.06992,Poke Five,Food,539
+cafe,49.274708,-123.06928,Moja Coffee,Food,540
+restaurant,49.2695,-123.107704,The Flying Pig,Food,541
+restaurant,49.287746,-123.12066,Le Petit Crêpe,Food,542
+restaurant,49.288334,-123.1226,Panago Pizza,Food,543
+fast_food,49.287163,-123.11971,Quiznos,Food,544
+restaurant,49.2875,-123.12331,Tableau,Food,545
+restaurant,49.273243,-123.20318,N.S.C.S. Discovery Café,Food,546
+restaurant,49.287285,-123.123566,Domo Sushi,Food,547
+restaurant,49.22939,-123.0905,Pizza Hut,Food,548
+cafe,49.226357,-123.090546,Baker & Table,Food,549
+fast_food,49.231117,-123.09042,Tim Hortons,Food,550
+restaurant,49.290497,-123.134224,J&G Fried Chicken,Food,551
+bank,49.260624,-123.13894,TD Canada Trust,Business,552
+restaurant,49.263226,-123.13339,Denny's,Food,553
+fast_food,49.243473,-123.06217,KFC,Food,554
+bank,49.245564,-123.0655,TD Canada Trust,Business,555
+bank,49.234035,-123.06519,Vancity,Business,556
+restaurant,49.236122,-123.06493,Golden Swan Restaurant,Food,557
+cafe,49.23753,-123.06505,El Caracol Mexican Cafe,Food,558
+restaurant,49.238342,-123.06518,Amay's House,Food,559
+restaurant,49.23384,-123.06568,Shima-Ya,Food,560
+bank,49.22499,-123.05352,Scotiabank,Business,561
+cafe,49.225124,-123.053505,Starbucks,Food,562
+fast_food,49.25816,-123.100945,Papa's Gourmet Pizza,Food,563
+atm,49.258305,-123.10146,CIBC,Business,564
+restaurant,49.257977,-123.101395,Great Han Mongolian BBQ,Food,565
+bank,49.244614,-123.10153,CIBC,Business,566
+restaurant,49.24816,-123.10128,Nam Nam Noodle,Food,567
+restaurant,49.250355,-123.100746,Sun Sui Wah Seafood Restaurant,Food,568
+fast_food,49.23252,-123.0901,Church's Chicken,Food,569
+bank,49.22565,-123.09111,TD Canada Trust,Business,570
+bank,49.22533,-123.090965,RBC,Business,571
+cafe,49.28823,-123.12334,Waves Coffee House,Food,572
+cafe,49.204056,-123.13498,Wick's Cafe,Food,573
+fast_food,49.27926,-123.10743,Uncle Fatih's Pizza,Food,574
+fast_food,49.27935,-123.107834,Freshslice,Food,575
+fast_food,49.279114,-123.10742,Something Healthy,Food,576
+cafe,49.279938,-123.10735,Starbucks,Food,577
+library,49.2295,-123.0904,Vancouver Public Library South Hill Branch,Leisure,578
+bank,49.228184,-123.09043,CIBC,Business,579
+bank,49.227524,-123.09043,Vancity,Business,580
+fast_food,49.228405,-123.09082,Subway,Food,581
+restaurant,49.22997,-123.090836,Good Choice Restaurant,Food,582
+bank,49.2256,-123.09055,Scotiabank,Business,583
+fast_food,49.28083,-123.04525,Dijo's Pizza,Food,584
+restaurant,49.280827,-123.04551,Phở Don,Food,585
+fast_food,49.280823,-123.04572,Subway,Food,586
+restaurant,49.280827,-123.045784,Blowfish Sushi,Food,587
+restaurant,49.259937,-123.07003,Naruto Sushi,Food,588
+pub,49.281334,-123.04544,PressBox Pub,Nightlife,589
+bicycle_rental,49.27138,-123.06935,Grant & Commercial,Transportation,590
+bicycle_rental,49.264103,-123.0707,Grandview Bike Lane & Commercial,Transportation,591
+bicycle_rental,49.273064,-123.06986,Charles & Commercial,Transportation,592
+bicycle_rental,49.26696,-123.070045,4th & Commercial,Transportation,593
+bicycle_rental,49.261414,-123.07016,10th & Commercial,Transportation,594
+bicycle_rental,49.27488,-123.06929,Napier & Commercial,Transportation,595
+bicycle_rental,49.26862,-123.07005,2nd & Commercial,Transportation,596
+bicycle_rental,49.26323,-123.07048,8th & Commercial,Transportation,597
+bar,49.276913,-123.08059,Luppolo Tasting Room,Nightlife,598
+bank,49.20562,-123.03089,Westminster Savings,Business,599
+fast_food,49.21953,-123.04082,Little Caesars,Food,600
+restaurant,49.21932,-123.041084,54th Ave Cafe,Food,601
+restaurant,49.268764,-123.18535,La Quercia,Food,602
+cafe,49.27468,-123.06987,Sweet Cherubim,Food,603
+restaurant,49.274174,-123.0697,Truong Thanh,Food,604
+restaurant,49.272022,-123.069405,Marcello Woodfire Pizza Oven,Food,605
+restaurant,49.272026,-123.06975,Cafe Phin Phap,Food,606
+restaurant,49.27177,-123.069756,Donair Town,Food,607
+restaurant,49.27186,-123.069756,Soly's Pizza,Food,608
+restaurant,49.271812,-123.069756,Hinn Ramen,Food,609
+restaurant,49.27173,-123.069756,Ginger Sushi,Food,610
+restaurant,49.27164,-123.069756,Tatsu Japanese Bistro,Food,611
+restaurant,49.271687,-123.069756,Tandoori Palace,Food,612
+restaurant,49.27194,-123.06941,Harbour Oyster + Bar,Food,613
+restaurant,49.27189,-123.06941,Sake Maki Sushi,Food,614
+restaurant,49.262638,-123.08941,Ba Le Deli & Bakery,Food,615
+restaurant,49.242493,-123.05984,Sushi by Yuji,Food,616
+cafe,49.25002,-123.076324,Pallet Coffee Roasters,Food,617
+bank,49.253506,-123.08261,Sharons,Business,618
+fast_food,49.262627,-123.08746,KFC,Food,619
+restaurant,49.232204,-123.02944,Dragon Crepe,Food,620
+cafe,49.235313,-123.03812,Metro Cafe Bar,Food,621
+restaurant,49.2446,-123.06436,The Tipper,Food,622
+cafe,49.257145,-123.120255,Tandem Bike Cafe,Food,623
+fast_food,49.27236,-123.06932,Rosemary Bagels,Food,624
+bar,49.27951,-123.12044,Uva,Nightlife,625
+restaurant,49.26987,-123.04399,Rib & Chicken,Food,626
+pub,49.267357,-123.111046,Big Rock Urban Eatery,Nightlife,627
+restaurant,49.27993,-123.12757,Burgoo,Food,628
+bar,49.27676,-123.12015,Fayuca,Nightlife,629
+restaurant,49.276627,-123.11989,Pierre's,Food,630
+restaurant,49.276127,-123.120605,Wild Tale,Food,631
+restaurant,49.239285,-123.05278,Andamiro Korean Bistro,Food,632
+restaurant,49.2251,-123.10143,All India Sweets & Restaurant,Food,633
+restaurant,49.22481,-123.10187,Himalaya Restaurant,Food,634
+cafe,49.28024,-123.12326,Railtown Cafe,Food,635
+bank,49.24921,-123.11512,Scotiabank,Business,636
+restaurant,49.279816,-123.123634,Freshii,Food,637
+pub,49.28356,-123.10388,The Portside Pub,Nightlife,638
+restaurant,49.238216,-123.03214,Milk & Sugar BBQ Bar,Food,639
+restaurant,49.281013,-123.056305,Thailicious,Food,640
+restaurant,49.232796,-123.034805,Wang's Shanghai Cuisine,Food,641
+restaurant,49.27371,-123.123474,Ki Isu Japanese Restaurant,Food,642
+restaurant,49.273777,-123.12322,Little Saigon Yaletown,Food,643
+pub,49.271755,-123.106064,Tap & Barrel,Nightlife,644
+restaurant,49.2873,-123.12839,Koyuki Sapporo Ramen,Food,645
+cafe,49.20937,-123.11653,Starbucks,Food,646
+fast_food,49.20947,-123.1165,Subway,Food,647
+bank,49.210045,-123.11659,CIBC Branch & ATM,Business,648
+restaurant,49.210155,-123.11616,Pink Elephant Thai Restaurant,Food,649
+bank,49.20957,-123.11652,BMO,Business,650
+bank,49.21009,-123.116165,TD Canada Trust,Business,651
+cafe,49.26702,-123.14512,Elysian Coffee Roasters,Food,652
+restaurant,49.271156,-123.13581,The Keg,Food,653
+restaurant,49.270638,-123.13665,The Vancouver Fish Company,Food,654
+restaurant,49.270744,-123.136375,Tony's Fish and Oyster Café,Food,655
+restaurant,49.27198,-123.13401,The Sandbar,Food,656
+cafe,49.28593,-123.11828,Blenz Coffee,Food,657
+restaurant,49.27565,-123.20175,The Galley Restaurant and Grill,Food,658
+bank,49.28593,-123.11939,BMO Bank of Montreal,Business,659
+cafe,49.287365,-123.12879,Bubble World Tea House,Food,660
+bank,49.286274,-123.1271,Scotiabank,Business,661
+bicycle_rental,49.28027,-123.09709,Pender & Gore,Transportation,662
+bicycle_rental,49.280643,-123.08475,Campbell & Hastings,Transportation,663
+bicycle_rental,49.273117,-123.07318,Charles & Woodland,Transportation,664
+bicycle_rental,49.266678,-123.07347,Woodland & 4th,Transportation,665
+bicycle_rental,49.264435,-123.08514,St Catherines & 7th,Transportation,666
+bicycle_rental,49.263523,-123.09563,8th & Prince Edward,Transportation,667
+bicycle_rental,49.26739,-123.09077,Carolina & Great Northern Way,Transportation,668
+bicycle_rental,49.25469,-123.10133,18th & Main,Transportation,669
+bicycle_rental,49.25878,-123.12711,14th & Oak,Transportation,670
+bicycle_rental,49.287636,-123.12722,Alberni & Jervis,Transportation,671
+car_sharing,49.27451,-123.11636,Zipcar,Transportation,672
+car_sharing,49.26954,-123.103516,Zipcar,Transportation,673
+restaurant,49.26621,-123.24772,Bao Down,Food,674
+ice_cream,49.312233,-123.07996,Earnest Ice Cream,Food,675
+ice_cream,49.279587,-123.074936,Earnest Ice Cream,Food,676
+restaurant,49.24945,-123.08988,Nammos Estiatorio,Food,677
+restaurant,49.249866,-123.08987,Good Sushi,Food,678
+restaurant,49.249763,-123.089874,Penang Bistro,Food,679
+restaurant,49.249653,-123.08988,Royal Fortune Szechuan Restaurant,Food,680
+fast_food,49.248497,-123.08994,Subway,Food,681
+restaurant,49.247738,-123.09037,Yummy Fat's,Food,682
+cafe,49.247456,-123.090004,Prado Cafe,Food,683
+cafe,49.246693,-123.090355,JJ Bean Coffee Roasters,Food,684
+library,49.28098,-123.08886,Vancouver Public Library - nə́c̓aʔmat ct Strathcona Branch,Leisure,685
+cafe,49.288258,-123.140594,Delanys Coffee,Food,686
+restaurant,49.288345,-123.14046,Fatburger,Food,687
+restaurant,49.288544,-123.140144,Akira,Food,688
+cafe,49.288937,-123.13953,Cacao 70,Food,689
+bank,49.288834,-123.1392,HSBC,Business,690
+fast_food,49.288944,-123.139015,Burger King,Food,691
+cafe,49.232735,-123.02374,iGame Arena,Food,692
+restaurant,49.232178,-123.030106,Sing Kee Restaurant,Food,693
+cafe,49.232048,-123.026276,Sugar Loop by Westcoast Darts Cafe,Food,694
+restaurant,49.23206,-123.02608,Icy Bar,Food,695
+bank,49.26349,-123.11524,RBC,Business,696
+fast_food,49.206074,-123.12551,McDonald's,Food,697
+restaurant,49.23022,-123.09083,Angel Cafe,Food,698
+bank,49.230495,-123.09081,Khalsa Credit Union,Business,699
+cafe,49.232197,-123.09039,Boba Monster,Food,700
+cafe,49.232258,-123.09039,Green Leaf Bubble Tea,Food,701
+restaurant,49.225258,-123.090385,Sushi Moon,Food,702
+cafe,49.22515,-123.09047,Starbucks,Food,703
+restaurant,49.224846,-123.09098,Shoom Restaurant,Food,704
+restaurant,49.22466,-123.09098,Yu Xiang Yuan Restaurant,Food,705
+restaurant,49.226204,-123.090546,Samurai Sushi on Fraser,Food,706
+bank,49.22612,-123.090935,State Bank of India,Business,707
+bank,49.226624,-123.09091,BMO,Business,708
+bank,49.226902,-123.09091,HSBC,Business,709
+restaurant,49.227688,-123.09049,Deer Garden Signatures,Food,710
+restaurant,49.227962,-123.09049,Ho Yuen Kee Restaurant,Food,711
+restaurant,49.229275,-123.09048,Dockers Family Restaurant,Food,712
+ice_cream,49.24075,-123.10168,Innocent Ice Cream,Food,713
+restaurant,49.241188,-123.101654,Sushi Hub,Food,714
+restaurant,49.243412,-123.10119,Pho Tan Restaurant,Food,715
+restaurant,49.244602,-123.101105,King's Chinese Cuisine,Food,716
+restaurant,49.245865,-123.10144,Dream Sushi,Food,717
+restaurant,49.257008,-123.114815,Nabebugyo Hot Pot Cuisine,Food,718
+cafe,49.25052,-123.07645,Falafel Cafe,Food,719
+restaurant,49.250736,-123.07682,Sun Bo Kong Vegetarian Restaurant,Food,720
+restaurant,49.251183,-123.07843,Grace of India,Food,721
+fast_food,49.251064,-123.07868,Domino's,Food,722
+restaurant,49.25118,-123.07892,Hai Phong Vietnamese Restaurant,Food,723
+restaurant,49.25165,-123.07962,Hoy's Wonton House,Food,724
+cafe,49.254284,-123.08503,BT Cafe,Food,725
+restaurant,49.25739,-123.09091,Osteria Savio Volpe,Food,726
+restaurant,49.257427,-123.09107,Los Cuervos Taqueria & Cantina,Food,727
+restaurant,49.257267,-123.08988,The Lion's Den Cafe,Food,728
+cafe,49.257286,-123.09013,Matchstick Coffee Roasters,Food,729
+library,49.23329,-123.15613,Vancouver Public Library Kerrisdale Branch,Leisure,730
+cafe,49.21051,-123.1069,Starbucks,Food,731
+restaurant,49.286667,-123.11834,JOEY Bentall One,Food,732
+restaurant,49.245747,-123.066025,Viva Sushi Bar,Food,733
+restaurant,49.24732,-123.06944,Jarrito Loco Tacos,Food,734
+restaurant,49.247276,-123.069336,My Chau Restaurant,Food,735
+restaurant,49.249367,-123.07635,J.R Taste Of Ceylon,Food,736
+restaurant,49.249653,-123.07633,Knight Street Cafe,Food,737
+restaurant,49.249317,-123.07363,Pink Peppercorn Seafood House,Food,738
+restaurant,49.249397,-123.07392,Icy Bar,Food,739
+fast_food,49.231434,-123.03164,Panago Pizza,Food,740
+cafe,49.28056,-123.116905,Cafe Medina,Food,741
+bar,49.279057,-123.12303,The Belmont,Nightlife,742
+cafe,49.28094,-123.12691,Beyond Coffee,Food,743
+fast_food,49.278908,-123.12218,Uncle Fatih's Pizza,Food,744
+restaurant,49.28102,-123.118996,Meat & Bread,Food,745
+fast_food,49.28055,-123.12137,McDonald's,Food,746
+restaurant,49.280964,-123.11892,Aladdin Cafe,Food,747
+fast_food,49.28109,-123.119095,Five Guys,Food,748
+restaurant,49.26163,-123.07002,Commercial Sushi,Food,749
+restaurant,49.280067,-123.10853,Pizzeria Ludica,Food,750
+restaurant,49.279625,-123.108604,Hai Phong,Food,751
+restaurant,49.280895,-123.10784,Tsuki Sushi Bar,Food,752
+fast_food,49.261684,-123.07003,Subway,Food,753
+cafe,49.26256,-123.06953,Blenz Coffee,Food,754
+cafe,49.28003,-123.10866,Brothers,Food,755
+restaurant,49.28079,-123.107834,Taishoken,Food,756
+cafe,49.280582,-123.10283,Musette Caffè,Food,757
+fast_food,49.28315,-123.11542,A&W,Food,758
+restaurant,49.281075,-123.11858,Ryuu,Food,759
+car_rental,49.281414,-123.11612,Pacific Car Rentals,Transportation,760
+cafe,49.282047,-123.118484,Starbucks,Food,761
+nightclub,49.27729,-123.125725,Aura,Nightlife,762
+cafe,49.28278,-123.111664,Finch's,Food,763
+fast_food,49.27929,-123.122665,Hungry Guys,Food,764
+restaurant,49.277416,-123.125534,Wings,Food,765
+cafe,49.272583,-123.147995,Juliet's Cafe,Food,766
+fast_food,49.272594,-123.14848,Flying Wedge Pizza,Food,767
+fast_food,49.272583,-123.148705,Planet Veg,Food,768
+fast_food,49.272587,-123.148315,Vera's Burger Shack,Food,769
+cafe,49.272583,-123.14861,Panne Rizo,Food,770
+cafe,49.27259,-123.14889,Bean Around the World,Food,771
+fast_food,49.272583,-123.14856,Al Basha,Food,772
+pub,49.27259,-123.14879,Corduroy,Nightlife,773
+restaurant,49.27261,-123.14914,Charqui Grill,Food,774
+fast_food,49.272705,-123.14729,Siegel's Bagels,Food,775
+restaurant,49.27248,-123.15455,Thai Basil,Food,776
+cafe,49.27331,-123.11993,Starbucks,Food,777
+pub,49.28487,-123.110985,Steamworks,Nightlife,778
+bank,49.282,-123.117744,Scotiabank,Business,779
+cafe,49.29084,-123.13421,YiFang Taiwan Fruit Tea,Food,780
+bank,49.291275,-123.1354,Vancity,Business,781
+restaurant,49.260902,-123.1392,Heirloom,Food,782
+restaurant,49.23391,-123.15367,Ajisai Sushi Bar,Food,783
+place_of_worship,49.258247,-123.139656,Pentecostal Tabernacle,Attraction,784
+fast_food,49.272316,-123.15517,Nimby Burger,Food,785
+pub,49.272446,-123.15531,Local Public Eatery,Nightlife,786
+pub,49.271603,-123.15535,The Ellis,Nightlife,787
+nightclub,49.280556,-123.1208,Bottleneck,Nightlife,788
+fast_food,49.235252,-123.15574,Subway,Food,789
+cafe,49.23546,-123.15609,Secret Garden Tea Company,Food,790
+restaurant,49.236008,-123.15569,China Lan Lanzhou Beef Noodle,Food,791
+restaurant,49.237656,-123.15564,White Spot,Food,792
+restaurant,49.237453,-123.15563,Bufala,Food,793
+cafe,49.23795,-123.15561,Comebuy Bubble Tea,Food,794
+restaurant,49.237797,-123.15564,Sushi King House,Food,795
+restaurant,49.234695,-123.15644,Jinya Ramen Bar,Food,796
+cafe,49.234497,-123.15732,Caffè Artigiano,Food,797
+cafe,49.23447,-123.15936,Legato Cafe,Food,798
+restaurant,49.234768,-123.16166,Minerva,Food,799
+cafe,49.23507,-123.161514,One Bowl,Food,800
+restaurant,49.234375,-123.16151,Jin Jiang Japanese Restaurant,Food,801
+restaurant,49.234535,-123.1619,Lok's Chinese Restaurant,Food,802
+cafe,49.234478,-123.16059,Starbucks,Food,803
+restaurant,49.236267,-123.18511,Moki's Pizza,Food,804
+restaurant,49.257767,-123.18572,Dunbar Sushi,Food,805
+restaurant,49.264526,-123.18458,Taste of Thai,Food,806
+restaurant,49.26366,-123.1871,Rajio Japanese Public House,Food,807
+cafe,49.263382,-123.18665,NOURISH,Food,808
+fast_food,49.263878,-123.205,Subway,Food,809
+restaurant,49.263897,-123.205894,Enigma Urban Eatery & Bar,Food,810
+cafe,49.263924,-123.20618,Tim Hortons,Food,811
+restaurant,49.263935,-123.20639,Ginger & Chili,Food,812
+cafe,49.263668,-123.205185,Figaro Café + Bakery,Food,813
+restaurant,49.263695,-123.20677,Takumi Japanese Restaurant,Food,814
+restaurant,49.26367,-123.20716,Burgoo,Food,815
+restaurant,49.263462,-123.208916,The Kitchen,Food,816
+restaurant,49.263744,-123.21041,Pizza Hut,Food,817
+restaurant,49.263714,-123.210846,The Diner,Food,818
+cafe,49.263683,-123.20819,Darcy's Cafe,Food,819
+restaurant,49.263702,-123.2077,Dentry's Irish Grill,Food,820
+restaurant,49.263924,-123.20735,DoDo Sushi,Food,821
+restaurant,49.25042,-123.03404,Lucky Plus Restaurant,Food,822
+restaurant,49.262127,-123.029625,Happy Valley Dim Sum Seafood Restaurant,Food,823
+fast_food,49.263046,-123.11597,Chipotle,Food,824
+cafe,49.288757,-123.11509,Bellaggio Café & Gelateria,Food,825
+fast_food,49.260853,-123.116165,A&W,Food,826
+restaurant,49.271027,-123.1467,Blue Sky Japanese Bistro Ltd,Food,827
+bicycle_rental,49.2782,-123.13695,Aquatic Centre,Transportation,828
+bicycle_rental,49.266315,-123.116104,Olympic Village Station,Transportation,829
+bicycle_rental,49.263546,-123.14808,Cypress & Broadway,Transportation,830
+restaurant,49.278603,-123.11846,Per Se Social Corner,Food,831
+restaurant,49.27648,-123.11489,On Yogurt,Food,832
+fast_food,49.280643,-123.13128,Fit Camp Foods,Food,833
+cafe,49.2885,-123.13917,3 Quarters Full Cafe,Food,834
+restaurant,49.290565,-123.137054,Kingyo,Food,835
+marketplace,49.273773,-123.09871,Main St. Station Farmers Market,Leisure,836
+bus_station,49.273907,-123.096855,Vancouver Main Terminal,Transportation,837
+pub,49.27829,-123.12419,Donnelan's,Nightlife,838
+bank,49.234497,-123.13929,HSBC,Business,839
+restaurant,49.23414,-123.13994,Grand Honour,Food,840
+cafe,49.28502,-123.11459,Quantum Coffee,Food,841
+bank,49.27737,-123.11979,RBC,Business,842
+pub,49.282406,-123.111145,The Magnet,Nightlife,843
+restaurant,49.282597,-123.11195,Osteria Autostrada,Food,844
+restaurant,49.281834,-123.12341,Boston Pizza,Food,845
+cafe,49.2787,-123.1302,Maple Leaf Delicatessen Coffe Shop,Food,846
+courthouse,49.28108,-123.12318,Court of Appeal & Supreme Court,Business,847
+courthouse,49.28136,-123.122795,Provincial Court of British Columbia,Business,848
+restaurant,49.28201,-123.12297,Hubbub,Food,849
+fast_food,49.28076,-123.124886,Sushi Maki,Food,850
+bank,49.28977,-123.13781,Bank of Montreal,Business,851
+restaurant,49.291775,-123.13837,Adesso,Food,852
+cafe,49.291653,-123.13545,Starbucks,Food,853
+restaurant,49.29181,-123.13519,Tetsu Sushi Bar,Food,854
+bar,49.288578,-123.14265,Sylvia's Bar,Nightlife,855
+restaurant,49.263405,-123.18728,Sushi Gallery,Food,856
+restaurant,49.264183,-123.18405,Handi,Food,857
+restaurant,49.26405,-123.17506,Cafe D'Lite,Food,858
+pub,49.26404,-123.174706,Fringe,Nightlife,859
+restaurant,49.264053,-123.17483,Ramen Sanpachi,Food,860
+restaurant,49.263737,-123.21014,Gold Train Express,Food,861
+restaurant,49.26403,-123.17452,nuba,Food,862
+cafe,49.264015,-123.17336,Neverland Tea Salon,Food,863
+spa,49.263992,-123.17181,Footworks Relaxology,Leisure,864
+restaurant,49.263973,-123.17115,Acropol Taverna,Food,865
+fast_food,49.263977,-123.17135,Quiznos,Food,866
+restaurant,49.26395,-123.169525,Tandoori Fusion,Food,867
+pub,49.263954,-123.16962,Yagger's Kits,Nightlife,868
+fast_food,49.263935,-123.16782,Uncle Faith's Pizza,Food,869
+restaurant,49.26393,-123.16761,iki Japanese Bistro,Food,870
+fast_food,49.263233,-123.13646,Bella Pizza,Food,871
+cafe,49.263256,-123.12764,Barista Cafe,Food,872
+restaurant,49.263313,-123.129166,Shi Zen ha,Food,873
+fast_food,49.263245,-123.12554,Subway,Food,874
+restaurant,49.26322,-123.125244,Pondok,Food,875
+restaurant,49.26318,-123.12215,Donair Spot,Food,876
+fast_food,49.262833,-123.103226,Subway,Food,877
+fast_food,49.262554,-123.06937,A&W,Food,878
+fast_food,49.262875,-123.06953,Booster Juice,Food,879
+restaurant,49.262672,-123.06937,Neptune Express,Food,880
+fast_food,49.2628,-123.06936,Megabite Pizza,Food,881
+bank,49.26251,-123.06994,Scotiabank,Business,882
+fast_food,49.23832,-123.03232,Super Great Pizza,Food,883
+bicycle_rental,49.290417,-123.125854,Coal Harbour Community Centre,Transportation,884
+bicycle_rental,49.25895,-123.15261,Arbutus Greenway & 14th,Transportation,885
+bicycle_rental,49.2585,-123.10481,14th & Ontario,Transportation,886
+fast_food,49.226673,-123.09052,Freshslice Pizza,Food,887
+cafe,49.231716,-123.090416,L & G Bubble Tea,Food,888
+restaurant,49.226906,-123.09054,Pho Hong Restaurant,Food,889
+fast_food,49.211094,-123.14071,Subway,Food,890
+pub,49.280243,-123.12506,Relish,Nightlife,891
+fast_food,49.280792,-123.119194,Red Burrito,Food,892
+restaurant,49.28011,-123.125114,Gyu-Kaku,Food,893
+cafe,49.28178,-123.11175,Java Cat,Food,894
+pub,49.280033,-123.114685,Library Square Public House,Nightlife,895
+bar,49.25902,-123.10084,Colony,Nightlife,896
+restaurant,49.27772,-123.12678,Rorimomo,Food,897
+cafe,49.277782,-123.126854,Truffles,Food,898
+cafe,49.28382,-123.111885,Waves Coffee,Food,899
+bureau_de_change,49.278126,-123.12735,Javan Exchange,Business,900
+restaurant,49.268475,-123.16712,The Oakwood,Food,901
+bureau_de_change,49.28567,-123.12616,Currency Exchange,Business,902
+fast_food,49.28337,-123.11455,Peqish,Food,903
+fast_food,49.284554,-123.11333,Kita no Donburi,Food,904
+fast_food,49.283497,-123.1149,Pizza Vancouver,Food,905
+bank,49.284775,-123.12205,CIBC,Business,906
+restaurant,49.284798,-123.124306,Sushi Yan,Food,907
+restaurant,49.28385,-123.114365,Chihuahua's,Food,908
+cafe,49.284626,-123.12184,Starbucks,Food,909
+fast_food,49.282623,-123.109344,Meat & Bread,Food,910
+fast_food,49.282715,-123.109314,Fresh Bowl,Food,911
+bicycle_rental,49.268375,-123.15743,Vine & 4th,Transportation,912
+bicycle_rental,49.282734,-123.12206,Robson & Hornby,Transportation,913
+bicycle_rental,49.26712,-123.109375,Columbia & 4th,Transportation,914
+pub,49.270943,-123.15521,Chewies,Nightlife,915
+bicycle_rental,49.267235,-123.15318,5th & Arbutus,Transportation,916
+restaurant,49.253128,-123.08311,Dai Tung,Food,917
+cafe,49.283318,-123.1191,Cafe Bel,Food,918
+ice_cream,49.264267,-123.17185,I.ce Queen,Food,919
+restaurant,49.264267,-123.1718,Pokay,Food,920
+restaurant,49.264263,-123.171745,Harvest Delicatessen,Food,921
+restaurant,49.26426,-123.17169,TeraVBurger,Food,922
+bank,49.28598,-123.11893,Banque Nacionale Canada,Business,923
+restaurant,49.23367,-123.034546,Sushi Aji,Food,924
+restaurant,49.23189,-123.02888,Happy Tree House BBQ,Food,925
+cafe,49.269,-123.04452,My Frosty,Food,926
+restaurant,49.268417,-123.044464,Jiro Sushi & Ramen,Food,927
+cafe,49.263454,-123.14077,Trees Organic,Food,928
+cafe,49.263622,-123.15029,Blenz Coffee,Food,929
+restaurant,49.263645,-123.15342,Gyo Para -Gyoza and Ramen Paradise,Food,930
+cafe,49.26418,-123.15747,Hearts & Vine Cafe,Food,931
+pub,49.264046,-123.15677,The Regal Beagle,Nightlife,932
+cafe,49.264282,-123.18609,Good Earth Coffeehouse,Food,933
+bank,49.266,-123.24611,Scotiabank,Business,934
+cafe,49.265217,-123.250786,Starbucks,Food,935
+cafe,49.265972,-123.25002,Loafe,Food,936
+cafe,49.266,-123.246346,The Boulevard Coffee Roasting Co.,Food,937
+cafe,49.267864,-123.15735,Kokomo,Food,938
+restaurant,49.26371,-123.154686,Yagoto Sushi Dining,Food,939
+cafe,49.263763,-123.15734,IGA Bistro,Food,940
+restaurant,49.262867,-123.05692,Phoenix Garden,Food,941
+bicycle_rental,49.286057,-123.12419,Georgia & Thurlow,Transportation,942
+cafe,49.28478,-123.12277,Thierry,Food,943
+restaurant,49.283195,-123.09492,The MacKenzie Room,Food,944
+restaurant,49.250927,-123.07716,Dosa Factory,Food,945
+restaurant,49.275616,-123.11517,Fresh Japanese Restaurant,Food,946
+cafe,49.22743,-123.11683,Chatime,Food,947
+pub,49.26882,-123.09675,Truck Stop Diner,Nightlife,948
+fast_food,49.289673,-123.13844,Yeh!,Food,949
+fast_food,49.28961,-123.138535,A&W,Food,950
+fast_food,49.289715,-123.13838,Peaked Pies,Food,951
+fast_food,49.289757,-123.13833,Panago,Food,952
+cafe,49.289387,-123.13886,Tim Hortons,Food,953
+restaurant,49.2623,-123.095856,Carp,Food,954
+restaurant,49.31015,-123.08289,Little Tokyo Sushi,Food,955
+cafe,49.31008,-123.08318,Starbucks,Food,956
+cafe,49.31007,-123.08298,The Coffee Bun,Food,957
+car_sharing,49.288116,-123.140785,Zipcar,Transportation,958
+cafe,49.28172,-123.116554,Nosherie,Food,959
+cafe,49.23952,-123.128654,Truffles Café,Food,960
+restaurant,49.238655,-123.12982,Shaughnessy Restaurant,Food,961
+ice_cream,49.27361,-123.11851,Bella Gelateria,Food,962
+restaurant,49.279934,-123.13025,Banana Leaf,Food,963
+bar,49.282883,-123.10379,Shebeen Whiskey House,Nightlife,964
+restaurant,49.277573,-123.13185,Osaka Sushi,Food,965
+pub,49.28289,-123.10409,Irish Heather,Nightlife,966
+restaurant,49.28285,-123.11586,Gotham,Food,967
+fountain,49.2972,-123.13399,Queen Victoria Memorial Fountain,Attraction,968
+bicycle_rental,49.2832,-123.12048,Vancouver Art Gallery - North Plaza,Transportation,969
+bicycle_rental,49.270924,-123.12599,David Lam Park - West,Transportation,970
+restaurant,49.263596,-123.12813,Kaya Malay Bistro,Food,971
+cafe,49.2551,-123.115364,JJ Bean,Food,972
+ice_cream,49.255142,-123.11489,Rain or Shine Ice Cream,Food,973
+ferry_terminal,49.270485,-123.12519,David Lam Park Terminal,Transportation,974
+ferry_terminal,49.272484,-123.13394,Granville Island Terminal (Aquabus),Transportation,975
+ferry_terminal,49.26942,-123.11876,Stamps Landing Dock,Transportation,976
+ferry_terminal,49.27101,-123.11551,Spyglass Dock,Transportation,977
+bicycle_rental,49.29791,-123.13072,Stanley Park - Information Booth,Transportation,978
+bicycle_rental,49.298656,-123.12121,Stanley Park - Totem Poles,Transportation,979
+bicycle_rental,49.299255,-123.130325,Stanley Park - Vancouver Aquarium,Transportation,980
+bicycle_rental,49.294315,-123.14871,Stanley Park - Second Beach South,Transportation,981
+bicycle_rental,49.295338,-123.15047,Stanley Park - Second Beach North,Transportation,982
+restaurant,49.287064,-123.11283,Miku,Food,983
+fast_food,49.27825,-123.12182,24 Train Express Noodle House,Food,984
+nightclub,49.278522,-123.12385,Encore,Nightlife,985
+fast_food,49.282055,-123.13357,La Belle Patate,Food,986
+restaurant,49.281208,-123.13197,Gurkha Himalayan Kitchen,Food,987
+restaurant,49.28202,-123.120445,Bistro Verde,Food,988
+fast_food,49.27956,-123.10784,Sushi Den,Food,989
+fast_food,49.281944,-123.10763,Noodle Box,Food,990
+fast_food,49.28164,-123.10753,Tacomio,Food,991
+bank,49.282177,-123.10735,TD Canada Trust,Business,992
+restaurant,49.28201,-123.10803,Catch 122,Food,993
+cafe,49.281803,-123.10746,Vegan Cave,Food,994
+cafe,49.281902,-123.107506,Nectar,Food,995
+restaurant,49.281994,-123.10797,Wildebeest,Food,996
+cafe,49.281895,-123.107445,Prado,Food,997
+restaurant,49.28153,-123.066055,Pelican Seafood Restaurant,Food,998
+restaurant,49.281353,-123.06002,Van Dragon Seafood Restaurant,Food,999
+restaurant,49.281452,-123.06382,Volcano Sushi & Grill,Food,1000
+cafe,49.286224,-123.11616,Edel Express,Food,1001
+cafe,49.28359,-123.11151,Bonchaz,Food,1002
+cafe,49.285656,-123.11473,Caffè Artigiano,Food,1003
+cafe,49.28451,-123.11437,CoCo Fresh Tea & Juice,Food,1004
+cafe,49.282566,-123.11137,Social Crust,Food,1005
+restaurant,49.283066,-123.112625,Ha Long Bay,Food,1006
+fast_food,49.283833,-123.11331,Kyzock - House of Sushi Bowl,Food,1007
+fast_food,49.283966,-123.11351,Me Crêpes,Food,1008
+fast_food,49.28401,-123.11358,2001 Flavors,Food,1009
+bar,49.2832,-123.112366,Yagger's,Nightlife,1010
+cafe,49.28358,-123.1129,Moii Cafe,Food,1011
+fast_food,49.283634,-123.11303,Koala Kebabs,Food,1012
+fast_food,49.283707,-123.11312,Cham Mani,Food,1013
+restaurant,49.284187,-123.11392,Caveman Cafe,Food,1014
+fast_food,49.283737,-123.11317,Sushi Spin Roll,Food,1015
+fast_food,49.283817,-123.11328,Fresh Slice,Food,1016
+restaurant,49.284042,-123.12216,Salam Bombay,Food,1017
+restaurant,49.283844,-123.10537,The Old Spaghetti Factory,Food,1018
+bank,49.247242,-123.18541,BMO Bank of Montreal,Business,1019
+restaurant,49.269657,-123.102905,Tractor,Food,1020
+cafe,49.269398,-123.10296,Starbucks,Food,1021
+pub,49.269436,-123.10352,Brewhall,Nightlife,1022
+ice_cream,49.269905,-123.103096,Mario's Gelato,Food,1023
+car_sharing,49.278736,-123.13381,Zipcar,Transportation,1024
+cafe,49.261944,-123.103195,The Federal Store,Food,1025
+clock,49.264137,-123.100914,Mount Pleasant Clock,Attraction,1026
+restaurant,49.268124,-123.1017,Nuba,Food,1027
+bicycle_rental,49.26762,-123.12771,South False Creek Seawall,Transportation,1028
+science,49.247234,-123.22942,500MeV Cyclotron,Business,1029
+workshop,49.247135,-123.22844,Detector Facility,Business,1030
+science,49.247334,-123.22904,UCN,Business,1031
+science,49.247925,-123.22951,DRAGON,Business,1032
+science,49.24789,-123.22976,TITAN,Business,1033
+workshop,49.24626,-123.229485,Electronics Assembly,Business,1034
+workshop,49.247513,-123.23045,Scintillator Shop,Business,1035
+restaurant,49.247738,-123.23065,Cafeteria,Food,1036
+science,49.247814,-123.22966,GRIFFIN,Business,1037
+science,49.248352,-123.22899,TIGRESS,Business,1038
+theatre,49.24772,-123.23027,Auditorium,Attraction,1039
+cafe,49.279633,-123.10785,Blenz,Food,1040
+pub,49.281273,-123.10773,The Pint,Nightlife,1041
+cafe,49.28469,-123.06529,JJ Bean,Food,1042
+restaurant,49.26479,-123.228035,Westward Ho,Food,1043
+restaurant,49.26313,-123.22134,Snack shack,Food,1044
+restaurant,49.254074,-123.23593,Virtuous Pie,Food,1045
+nightclub,49.282608,-123.1058,The Bourbon,Nightlife,1046
+restaurant,49.242043,-123.10113,Haiyi Seafood Restaurant,Food,1047
+cafe,49.277744,-123.09808,Harvest Community Foods,Food,1048
+restaurant,49.28028,-123.10125,New Town Bakery & Restaurant,Food,1049
+cafe,49.271435,-123.106834,Terra Breads,Food,1050
+cafe,49.281734,-123.06386,Pallet Coffee Roasters,Food,1051
+cafe,49.2813,-123.057465,platform 7 Coffee,Food,1052
+cafe,49.285046,-123.09544,Railtown Café,Food,1053
+restaurant,49.28433,-123.09552,Belgard Kitchen,Food,1054
+restaurant,49.284184,-123.09774,Ask for Luigi,Food,1055
+cafe,49.28284,-123.08968,Ed’s Daily,Food,1056
+restaurant,49.28525,-123.11864,Rue 909 Sushi,Food,1057
+cafe,49.286087,-123.11633,Tim Hortons,Food,1058
+pub,49.285145,-123.11849,Blackbird,Nightlife,1059
+bar,49.272835,-123.06974,Storm Crow Tavern,Nightlife,1060
+restaurant,49.275543,-123.09961,Bodega,Food,1061
+cafe,49.276886,-123.07543,Take Five,Food,1062
+restaurant,49.27552,-123.099625,Campagnolo,Food,1063
+restaurant,49.276005,-123.099625,Torafuku,Food,1064
+restaurant,49.291855,-123.13461,Motomachi Shokudo,Food,1065
+pub,49.290276,-123.13175,Red Accordion,Nightlife,1066
+fast_food,49.282238,-123.10921,Donair Dude,Food,1067
+cafe,49.283222,-123.115524,Tim Hortons,Food,1068
+cafe,49.28299,-123.115654,Starbucks,Food,1069
+fast_food,49.276665,-123.1272,Subway,Food,1070
+bar,49.2769,-123.126854,The Morrissey,Nightlife,1071
+restaurant,49.2801,-123.11812,Bentoya,Food,1072
+university,49.282402,-123.10855,Simon Fraser University,Attraction,1073
+fast_food,49.282375,-123.10848,Subway,Food,1074
+restaurant,49.28093,-123.12462,Shizen Ya,Food,1075
+restaurant,49.262226,-123.04476,Basil Garden Pho,Food,1076
+restaurant,49.287457,-123.12894,Ramen Danbo,Food,1077
+restaurant,49.268238,-123.186005,Yuji's from Japan,Food,1078
+restaurant,49.282677,-123.10608,Tuc Craft Kitchen,Food,1079
+restaurant,49.287918,-123.140434,Zeitoon,Food,1080
+pub,49.28557,-123.11656,Moose's Down Under,Nightlife,1081
+restaurant,49.25603,-123.11488,Dutch Wooden Shoe Cafe,Food,1082
+restaurant,49.279247,-123.11686,Ebi-Ten,Food,1083
+fast_food,49.28134,-123.13294,Yummy Pizza,Food,1084
+bar,49.281425,-123.133064,The Capital,Nightlife,1085
+fast_food,49.280613,-123.131836,Los Amigos Taqueria,Food,1086
+fast_food,49.28057,-123.13177,Megabite Pizza,Food,1087
+internet_cafe,49.280476,-123.131615,Vista Digital,Leisure,1088
+fast_food,49.28137,-123.132996,Donair Dude,Food,1089
+restaurant,49.249565,-123.10125,The Acorn,Food,1090
+restaurant,49.24992,-123.10124,The Arbor,Food,1091
+bar,49.250683,-123.101204,Portland Craft,Nightlife,1092
+bicycle_rental,49.259254,-123.12009,Heather & 14th,Transportation,1093
+cafe,49.26979,-123.25873,Cafe MOA,Food,1094
+events_venue,49.20951,-123.08449,South Hall Banquet and Wedding Palace,Nightlife,1095
+pub,49.27026,-123.134056,Off the tracks bar & bistro,Nightlife,1096
+bicycle_rental,49.283226,-123.137024,Broughton & Burnaby,Transportation,1097
+bicycle_rental,49.276295,-123.10654,Carrall & Seawall,Transportation,1098
+car_sharing,49.2624,-123.127426,Zipcar,Transportation,1099
+car_sharing,49.28182,-123.11551,Zipcar,Transportation,1100
+restaurant,49.24864,-123.10083,Helen's Grill,Food,1101
+restaurant,49.27665,-123.12567,Manoush’eh,Food,1102
+cafe,49.263718,-123.1087,Milano Cafe,Food,1103
+pub,49.28371,-123.10624,The Lamplighter Public House,Nightlife,1104
+restaurant,49.299667,-123.13385,Stanley's Bar and Grill,Food,1105
+cafe,49.265633,-123.11506,Porto Café,Food,1106
+cafe,49.248543,-123.12663,Starbucks,Food,1107
+restaurant,49.24861,-123.12525,Mandarin Hong Kong Cafe,Food,1108
+restaurant,49.248524,-123.12548,Kim Express,Food,1109
+restaurant,49.248524,-123.125534,City 1 cafe,Food,1110
+fast_food,49.287376,-123.14142,Boaguette Vietnamese Bistro,Food,1111
+place_of_worship,49.24655,-123.1271,Congregation Beth Israel,Attraction,1112
+restaurant,49.246586,-123.10103,Chickpea Restaurant,Food,1113
+restaurant,49.28616,-123.12421,The Keg Steakhouse + Bar Alberni Street,Food,1114
+restaurant,49.28908,-123.13263,Kosoo,Food,1115
+cafe,49.268124,-123.16565,The Only Cafe,Food,1116
+restaurant,49.278442,-123.11433,Black Rice Izakaya,Food,1117
+pub,49.28694,-123.11484,Lions Pub,Nightlife,1118
+bank,49.290062,-123.13786,RBC,Business,1119
+cafe,49.281494,-123.09841,Ovaltine Cafe,Food,1120
+restaurant,49.28232,-123.123955,Sala Thai,Food,1121
+cafe,49.28651,-123.12589,JJ Bean,Food,1122
+restaurant,49.281395,-123.133705,Sushi Bar Maumi,Food,1123
+restaurant,49.284878,-123.124664,Joe Fortes,Food,1124
+cafe,49.285664,-123.12728,Breka Bakery & Café,Food,1125
+marketplace,49.28681,-123.12797,CB2,Leisure,1126
+cafe,49.28682,-123.128525,Cafe Rico,Food,1127
+cafe,49.28704,-123.12832,Tim Hortons,Food,1128
+restaurant,49.28571,-123.12699,Blossom Dim Sum & Grill,Food,1129
+restaurant,49.282967,-123.11057,La Taqueria,Food,1130
+restaurant,49.254158,-123.115005,Sushi 7 Japanese Bar & Grill,Food,1131
+restaurant,49.254265,-123.115005,Soho Tea Room,Food,1132
+bar,49.254353,-123.11499,Kino Cafe Flamenco Tapas Bar,Nightlife,1133
+cinema,49.25447,-123.11499,The Park Theatre,Leisure,1134
+pub,49.255806,-123.11538,Biercraft,Nightlife,1135
+restaurant,49.2603,-123.070015,Jamaican Pizza Jerk,Food,1136
+restaurant,49.25988,-123.07003,Varadero Cafe,Food,1137
+pub,49.305668,-123.034775,Wildeye Tasting Room,Nightlife,1138
+restaurant,49.251934,-123.08035,Kingsway Deli,Food,1139
+restaurant,49.268337,-123.069466,Cannibal Café,Food,1140
+cafe,49.2821,-123.104515,East Van Roasters,Food,1141
+restaurant,49.280956,-123.06123,Vietnam House,Food,1142
+restaurant,49.285084,-123.12592,Zefferelli's Spaghetti Joint,Food,1143
+cafe,49.288567,-123.117714,Starbucks,Food,1144
+restaurant,49.280552,-123.10204,Bestie,Food,1145
+cafe,49.28103,-123.11865,Blenz Coffee,Food,1146
+restaurant,49.280437,-123.1181,Tractor,Food,1147
+restaurant,49.232872,-123.06573,Kokoro Ramen,Food,1148
+cafe,49.2387,-123.05092,Xing Fu Tang,Food,1149
+bicycle_rental,49.26535,-123.14579,Burrard & 7th,Transportation,1150
+bicycle_rental,49.266766,-123.14115,Arbutus & Fir,Transportation,1151
+cafe,49.25934,-123.04459,Tim Hortons,Food,1152
+fast_food,49.277504,-123.22274,Spanish Banks West Concession,Food,1153
+fast_food,49.268475,-123.18597,A&W,Food,1154
+cafe,49.268482,-123.18676,Breka Bakery & Café,Food,1155
+restaurant,49.26847,-123.18532,Irori Sushi,Food,1156
+restaurant,49.26844,-123.18219,Double DD Pizza,Food,1157
+restaurant,49.26825,-123.169044,Linh Café,Food,1158
+restaurant,49.26825,-123.16878,Raviolino,Food,1159
+cafe,49.268253,-123.16778,Nusa Coffee,Food,1160
+restaurant,49.268234,-123.16677,Healthy Noodle House,Food,1161
+restaurant,49.257954,-123.16782,Zest Japanese Cuisine,Food,1162
+ice_cream,49.25797,-123.16798,La Glace,Food,1163
+restaurant,49.24877,-123.18539,Stong's Replenish Cafe,Food,1164
+restaurant,49.248367,-123.18504,Wild Sushi,Food,1165
+restaurant,49.246597,-123.18541,Cosy Inn Cafe,Food,1166
+restaurant,49.246296,-123.185394,The Dunbar Public House,Food,1167
+theatre,49.24558,-123.18545,Dunbar Theatre,Attraction,1168
+restaurant,49.245495,-123.18545,The Cheshire Cheese Inn,Food,1169
+cafe,49.2465,-123.18541,Starbucks,Food,1170
+restaurant,49.246655,-123.18487,Riya's Pizza,Food,1171
+restaurant,49.24699,-123.18507,Sushi Inn,Food,1172
+restaurant,49.246906,-123.18507,Mexicali,Food,1173
+cafe,49.270058,-123.103035,Amato Gelato & Cafè,Food,1174
+cafe,49.23455,-123.036255,COCO Fresh Tea & Juice,Food,1175
+restaurant,49.26648,-123.13867,Cheesecake etc.,Food,1176
+restaurant,49.312202,-123.07896,Buddha-full,Food,1177
+restaurant,49.23496,-123.037186,Jambo Grill,Food,1178
+restaurant,49.2913,-123.134895,Saku,Food,1179
+restaurant,49.2862,-123.126495,Damso,Food,1180
+restaurant,49.278625,-123.11601,Original Joe's,Food,1181
+restaurant,49.278606,-123.11686,Patisserie Fur Elise,Food,1182
+fast_food,49.278503,-123.11563,Subway,Food,1183
+fast_food,49.2786,-123.11581,Russet Shack,Food,1184
+cafe,49.278637,-123.115906,Jenjudan,Food,1185
+restaurant,49.313023,-123.07714,Table153,Food,1186
+fast_food,49.31314,-123.07682,Subway,Food,1187
+cafe,49.28299,-123.09592,HAVE cafe,Food,1188
+bicycle_rental,49.258865,-123.14352,Pine & 14th,Transportation,1189
+bicycle_rental,49.26293,-123.14335,Pine & 10th,Transportation,1190
+bicycle_rental,49.281437,-123.139854,Sunset Beach West,Transportation,1191
+bicycle_rental,49.268284,-123.10255,3rd & Quebec,Transportation,1192
+bicycle_rental,49.263668,-123.15245,Arbutus Greenway & Broadway,Transportation,1193
+restaurant,49.264317,-123.17417,Kitstaya Sushi,Food,1194
+cafe,49.24979,-123.11518,YiFang Taiwan Fruit Tea,Food,1195
+cafe,49.232944,-123.06531,Tim Hortons,Food,1196
+restaurant,49.26852,-123.17069,Bangkok City Cafe,Food,1197
+restaurant,49.26852,-123.17065,Nishi Restaurant,Food,1198
+restaurant,49.26305,-123.112404,Heritage Asian Eatery,Food,1199
+cafe,49.286297,-123.12773,Meet Fresh Robson,Food,1200
+bicycle_rental,49.265175,-123.13101,7th & Alder,Transportation,1201
+bicycle_rental,49.25891,-123.109566,Columbia & 14th,Transportation,1202
+bicycle_rental,49.265045,-123.12377,7th & Laurel,Transportation,1203
+place_of_worship,49.279263,-123.09314,PTT Buddhist Temple,Attraction,1204
+restaurant,49.288483,-123.13975,Gillaneh Restaurant,Food,1205
+restaurant,49.25756,-123.114845,Vij's,Food,1206
+restaurant,49.2782,-123.11335,Frankie’s Italian Kitchen & Bar,Food,1207
+restaurant,49.276257,-123.11554,Pho Khanh,Food,1208
+cafe,49.276165,-123.11571,7Days Coffee,Food,1209
+restaurant,49.262325,-123.09128,Sushi Loku,Food,1210
+fast_food,49.28289,-123.12307,Basil Box,Food,1211
+cafe,49.28504,-123.12057,Starbucks,Food,1212
+restaurant,49.28289,-123.12373,Boulevard Kitchen & Oyster Bar,Food,1213
+fast_food,49.284138,-123.11429,Burger King,Food,1214
+restaurant,49.284267,-123.114426,Gyoza Bar,Food,1215
+fast_food,49.295578,-123.15075,Second Beach Concession,Food,1216
+police,49.276573,-123.12732,Granville Community Policing Centre,Business,1217
+cafe,49.277134,-123.12968,Starbucks,Food,1218
+nightclub,49.278427,-123.122574,The Penthouse,Nightlife,1219
+cinema,49.277016,-123.1249,Vancouver International Film Centre,Leisure,1220
+cafe,49.314873,-123.10056,Thomas Haas Patisserie,Food,1221
+ice_cream,49.263405,-123.11623,Marble Slab Creamery,Food,1222
+restaurant,49.28577,-123.1247,Neptune Chinese Kitchen,Food,1223
+cafe,49.28539,-123.122955,Urban Tea Merchant,Food,1224
+restaurant,49.28566,-123.121086,Victoria Chinese Restaurant,Food,1225
+cafe,49.282078,-123.13407,Ho Ho's Yummy Food,Food,1226
+restaurant,49.282146,-123.133705,Davie Dosa Company,Food,1227
+cafe,49.28213,-123.134155,Sumac Cafe,Food,1228
+restaurant,49.281998,-123.13345,Downtown Sushi Bar,Food,1229
+cafe,49.28225,-123.13434,Melriches Coffee House,Food,1230
+pub,49.28226,-123.133766,Guu Davie,Nightlife,1231
+restaurant,49.28183,-123.133675,Al Basha,Food,1232
+cafe,49.28175,-123.13356,Mary's on Davie,Food,1233
+bar,49.282333,-123.13456,Score,Nightlife,1234
+cafe,49.281963,-123.133385,Blenz Coffee,Food,1235
+nightclub,49.28059,-123.12074,Commodore Ballroom,Nightlife,1236
+bicycle_rental,49.27073,-123.1462,1st & Chestnut,Transportation,1237
+restaurant,49.27066,-123.06938,The Ugly Dumpling,Food,1238
+theatre,49.281242,-123.08589,Red Gate Collective,Attraction,1239
+restaurant,49.27223,-123.15512,Nook,Food,1240
+restaurant,49.27108,-123.15519,Lucky Taco,Food,1241
+fast_food,49.26271,-123.09985,Poké Bar,Food,1242
+restaurant,49.26272,-123.10002,Freshii,Food,1243
+cafe,49.262722,-123.10019,Starbucks,Food,1244
+pub,49.270794,-123.069786,The Dime,Nightlife,1245
+restaurant,49.2709,-123.069786,Arriva Ristorante,Food,1246
+restaurant,49.31487,-123.10108,Yangmara,Food,1247
+boat_rental,49.271706,-123.136635,Vancouver Water Adventures,Transportation,1248
+cafe,49.263866,-123.100685,Gene,Food,1249
+restaurant,49.263035,-123.101204,Bento Box,Food,1250
+restaurant,49.262947,-123.09677,Thai Son,Food,1251
+fast_food,49.26364,-123.1005,Budgies Burritos,Food,1252
+restaurant,49.26359,-123.10157,Nice Cafe,Food,1253
+restaurant,49.262146,-123.100746,Ignite Pizzeria,Food,1254
+library,49.26428,-123.10034,Mount Pleasant Branch,Leisure,1255
+pub,49.257103,-123.10089,Five Point,Nightlife,1256
+cafe,49.25688,-123.10099,Caffè Mira,Food,1257
+restaurant,49.256653,-123.101746,Toshi,Food,1258
+restaurant,49.2558,-123.10156,Public House,Food,1259
+restaurant,49.254974,-123.10087,Anh And Chi,Food,1260
+restaurant,49.255527,-123.10106,Nikkyu Japanese Restaurant,Food,1261
+pub,49.275063,-123.09964,The Ivanhoe,Nightlife,1262
+restaurant,49.27773,-123.09716,Hunnybee Bruncheonette,Food,1263
+cafe,49.277306,-123.086914,Union Market,Food,1264
+restaurant,49.245705,-123.06592,Green Lettuce,Food,1265
+cafe,49.31223,-123.078575,Sweet Art Bakery,Food,1266
+cafe,49.311832,-123.078995,Waves Coffee,Food,1267
+fast_food,49.28093,-123.1323,Pho Goodness,Food,1268
+restaurant,49.263542,-123.1451,Happy Lamp Hot Pot,Food,1269
+restaurant,49.261726,-123.255554,Point Grill,Food,1270
+marketplace,49.250767,-123.237946,UBC Farm Market,Leisure,1271
+cafe,49.25449,-123.23505,Jugo Juice,Food,1272
+pub,49.27839,-123.09958,London Pub,Nightlife,1273
+restaurant,49.278378,-123.09819,Phnom Penh Restaurant,Food,1274
+restaurant,49.253414,-123.08209,Ken's Kitchen,Food,1275
+fast_food,49.26925,-123.14599,Pho Royal,Food,1276
+bank,49.268288,-123.15611,Vancity,Business,1277
+restaurant,49.268055,-123.15583,Simpatico,Food,1278
+cafe,49.268063,-123.1567,Starbucks,Food,1279
+restaurant,49.268116,-123.159584,Peaceful Restaurant,Food,1280
+restaurant,49.268105,-123.15829,Raisu,Food,1281
+bank,49.268116,-123.159424,BMO,Business,1282
+restaurant,49.26815,-123.146324,Pizza Hut,Food,1283
+restaurant,49.268074,-123.15699,Au Comptoir,Food,1284
+restaurant,49.26807,-123.156815,Burgoo,Food,1285
+fast_food,49.268166,-123.146904,MacFalafel,Food,1286
+restaurant,49.268097,-123.15807,Maria's Taverna,Food,1287
+fast_food,49.268356,-123.159515,McDonald's,Food,1288
+cafe,49.269398,-123.14597,WEEDS,Food,1289
+cafe,49.268036,-123.154816,49th Parallel & Lucky's Doughnuts Cafe,Food,1290
+restaurant,49.268196,-123.14846,Spoon Kitchen,Food,1291
+bank,49.268196,-123.1484,TD Canada Trust,Business,1292
+cafe,49.26828,-123.154015,Jam Café,Food,1293
+fast_food,49.26803,-123.15457,Glory Juice,Food,1294
+restaurant,49.26831,-123.15467,Bishop's,Food,1295
+cafe,49.267944,-123.14945,Jitters Cafe,Food,1296
+fast_food,49.267944,-123.14928,Doner Kebab,Food,1297
+restaurant,49.2682,-123.14862,Freshii,Food,1298
+restaurant,49.268272,-123.153694,Connie's Cook House,Food,1299
+restaurant,49.268177,-123.14815,Tractor,Food,1300
+ice_cream,49.267925,-123.14865,Rain or Shine,Food,1301
+fast_food,49.267944,-123.14932,Sejuiced,Food,1302
+restaurant,49.26823,-123.15174,Sushi Nova,Food,1303
+cafe,49.26822,-123.15088,Crêpe Café,Food,1304
+restaurant,49.268234,-123.15184,Nelly's Grill,Food,1305
+restaurant,49.26798,-123.15143,Their There,Food,1306
+restaurant,49.268234,-123.15158,TurF,Food,1307
+bank,49.268005,-123.15259,CIBC,Business,1308
+restaurant,49.273895,-123.132774,Ancora,Food,1309
+restaurant,49.283436,-123.10443,Peckinpah,Food,1310
+restaurant,49.27669,-123.12027,The Parlour,Food,1311
+theatre,49.273766,-123.07525,Electric Company Theatre,Attraction,1312
+restaurant,49.277687,-123.116066,Grounds for Appeal,Food,1313
+fast_food,49.31402,-123.07908,Domino's Pizza,Food,1314
+restaurant,49.313984,-123.07901,Vaades,Food,1315
+restaurant,49.31395,-123.07891,Hanok,Food,1316
+cafe,49.27771,-123.13097,Number e Food,Food,1317
+cafe,49.281204,-123.10453,Iktsuarpok Coffee Stand,Food,1318
+restaurant,49.28795,-123.12381,SushiGo,Food,1319
+cafe,49.268032,-123.111595,Sweetery Cafe+Dessert,Food,1320
+restaurant,49.27691,-123.13077,RV's Butter Kitchen,Food,1321
+fountain,49.283222,-123.120674,Edward VII,Attraction,1322
+restaurant,49.261536,-123.06961,Daddy's Kitchen,Food,1323
+restaurant,49.28049,-123.13164,Taki's Taverna,Food,1324
+restaurant,49.26295,-123.09746,Cafe D'Afrique,Food,1325
+ice_cream,49.262604,-123.08237,Rooster's Ice Cream Bar,Food,1326
+fast_food,49.262188,-123.074196,The Pizza King,Food,1327
+restaurant,49.26343,-123.13657,Masa Japanese Restaurant,Food,1328
+bank,49.219345,-123.11773,RBC,Business,1329
+cafe,49.219414,-123.11826,Dylan's,Food,1330
+cafe,49.26839,-123.04398,Ding Tea,Food,1331
+restaurant,49.262768,-123.05637,Yook Korean Grilled BBQ and Bistro,Food,1332
+restaurant,49.25912,-123.06935,Gojo Little Africa Cafe,Food,1333
+bar,49.26559,-123.10039,The Whip,Nightlife,1334
+restaurant,49.28064,-123.13109,Cazba,Food,1335
+cafe,49.315094,-123.06676,Andrews on 8th,Food,1336
+ice_cream,49.31516,-123.06691,Welcome Parlour Ice Cream,Food,1337
+fast_food,49.28117,-123.120415,Burger King,Food,1338
+cafe,49.274666,-123.12211,Starbucks,Food,1339
+fast_food,49.233253,-123.0348,Papa John's,Food,1340
+restaurant,49.233337,-123.034706,Gold Train Express Restaurant,Food,1341
+bar,49.280266,-123.10975,Devil's Elbow,Nightlife,1342
+cafe,49.280308,-123.10968,Jam Cafe,Food,1343
+arts_centre,49.26958,-123.1333,Arts Umbrella,Attraction,1344
+restaurant,49.271156,-123.0694,Sopra Sotto,Food,1345
+restaurant,49.270298,-123.06943,Libra Room,Food,1346
+restaurant,49.28902,-123.12214,JOS,Food,1347
+car_rental,49.287766,-123.113434,National,Transportation,1348
+cafe,49.278984,-123.116425,Le Petit Belge,Food,1349
+restaurant,49.243595,-123.062355,Happy Family Restaurant,Food,1350
+pub,49.28456,-123.10848,The Black Frog,Nightlife,1351
+cafe,49.284576,-123.10932,Trees Organic Coffee,Food,1352
+restaurant,49.284706,-123.11004,MoMo Sushi,Food,1353
+restaurant,49.28276,-123.10965,Nuba,Food,1354
+cafe,49.2825,-123.109245,Bean Around The World,Food,1355
+fast_food,49.284763,-123.12106,McDonald's,Food,1356
+cafe,49.284832,-123.12095,Tim Hortons,Food,1357
+restaurant,49.24021,-123.06493,Angkor Restaurant,Food,1358
+restaurant,49.240414,-123.065544,Deutsches Haus Restaurant,Food,1359
+fast_food,49.262478,-123.070244,Uncle Fatih's,Food,1360
+bank,49.262154,-123.07005,BMO,Business,1361
+bank,49.262127,-123.06947,CIBC,Business,1362
+fast_food,49.261745,-123.0696,McDonald's,Food,1363
+fast_food,49.26166,-123.06961,Quiznos,Food,1364
+fast_food,49.26159,-123.0696,Fresh Slice,Food,1365
+cafe,49.262028,-123.07004,Starbucks,Food,1366
+cafe,49.264935,-123.069496,JJ Bean,Food,1367
+restaurant,49.267895,-123.06944,Spade,Food,1368
+bar,49.2684,-123.06988,Park Drive,Nightlife,1369
+cafe,49.26891,-123.069855,Cafe Calabria,Food,1370
+cafe,49.268806,-123.06941,Starbucks,Food,1371
+cafe,49.268547,-123.069405,Continental Coffee,Food,1372
+pub,49.268456,-123.069405,Falconetti's,Nightlife,1373
+restaurant,49.245056,-123.06539,Pho Duy Vietnamese Restaurant,Food,1374
+cafe,49.28754,-123.12002,Starbucks,Food,1375
+bank,49.2698,-123.069916,Vancity,Business,1376
+fast_food,49.26949,-123.06944,Red Burrito,Food,1377
+restaurant,49.26792,-123.06988,Belgian Fries,Food,1378
+fast_food,49.267395,-123.06946,Fire Pizza,Food,1379
+fast_food,49.267464,-123.06946,4 Brothers' Pizza,Food,1380
+pub,49.263786,-123.06952,St Augustine's,Nightlife,1381
+cafe,49.269436,-123.06944,Dive In Dessert Cafe,Food,1382
+bank,49.269314,-123.06985,RBC,Business,1383
+restaurant,49.273373,-123.06934,Oca Pastificio,Food,1384
+library,49.274963,-123.07071,VPL Britannia Branch,Leisure,1385
+library,49.249123,-123.07565,VPL Kensington Branch,Leisure,1386
+bank,49.249374,-123.07503,TD Canada Trust,Business,1387
+restaurant,49.244648,-123.06448,Mui Ngo Gai,Food,1388
+cafe,49.238834,-123.065094,Hoi An Cafe,Food,1389
+restaurant,49.23825,-123.06516,Kawa Sushi,Food,1390
+restaurant,49.264713,-123.18613,True Confections,Food,1391
+restaurant,49.285503,-123.11881,Cactus Club Cafe,Food,1392
+bank,49.285294,-123.119385,Canadian Western Bank,Business,1393
+restaurant,49.279327,-123.10079,Floata Seafood Restaurant,Food,1394
+cafe,49.20406,-123.134285,Oriole Cafe,Food,1395
+restaurant,49.204113,-123.1354,Cafe de l'Orangerie,Food,1396
+restaurant,49.266293,-123.13955,The Farmers Apprentice,Food,1397
+bank,49.27059,-123.106926,TD Canada Trust,Business,1398
+cafe,49.27091,-123.14764,Pane From Heaven,Food,1399
+restaurant,49.27079,-123.1477,The Smoking Dog French Bistro,Food,1400
+pub,49.312725,-123.02724,Seymour's Pub,Nightlife,1401
+cafe,49.206333,-123.12358,Marpole Curling Club Cafe,Food,1402
+fast_food,49.2309,-123.0908,Dairy Queen,Food,1403
+cafe,49.259296,-123.07047,Circus Play Cafe,Food,1404
+bicycle_rental,49.287754,-123.1239,Melville & Bute,Transportation,1405
+restaurant,49.26428,-123.0695,Jamjar Folk Lebanese Food,Food,1406
+bicycle_rental,49.256504,-123.07548,15th & Knight,Transportation,1407
+bicycle_rental,49.25878,-123.092766,13th & St. George,Transportation,1408
+bicycle_rental,49.26208,-123.101845,10th & Main,Transportation,1409
+pub,49.2603,-123.09669,12 Kings Pub,Nightlife,1410
+restaurant,49.287884,-123.11849,Chewies,Food,1411
+restaurant,49.28596,-123.1274,Ebisu,Food,1412
+cafe,49.28367,-123.12362,Café Crêpe Express,Food,1413
+restaurant,49.280903,-123.13226,Mumbai Local,Food,1414
+restaurant,49.263252,-123.12713,A Taste of Vietnam,Food,1415
+restaurant,49.234173,-123.14014,Hikari Cafe,Food,1416
+restaurant,49.267838,-123.145874,Mi Casa Mexicana,Food,1417
+fast_food,49.269672,-123.14596,Subway,Food,1418
+cafe,49.2619,-123.13837,Starbucks,Food,1419
+restaurant,49.279694,-123.09779,Maxims Restaurant,Food,1420
+bank,49.2793,-123.09821,Scotiabank,Business,1421
+bank,49.28028,-123.09996,CIBC,Business,1422
+bank,49.28049,-123.09941,TD Canada Trust,Business,1423
+restaurant,49.279972,-123.09948,The Boss Bakery & Restaurant,Food,1424
+cafe,49.28051,-123.099945,Waves,Food,1425
+cafe,49.28786,-123.12398,Starbucks,Food,1426
+restaurant,49.251972,-123.08006,Bean Banh Mi,Food,1427
+restaurant,49.24318,-123.06191,New Mandarin Seafood Restaurant,Food,1428
+cafe,49.2429,-123.060875,Gram Cafe,Food,1429
+restaurant,49.301224,-123.157074,The Teahouse,Food,1430
+cafe,49.30107,-123.13361,Railway Cafe,Food,1431
+cafe,49.302753,-123.13125,Lumberman's Arch Cafe,Food,1432
+restaurant,49.28743,-123.11491,Hapa Izakaya,Food,1433
+pub,49.28219,-123.10905,The Hastings Warehouse,Nightlife,1434
+pub,49.284023,-123.114105,Malone's,Nightlife,1435
+bicycle_rental,49.27852,-123.10005,Georgia & Main,Transportation,1436
+bar,49.267273,-123.10424,Electric Bicycle Brewing,Nightlife,1437
+place_of_worship,49.246487,-123.04735,First Hungarian Presbyterian Church,Attraction,1438
+place_of_worship,49.24655,-123.04735,Vancouver Amen Church,Attraction,1439
+place_of_worship,49.245396,-123.15282,St. George’s Greek Orthodox Church,Attraction,1440
+bank,49.28115,-123.11554,BMO,Business,1441
+theatre,49.280403,-123.121025,The Orpheum,Attraction,1442
+car_sharing,49.281876,-123.11552,Zipcar,Transportation,1443
+restaurant,49.288624,-123.14003,Shizen Ya,Food,1444
+restaurant,49.28858,-123.140076,P2P,Food,1445
+fast_food,49.256886,-123.12152,Hachibei 八兵衛,Food,1446
+fast_food,49.27746,-123.12597,Grade 'A' Cafe,Food,1447
+fast_food,49.277496,-123.125916,Mr. Greek,Food,1448
+pub,49.277603,-123.12576,Sidecar,Nightlife,1449
+restaurant,49.277702,-123.125626,Umeda Japanese Cuisine,Food,1450
+car_rental,49.27759,-123.12528,Access Rent-a-car,Transportation,1451
+fast_food,49.277832,-123.125435,Donair Dude,Food,1452
+restaurant,49.277763,-123.125534,Kings Kitchen,Food,1453
+restaurant,49.277798,-123.12547,Twisted Fork Bistro,Food,1454
+bar,49.277668,-123.12568,Cabana,Nightlife,1455
+restaurant,49.254322,-123.23548,Biercraft,Food,1456
+fast_food,49.278957,-123.108154,TAKO,Food,1457
+fast_food,49.279434,-123.10696,Odo Sushi,Food,1458
+cafe,49.260952,-123.25106,Agora,Food,1459
+restaurant,49.278492,-123.12445,Thai Away Home,Food,1460
+nightclub,49.27232,-123.134224,Backstage Lounge,Nightlife,1461
+ice_cream,49.24935,-123.089874,Earnest Ice Cream,Food,1462
+restaurant,49.254192,-123.23602,Neptune Chinese Kitchen,Food,1463
+restaurant,49.288292,-123.14005,Banana Leaf,Food,1464
+restaurant,49.266327,-123.06952,Sushi Ville,Food,1465
+restaurant,49.225155,-123.101875,Freshii,Food,1466
+bank,49.2254,-123.10186,RBC Royal Bank,Business,1467
+bicycle_rental,49.275253,-123.13256,Beach & Hornby,Transportation,1468
+fast_food,49.26405,-123.11422,Uncle Fatihs Pizza,Food,1469
+fast_food,49.2638,-123.11459,Wendy's,Food,1470
+restaurant,49.20791,-123.140305,Ikura,Food,1471
+bank,49.208363,-123.140816,Vancity,Business,1472
+restaurant,49.234596,-123.18451,Red Tuna,Food,1473
+restaurant,49.234474,-123.1595,Irashai Sushi,Food,1474
+restaurant,49.234505,-123.15794,ASA Sushi,Food,1475
+bank,49.2345,-123.15764,HSBC,Business,1476
+cafe,49.234726,-123.157555,Starbucks,Food,1477
+cafe,49.23451,-123.15809,Boba Boy,Food,1478
+restaurant,49.234756,-123.15877,Orange Corner,Food,1479
+cafe,49.234695,-123.15366,Adonia,Food,1480
+restaurant,49.257225,-123.185234,La Notte,Food,1481
+cafe,49.262787,-123.10126,Tim Hortons,Food,1482
+restaurant,49.263817,-123.10166,8 and a 1/2 Restaurant,Food,1483
+restaurant,49.264366,-123.101166,Nirvana Restaurant,Food,1484
+cafe,49.244778,-123.15379,Starbucks,Food,1485
+bank,49.225277,-123.06549,RBC,Business,1486
+restaurant,49.225037,-123.06592,Nishiki Sushi Bar,Food,1487
+fast_food,49.226215,-123.065506,Subway,Food,1488
+cafe,49.254066,-123.23511,Blenz Coffee,Food,1489
+restaurant,49.26139,-123.15326,Indishspensable,Food,1490
+fast_food,49.262512,-123.15278,Subway,Food,1491
+restaurant,49.262123,-123.15324,Gramercy Grill,Food,1492
+restaurant,49.262363,-123.15324,Trees Organic,Food,1493
+restaurant,49.26299,-123.15275,Napoletana,Food,1494
+fast_food,49.30668,-123.036514,McDonald's,Food,1495
+cafe,49.263786,-123.186134,Grounds For Coffee,Food,1496
+ferry_terminal,49.27871,-123.14702,Maritime Museum Dock (False Creek Ferries),Transportation,1497
+cafe,49.26339,-123.11561,Blenz Coffee,Food,1498
+cafe,49.263443,-123.11966,Blenz,Food,1499
+restaurant,49.26311,-123.11799,Fuloi Restaurant,Food,1500
+restaurant,49.26308,-123.116066,Peaceful Restaurant,Food,1501
+cafe,49.280727,-123.118576,Buro,Food,1502
+cafe,49.269047,-123.10291,Glory Juice,Food,1503
+cafe,49.26586,-123.2428,Starbucks,Food,1504
+restaurant,49.265972,-123.24247,Mio Japan,Food,1505
+bank,49.28906,-123.12507,RBC,Business,1506
+cafe,49.282284,-123.1191,Nordstrom E-Bar,Food,1507
+cafe,49.284554,-123.11816,Caffe Express,Food,1508
+restaurant,49.285496,-123.117195,Shogun,Food,1509
+bank,49.28574,-123.116806,Vancity,Business,1510
+bank,49.263927,-123.168015,Scotiabank,Business,1511
+restaurant,49.263847,-123.14211,Old Beijing Roast Duck,Food,1512
+restaurant,49.263744,-123.13694,Portobello,Food,1513
+pub,49.278934,-123.123726,Johnnie Fox's Irish Snug,Nightlife,1514
+cafe,49.27944,-123.12301,Blenz Coffee,Food,1515
+restaurant,49.2797,-123.122635,Colony,Food,1516
+restaurant,49.26428,-123.172295,Banana Leaf,Food,1517
+car_rental,49.27634,-123.12711,Hertz,Transportation,1518
+restaurant,49.27509,-123.12276,Cactus Club Cafe,Food,1519
+cafe,49.275787,-123.12111,Blenz Coffee,Food,1520
+restaurant,49.275776,-123.120514,Earls Kitchen + Bar,Food,1521
+restaurant,49.27656,-123.11937,The Keg Steakhouse + Bar - Yaletown,Food,1522
+restaurant,49.278145,-123.11724,Lupo,Food,1523
+bank,49.278687,-123.12943,TD Canada Trust,Business,1524
+cafe,49.305904,-123.03714,Starbucks,Food,1525
+restaurant,49.279263,-123.11611,Wasabi,Food,1526
+restaurant,49.279575,-123.12282,El Furniture Warehouse - Granville,Food,1527
+bar,49.287346,-123.14153,Shamrock Alley,Nightlife,1528
+restaurant,49.27913,-123.123474,The Dime,Food,1529
+pub,49.281418,-123.09499,Pat's Pub,Nightlife,1530
+bar,49.28316,-123.10403,The Diamond,Nightlife,1531
+pub,49.28339,-123.10442,Six Acres,Nightlife,1532
+restaurant,49.27975,-123.12353,Johnny Rockets,Food,1533
+restaurant,49.26844,-123.16475,Dark Table,Food,1534
+bicycle_rental,49.280895,-123.13054,Thurlow & Pendrell,Transportation,1535
+bar,49.31706,-123.09264,Black Kettle Tasting Lounge,Nightlife,1536
+bar,49.309975,-123.03393,Bridge Brewing Tasting Room,Nightlife,1537
+pub,49.313515,-123.08334,Sailor Hägar's,Nightlife,1538
+bar,49.308334,-123.07275,Beere Brewing Tasting Room,Nightlife,1539
+restaurant,49.26631,-123.24705,Tacomio,Food,1540
+fast_food,49.286003,-123.11246,Chronic Tacos,Food,1541
+fast_food,49.288033,-123.12362,A&W,Food,1542
+restaurant,49.231457,-123.06537,East Kitchen,Food,1543
+restaurant,49.28818,-123.11713,Botanist,Food,1544
+restaurant,49.26416,-123.16541,Sunshine Classic Diner,Food,1545
+fast_food,49.25608,-123.115395,Subway,Food,1546
+restaurant,49.254578,-123.11499,Potluck Hawker Eatery,Food,1547
+restaurant,49.28731,-123.11713,Elephant & Castle,Food,1548
+cafe,49.263523,-123.123955,Halfday Flower and Tea,Food,1549
+restaurant,49.28371,-123.11359,Cartems Donuterie,Food,1550
+bar,49.270416,-123.13464,The Liberty Distillery,Nightlife,1551
+bus_station,49.265587,-123.02519,Boundary Loop,Transportation,1552
+restaurant,49.26318,-123.12206,Ta-Ke Don,Food,1553
+cafe,49.28404,-123.12356,Starbucks,Food,1554
+fast_food,49.26642,-123.24989,Pi R Squared,Food,1555
+fast_food,49.266933,-123.25013,Honour Roll,Food,1556
+bar,49.28206,-123.070915,Resurrection Distillery and Lounge,Nightlife,1557
+pub,49.282043,-123.07237,Finfolk,Nightlife,1558
+restaurant,49.278667,-123.12829,Sushi Mugen,Food,1559
+bicycle_rental,49.286095,-123.11322,Cordova & Granville,Transportation,1560
+restaurant,49.26624,-123.24751,Nori,Food,1561
+restaurant,49.266293,-123.24718,Jamjar,Food,1562
+ice_cream,49.266495,-123.24689,Rain or Shine,Food,1563
+cafe,49.26637,-123.24681,J J Bean,Food,1564
+fast_food,49.266266,-123.247345,Uncle Fatih's Pizza,Food,1565
+restaurant,49.26206,-123.03334,Dae-Ji Cutlet House,Food,1566
+restaurant,49.263557,-123.11267,La Taqueria Pinche Taco Shop,Food,1567
+restaurant,49.28741,-123.11752,Nightingale,Food,1568
+bicycle_rental,49.27367,-123.10226,Science World,Transportation,1569
+bicycle_rental,49.28012,-123.074165,McLean & Pender,Transportation,1570
+bicycle_rental,49.273766,-123.092705,Thornton & National,Transportation,1571
+bicycle_rental,49.270733,-123.073616,Woodland & Graveley,Transportation,1572
+bicycle_rental,49.256725,-123.09654,Prince Edward & 16th,Transportation,1573
+bicycle_rental,49.25679,-123.0657,15th & Victoria,Transportation,1574
+bicycle_rental,49.265217,-123.090675,6th & Carolina,Transportation,1575
+bicycle_rental,49.25814,-123.096344,Prince Edward & 14th,Transportation,1576
+bicycle_rental,49.265236,-123.09546,6th & Prince Edward,Transportation,1577
+restaurant,49.249866,-123.11519,Sushi TonTon,Food,1578
+restaurant,49.249832,-123.11559,Landmark Hot Pot House,Food,1579
+restaurant,49.249702,-123.11519,Copa Cafe,Food,1580
+restaurant,49.25571,-123.115364,Thai Away Home,Food,1581
+cafe,49.25845,-123.114716,Passion8 Dessert Cafe,Food,1582
+cafe,49.259937,-123.11472,Sharetea,Food,1583
+restaurant,49.26306,-123.11254,Sushi California,Food,1584
+cafe,49.26581,-123.12231,Tim Hortons,Food,1585
+restaurant,49.263702,-123.121475,Dynasty Seafood Restaurant,Food,1586
+restaurant,49.263466,-123.12006,Shanghai Lu Restaurant,Food,1587
+restaurant,49.263103,-123.12004,i-Cafe,Food,1588
+cafe,49.262974,-123.120056,K Cafe,Food,1589
+cafe,49.263153,-123.11946,Starbucks,Food,1590
+restaurant,49.263428,-123.11703,Freshii,Food,1591
+bank,49.263077,-123.116234,CIBC,Business,1592
+restaurant,49.263462,-123.099815,La Petite Cuillère,Food,1593
+cafe,49.262966,-123.098335,B U N S + B O B A,Food,1594
+restaurant,49.262947,-123.09722,Sushi Yama,Food,1595
+cafe,49.262653,-123.09221,Paper Crane Coffee,Food,1596
+ice_cream,49.255352,-123.10108,Buckets Ice Cream,Food,1597
+bank,49.254875,-123.10159,TD Canada Trust,Business,1598
+restaurant,49.25449,-123.10128,Pizza Hut,Food,1599
+fast_food,49.254143,-123.10128,Church's Chicken,Food,1600
+cafe,49.26479,-123.145905,Sakura Cafe,Food,1601
+pub,49.265335,-123.14538,Carlos O`Bryan's Neighborhood Pub,Nightlife,1602
+restaurant,49.26534,-123.14503,delhi6 Indian Bistro,Food,1603
+restaurant,49.266624,-123.14541,Novo Pizzeria & Winery,Food,1604
+cafe,49.263603,-123.15083,Pallet Coffee Roasters,Food,1605
+restaurant,49.259033,-123.15288,Lunch Club,Food,1606
+pub,49.28384,-123.11385,Browns Crafthouse,Nightlife,1607
+bar,49.283787,-123.064186,Parallel 49 Tasting Room & Beer Store,Nightlife,1608
+pub,49.28379,-123.06432,Parallel 49 Street Kitchen,Nightlife,1609
+cafe,49.23165,-123.03139,Gong Cha,Food,1610
+bicycle_rental,49.283978,-123.06521,Triumph & Victoria,Transportation,1611
+bicycle_rental,49.28321,-123.07039,Commercial & Pandora,Transportation,1612
+bar,49.28073,-123.13235,The Junction,Nightlife,1613
+bank,49.28625,-123.11907,National Bank,Business,1614
+bicycle_rental,49.27183,-123.10432,Ontario & Seawall,Transportation,1615
+bicycle_rental,49.270863,-123.11502,Spyglass & Seawall,Transportation,1616
+bicycle_rental,49.262505,-123.1144,10th & Cambie,Transportation,1617
+bicycle_rental,49.27565,-123.117004,Beatty & Nelson,Transportation,1618
+restaurant,49.279293,-123.09743,Oyster Express,Food,1619
+restaurant,49.28192,-123.106026,Save On Meats,Food,1620
+restaurant,49.27497,-123.06928,Five Elements,Food,1621
+fast_food,49.280132,-123.11817,Falafel King,Food,1622
+fast_food,49.2795,-123.11723,Hubbub,Food,1623
+fast_food,49.28024,-123.11833,Curry Fusion,Food,1624
+fast_food,49.2802,-123.11827,Japadog,Food,1625
+fast_food,49.280163,-123.11821,Viet Sub,Food,1626
+fast_food,49.27986,-123.11778,Chopped Leaf,Food,1627
+university,49.282482,-123.1214,UBC Robson Square,Attraction,1628
+restaurant,49.268555,-123.11864,Branas,Food,1629
+car_rental,49.20485,-123.12912,Enterprise,Transportation,1630
+bank,49.248726,-123.125244,TD Canada Trust,Business,1631
+library,49.24401,-123.10817,VPL Terry Salman Branch,Leisure,1632
+fast_food,49.309944,-123.082214,Dex Burgerbar,Food,1633
+fast_food,49.287395,-123.114365,McDonald's,Food,1634
+cafe,49.284462,-123.113434,Starbucks,Food,1635
+fast_food,49.28906,-123.114624,Subway,Food,1636
+cafe,49.285046,-123.11207,Tim Hortons,Food,1637
+fast_food,49.28424,-123.11756,halal arabic food stand,Food,1638
+fast_food,49.2831,-123.1171,Mr Shawarma,Food,1639
+fast_food,49.2853,-123.12016,Mr Shawarma,Food,1640
+cafe,49.287403,-123.11691,JJ Bean,Food,1641
+restaurant,49.28032,-123.131584,Thai Basil,Food,1642
+cafe,49.280457,-123.131584,Baguette cafe,Food,1643
+restaurant,49.28781,-123.14122,Donair Spot,Food,1644
+cafe,49.287235,-123.141426,Starbucks,Food,1645
+pub,49.28707,-123.1418,The Three Brits Public House,Nightlife,1646
+library,49.290504,-123.13656,VPL Joe Fortes Branch,Leisure,1647
+arts_centre,49.27828,-123.121185,Contemporary Art Gallery,Attraction,1648
+fast_food,49.279358,-123.12341,Mean Poutine,Food,1649
+fast_food,49.279274,-123.123344,Megabite,Food,1650
+pub,49.279434,-123.12359,The Moose,Nightlife,1651
+cafe,49.279236,-123.12273,Tim Hortons,Food,1652
+fast_food,49.2586,-123.04478,Fresh Slice Pizza,Food,1653
+restaurant,49.258465,-123.04514,Prince Chinese Seafood Restaurant,Food,1654
+fast_food,49.257988,-123.04493,Subway,Food,1655
+restaurant,49.258614,-123.04457,Sushi House,Food,1656
+restaurant,49.284004,-123.12545,Guu Original Thurlow,Food,1657
+fast_food,49.284863,-123.12486,Jugo Juice,Food,1658
+cafe,49.27055,-123.14624,Kahve café,Food,1659
+restaurant,49.257393,-123.126976,Falafully Good,Food,1660
+cafe,49.284122,-123.10695,Prado,Food,1661
+pub,49.283657,-123.10412,Guilt & Co,Nightlife,1662
+bar,49.283035,-123.09982,No. 5 Orange,Nightlife,1663
+theatre,49.28207,-123.09791,Firehall Arts Centre,Attraction,1664
+place_of_worship,49.28243,-123.0972,St. James',Attraction,1665
+bank,49.233597,-123.03515,RBC,Business,1666
+restaurant,49.2758,-123.06966,Sunrise Pizza,Food,1667
+restaurant,49.27549,-123.0693,Skylight Restaurant,Food,1668
+restaurant,49.24736,-123.185394,Moon Sushi,Food,1669
+restaurant,49.204075,-123.135376,Panang Delight Cafe at Marpole,Food,1670
+conference_centre,49.274662,-123.10895,Harbour Convention Centre,Business,1671
+restaurant,49.273357,-123.13275,Chang'an,Food,1672
+restaurant,49.279987,-123.13035,Italian Tomato,Food,1673
+cafe,49.232174,-123.03123,Tim Hortons,Food,1674
+restaurant,49.232388,-123.03203,Rose Garden Seafood Restaurant,Food,1675
+restaurant,49.232857,-123.03308,Li's China Grill,Food,1676
+restaurant,49.23291,-123.033195,Bubble World,Food,1677
+restaurant,49.232883,-123.03314,Fortune Lamb Dining,Food,1678
+restaurant,49.240383,-123.101746,Bon Cafe,Food,1679
+restaurant,49.281715,-123.133064,Thida Thai,Food,1680
+cafe,49.28049,-123.099014,Propaganda Coffee,Food,1681
+cafe,49.245716,-123.0943,Le Marché St. George,Food,1682
+bar,49.281605,-123.1329,1181,Nightlife,1683
+fast_food,49.28163,-123.13294,Disco Cheetah,Food,1684
+restaurant,49.28154,-123.13281,Tom Sushi,Food,1685
+bar,49.281494,-123.132744,Pumpjack,Nightlife,1686
+restaurant,49.281433,-123.13263,Pho Central,Food,1687
+restaurant,49.28136,-123.13251,India Bistro,Food,1688
+fast_food,49.281235,-123.13231,KFC,Food,1689
+cafe,49.269882,-123.144966,Café Terra,Food,1690
+restaurant,49.284622,-123.12527,Red Robin,Food,1691
+boat_rental,49.272297,-123.136955,Bonnie Lee Charters,Transportation,1692
+boat_rental,49.271072,-123.13651,Vancouver Boat Rentals,Transportation,1693
+cafe,49.281246,-123.04699,Starbucks,Food,1694
+restaurant,49.281296,-123.04895,Slocan Family Restaurant,Food,1695
+cafe,49.272774,-123.1476,Starbucks,Food,1696
+restaurant,49.272606,-123.14731,Triple-O's,Food,1697
+restaurant,49.28315,-123.10376,Sitar,Food,1698
+restaurant,49.283054,-123.104485,The Greek Gastown,Food,1699
+restaurant,49.28315,-123.10498,Boneta,Food,1700
+cafe,49.283215,-123.10478,Après-midi,Food,1701
+fast_food,49.283176,-123.10448,Vera's Burger Shack,Food,1702
+restaurant,49.283455,-123.10238,Incendio,Food,1703
+restaurant,49.283546,-123.10274,The Birds & The Beets,Food,1704
+restaurant,49.236134,-123.041435,The Sea House Fish & Chips,Food,1705
+restaurant,49.236248,-123.041756,Chili Pepper House,Food,1706
+cafe,49.280254,-123.130745,Tartine Bread and Pies,Food,1707
+restaurant,49.232468,-123.024475,Michi Craft Kitchen,Food,1708
+restaurant,49.231987,-123.027405,Max's Restaurant,Food,1709
+restaurant,49.23181,-123.030304,Cho Sun Korean BBQ,Food,1710
+fast_food,49.23186,-123.02938,Subway,Food,1711
+restaurant,49.231754,-123.028145,Love for Pho,Food,1712
+restaurant,49.231762,-123.028336,8090 Fruit Parlour,Food,1713
+restaurant,49.231785,-123.02861,Todak Todak Restaurant,Food,1714
+library,49.28088,-123.050186,Hastings Branch,Leisure,1715
+bank,49.2763,-123.12143,CIBC,Business,1716
+restaurant,49.266617,-123.069885,Best Falafel,Food,1717
+restaurant,49.26654,-123.0699,Addis Cafe,Food,1718
+restaurant,49.266693,-123.06947,Kishimoto,Food,1719
+fast_food,49.28154,-123.12118,Chipotle,Food,1720
+restaurant,49.27953,-123.12378,Sushi Star,Food,1721
+restaurant,49.28338,-123.11641,The Keg Steakhouse + Bar - Dunsmuir Street,Food,1722
+pub,49.279774,-123.113075,Browns Social House,Nightlife,1723
+cafe,49.284916,-123.05999,Far Out Coffee Post,Food,1724
+restaurant,49.28505,-123.06219,The Dundas,Food,1725
+fast_food,49.285126,-123.064,McDonald's,Food,1726
+pub,49.275436,-123.120995,Yaletown Brewing Company,Nightlife,1727
+theatre,49.261353,-123.138435,Stanley Industrial Alliance Stage,Attraction,1728
+theatre,49.26067,-123.13649,Pacific Theatre,Attraction,1729
+cafe,49.28039,-123.12543,Wall Flowers,Food,1730
+cafe,49.281796,-123.12466,Starbucks,Food,1731
+cafe,49.26964,-123.144424,Pâtisserie Lebeau,Food,1732
+bar,49.287266,-123.141525,Bayside Lounge,Nightlife,1733
+cafe,49.243946,-123.10736,Blue Parrot Coffee,Food,1734
+cafe,49.24535,-123.124794,Starbucks,Food,1735
+cafe,49.244045,-123.123856,Shaughnessy Cafe,Food,1736
+restaurant,49.28102,-123.058014,The Red Wagon Cafe,Food,1737
+cafe,49.263268,-123.110504,Aperture Coffee Bar,Food,1738
+ferry_terminal,49.27171,-123.11795,Yaletown Dock,Transportation,1739
+cafe,49.24841,-123.100876,Aperture Coffee Bar,Food,1740
+restaurant,49.266354,-123.13977,Grapes and Soda,Food,1741
+cafe,49.28662,-123.115326,Mink,Food,1742
+cafe,49.247692,-123.089966,Ubuntu Canteen,Food,1743
+cafe,49.279213,-123.11616,Pacific Coffee Roasters,Food,1744
+fast_food,49.279114,-123.11582,Salad Loop,Food,1745
+library,49.21899,-123.039566,Vancouver Public Library - Champlain Heights,Leisure,1746
+restaurant,49.312733,-123.05731,Sansho,Food,1747
+fast_food,49.218346,-123.07738,Subway,Food,1748
+restaurant,49.2699,-123.06943,My BBQ Hut,Food,1749
+cafe,49.269943,-123.06943,The Drive Coffee Bar,Food,1750
+cafe,49.262222,-123.12233,Bean Around The World,Food,1751
+bicycle_rental,49.277508,-123.0813,Glen & Union,Transportation,1752
+bicycle_rental,49.279366,-123.09094,Keefer & Princess,Transportation,1753
+bicycle_rental,49.274315,-123.098465,Station & National,Transportation,1754
+cafe,49.27845,-123.099174,Wheat and Barley,Food,1755
+restaurant,49.27434,-123.12327,Rodney's Oyster House,Food,1756
+restaurant,49.286423,-123.14026,Red Umbrella Cafe,Food,1757
+cafe,49.279583,-123.12415,YaYa's,Food,1758
+fast_food,49.28166,-123.1206,Freshslice Pizza,Food,1759
+fast_food,49.2796,-123.11742,Orange Julius,Food,1760
+fast_food,49.279617,-123.11748,A&W,Food,1761
+restaurant,49.279568,-123.11736,Memphis Blues BBQ House,Food,1762
+fast_food,49.28171,-123.120674,A&W,Food,1763
+restaurant,49.285797,-123.11536,Scoozis,Food,1764
+cafe,49.2846,-123.11711,Mario's,Food,1765
+restaurant,49.283154,-123.11594,St. Regis Bar & Grill,Food,1766
+restaurant,49.278034,-123.125114,The Pawn Shop,Food,1767
+bar,49.287464,-123.129585,The Den,Nightlife,1768
+ice_cream,49.281906,-123.11877,Cacao 70,Food,1769
+restaurant,49.27854,-123.115746,Marutama Ra-men,Food,1770
+restaurant,49.26948,-123.10726,Bao Down,Food,1771
+restaurant,49.26955,-123.109146,Nook,Food,1772
+bicycle_rental,49.26362,-123.099236,8th & Scotia,Transportation,1773
+bicycle_rental,49.26555,-123.10024,6th & Main,Transportation,1774
+bicycle_rental,49.25883,-123.13136,14th & Alder,Transportation,1775
+pub,49.2801,-123.12135,Dublin Calling,Nightlife,1776
+cafe,49.278687,-123.09926,Matchstick Coffee Roasters,Food,1777
+cafe,49.277634,-123.13109,Gemini tea bar,Food,1778
+fast_food,49.277454,-123.13134,Daikichi Sushi,Food,1779
+fast_food,49.277676,-123.13103,Pho,Food,1780
+fast_food,49.27774,-123.130936,Sushi Coen,Food,1781
+bar,49.27969,-123.11307,Ventura Room,Nightlife,1782
+pub,49.276905,-123.1154,Red Racer Taphouse,Nightlife,1783
+cafe,49.277016,-123.115105,Rocanini,Food,1784
+restaurant,49.286564,-123.12281,Komi,Food,1785
+fast_food,49.209347,-123.116714,A&W,Food,1786
+cafe,49.209263,-123.11663,Tim Hortons,Food,1787
+library,49.210323,-123.14021,VPL Marpole Branch,Leisure,1788
+bank,49.21061,-123.14018,BMO,Business,1789
+cafe,49.262566,-123.10128,Rosemary Rocksalt,Food,1790
+restaurant,49.262505,-123.10128,La Taqueria Pinche Taco Shop,Food,1791
+fast_food,49.259914,-123.10132,Subway,Food,1792
+fast_food,49.257744,-123.1014,Bellagio's Gelato,Food,1793
+spa,49.258022,-123.10139,Main Wellness Centre,Leisure,1794
+restaurant,49.25769,-123.1014,Pho Goodness,Food,1795
+restaurant,49.258083,-123.10095,Canteen Mitra,Food,1796
+restaurant,49.25797,-123.10095,Joe's Grill,Food,1797
+bar,49.258118,-123.10095,Uncle Abe's,Nightlife,1798
+restaurant,49.256283,-123.10101,Don't Argue,Food,1799
+fast_food,49.24837,-123.10128,Hawker's Delight,Food,1800
+restaurant,49.248512,-123.10129,Locus Restaurant,Food,1801
+fast_food,49.24515,-123.10151,McDonald's,Food,1802
+restaurant,49.244816,-123.10109,HOOD29,Food,1803
+bar,49.280197,-123.097466,The Emerald,Nightlife,1804
+restaurant,49.27495,-123.12174,MeeT in Yaletown,Food,1805
+fast_food,49.278797,-123.12346,A&W,Food,1806
+cafe,49.26301,-123.09994,Our Town Café,Food,1807
+fast_food,49.28033,-123.13086,Best Bite Donair,Food,1808
+restaurant,49.23386,-123.13998,Kyuzo Japanese Restaurant,Food,1809
+cafe,49.285957,-123.115234,Starbucks,Food,1810
+fast_food,49.28419,-123.11591,Subway,Food,1811
+restaurant,49.26909,-123.10448,Manna Sushi,Food,1812
+restaurant,49.282524,-123.114456,Ramen Gojiro,Food,1813
+restaurant,49.275166,-123.11275,Honey Salt,Food,1814
+cafe,49.22419,-123.101944,WEEDS,Food,1815
+ice_cream,49.26564,-123.10058,Cartem Donuts,Food,1816
+restaurant,49.210625,-123.092384,Neptune Chinese Kitchen,Food,1817
+restaurant,49.205868,-123.042656,Romers Burger Bar,Food,1818
+pub,49.27729,-123.06605,Wise Club & Hall,Nightlife,1819
+pub,49.251347,-123.0778,Cedar Cottage Pub,Nightlife,1820
+cafe,49.2589,-123.069984,Bakery Sate,Food,1821
+restaurant,49.24809,-123.071144,Phở Thái Hóa,Food,1822
+restaurant,49.26604,-123.06952,Cafe Deux Soleils,Food,1823
+cafe,49.25392,-123.067795,Chance Cafe,Food,1824
+cafe,49.252567,-123.06819,Commercial Street Cafe,Food,1825
+pub,49.28146,-123.10517,Darby's,Nightlife,1826
+restaurant,49.311745,-123.07908,Fishworks,Food,1827
+pub,49.314728,-123.0796,Fraternal Order of Eagles Aerie 2638,Nightlife,1828
+restaurant,49.285015,-123.11791,La Taqueria,Food,1829
+restaurant,49.277176,-123.11635,Smithe Salad,Food,1830
+bank,49.312466,-123.082306,TD Canada Trust,Business,1831
+restaurant,49.312565,-123.082214,Boston Pizza,Food,1832
+ice_cream,49.312393,-123.08212,Marble Slab Creamery,Food,1833
+restaurant,49.31243,-123.08221,Freshii,Food,1834
+bank,49.209946,-123.14022,CIBC,Business,1835
+restaurant,49.250465,-123.04179,Ragazzi Pizza Co.,Food,1836
+restaurant,49.27264,-123.14982,Octopus Garden,Food,1837
+cafe,49.248093,-123.100815,Sweet Revenge,Food,1838
+bank,49.28126,-123.053894,BMO Bank of Montreal,Business,1839
+restaurant,49.28101,-123.05375,El Pulgarcito,Food,1840
+restaurant,49.281406,-123.04989,Luda Southern Dishes,Food,1841
+cafe,49.28141,-123.049576,Laughing Beans Coffee,Food,1842
+cafe,49.278416,-123.1279,Breka Bakery & Café,Food,1843
+restaurant,49.283077,-123.10838,The Charles Bar,Food,1844
+restaurant,49.26373,-123.25498,Mercante,Food,1845
+bar,49.260384,-123.09642,Biltmore Cabaret,Nightlife,1846
+restaurant,49.28139,-123.05795,Dachi,Food,1847
+fast_food,49.280983,-123.05742,Church's Chicken,Food,1848
+bank,49.281315,-123.0568,RBC,Business,1849
+cafe,49.28132,-123.058716,Pennyroyal Cafe,Food,1850
+fast_food,49.274075,-123.122086,Freshslice Pizza,Food,1851
+restaurant,49.287247,-123.11893,Meat & Bread,Food,1852
+cafe,49.22511,-123.09097,Breka Bakery & Café,Food,1853
+restaurant,49.27435,-123.06936,Kulinarya Filipino Eatery,Food,1854
+fast_food,49.279316,-123.09876,Kent's Kitchen,Food,1855
+fast_food,49.28607,-123.11987,The Bagel Stop,Food,1856
+cafe,49.274067,-123.12736,Trees Organic Coffee,Food,1857
+fast_food,49.27845,-123.12552,Unwind,Food,1858
+fast_food,49.250816,-123.16802,Ridge Garden,Food,1859
+fast_food,49.287045,-123.11979,Fujiya take out,Food,1860
+bureau_de_change,49.287914,-123.1213,Finex Forex,Business,1861
+car_rental,49.288128,-123.11605,Hertz,Transportation,1862
+cafe,49.261883,-123.25304,The Loop Cafe,Food,1863
+restaurant,49.248825,-123.07667,De Dutch Pannekoek House,Food,1864
+atm,49.280758,-123.12243,Bitcoin ATM - Waves Coffee,Business,1865
+restaurant,49.26728,-123.11311,De Dutch,Food,1866
+cafe,49.234394,-123.15481,Honolulu Coffee,Food,1867
+restaurant,49.210922,-123.13044,Applause,Food,1868
+cafe,49.21106,-123.13044,International Deli Cafe,Food,1869
+cafe,49.210873,-123.130455,Starbucks,Food,1870
+restaurant,49.263336,-123.1142,Marulilu Cafe,Food,1871
+restaurant,49.22697,-123.128746,Phở Hòa,Food,1872
+fast_food,49.22692,-123.12881,Subway,Food,1873
+restaurant,49.289383,-123.114426,Mahony and Sons,Food,1874
+restaurant,49.263004,-123.13834,Sushi Van,Food,1875
+fast_food,49.277653,-123.12518,Domino's,Food,1876
+restaurant,49.279476,-123.122955,Romano's Pizza,Food,1877
+bank,49.263733,-123.21105,Vancity,Business,1878
+restaurant,49.273468,-123.119194,Oeb Breakfast Co.,Food,1879
+cafe,49.273205,-123.120735,Sciué Italian Bakery Caffé,Food,1880
+cafe,49.28238,-123.07428,Cafe Rosemary,Food,1881
+restaurant,49.26232,-123.0884,Fassil Ethiopian Restaurant,Food,1882
+restaurant,49.289455,-123.131935,Jang Mo Jib Korean Restaurant,Food,1883
+restaurant,49.280308,-123.11793,Jinya Ramen Bar,Food,1884
+restaurant,49.2819,-123.11878,O Sushi,Food,1885
+restaurant,49.224724,-123.065956,Xiao Jun Meat Skewers,Food,1886
+restaurant,49.234608,-123.18219,Crêpe & Café,Food,1887
+bicycle_rental,49.273357,-123.15453,Kits Beach,Transportation,1888
+restaurant,49.310886,-123.07998,Raglan’s Bistro,Food,1889
+restaurant,49.221157,-123.06604,Katei Sushi,Food,1890
+bank,49.305824,-123.03355,BMO Bank of Montreal,Business,1891
+restaurant,49.305542,-123.03009,Stuffies Pastries Cafe,Food,1892
+bank,49.30653,-123.035774,Vancity,Business,1893
+bank,49.284878,-123.12122,RBC,Business,1894
+cafe,49.28742,-123.11458,Tim Hortons,Food,1895
+bar,49.27938,-123.120224,Red Card Sports Bar + Eatery,Nightlife,1896
+cafe,49.282784,-123.10796,JJ Bean,Food,1897
+bar,49.28251,-123.106804,Metropole,Nightlife,1898
+fast_food,49.282932,-123.108246,Hiro Sushi,Food,1899
+restaurant,49.283066,-123.106964,La Casita,Food,1900
+pub,49.281788,-123.10675,Grand Union Hotel,Nightlife,1901
+fast_food,49.280567,-123.10625,Congee Noodle Delight,Food,1902
+cafe,49.261616,-123.15325,Tangram Creamery,Food,1903
+fast_food,49.280697,-123.12498,Hooked Poke Bar,Food,1904
+restaurant,49.2791,-123.11771,The Noodle Box,Food,1905
+fast_food,49.280727,-123.12493,Pokérrito,Food,1906
+fast_food,49.280807,-123.12482,Trish Juice,Food,1907
+restaurant,49.2823,-123.12251,Bacchus,Food,1908
+fast_food,49.285442,-123.117256,Twin Leaf,Food,1909
+fast_food,49.284214,-123.112465,Pholicious,Food,1910
+restaurant,49.285152,-123.11822,Copper Chimney,Food,1911
+cafe,49.28489,-123.118065,Starbucks,Food,1912
+cafe,49.284863,-123.11878,Cafe Artigiano,Food,1913
+cafe,49.28312,-123.12139,Cafe Artigiano,Food,1914
+cafe,49.284027,-123.11227,Blenz Coffee,Food,1915
+cafe,49.28405,-123.11997,My Honey's Buns,Food,1916
+cafe,49.283066,-123.121475,Faubourg Paris,Food,1917
+cafe,49.282444,-123.12232,Starbucks,Food,1918
+restaurant,49.310158,-123.080055,Tap & Barrel,Food,1919
+restaurant,49.27811,-123.126305,Mangos Lounge,Food,1920
+fast_food,49.283436,-123.11448,Baghdad Cafe,Food,1921
+fast_food,49.277287,-123.127686,Pizza Guys,Food,1922
+cafe,49.27673,-123.12848,Blue Mountain,Food,1923
+cafe,49.276535,-123.12879,BC's Best Coffee,Food,1924
+restaurant,49.283535,-123.11434,Kim House,Food,1925
+restaurant,49.276157,-123.12817,White Spot,Food,1926
+bar,49.264698,-123.09942,Main Street Tasting Lounge,Nightlife,1927
+cafe,49.278767,-123.13786,Sunset Beach Consession Stand,Food,1928
+cafe,49.27172,-123.19156,Jericho Beach Consession,Food,1929
+restaurant,49.27229,-123.15481,Hapa Izakaya,Food,1930
+restaurant,49.272335,-123.15481,Kibune Sushi,Food,1931
+restaurant,49.262665,-123.05691,Bon's Off Broadway,Food,1932
+restaurant,49.219276,-123.14911,Senova,Food,1933
+bank,49.234436,-123.155754,BMO,Business,1934
+bank,49.26926,-123.04389,RBC Royal Bank,Business,1935
+bank,49.269264,-123.044876,Scotiabank,Business,1936
+fast_food,49.26215,-123.04476,Mr. Sub,Food,1937
+bank,49.261986,-123.05691,TD Canada Trust,Business,1938
+fast_food,49.3053,-123.03168,A&W,Food,1939
+cafe,49.23247,-123.02402,Starbucks,Food,1940
+restaurant,49.28778,-123.1414,Papi's Seafood and Oyster Bar,Food,1941
+restaurant,49.263626,-123.18527,Brown's Social House,Food,1942
+bank,49.247967,-123.18511,CIBC,Business,1943
+restaurant,49.2656,-123.12198,Szechuan Chili Restaurant,Food,1944
+restaurant,49.26572,-123.12232,Yanaki Sushi,Food,1945
+fast_food,49.265556,-123.11999,Subway,Food,1946
+restaurant,49.252903,-123.08226,Green Lemongrass,Food,1947
+restaurant,49.277843,-123.12763,Nando's,Food,1948
+fast_food,49.27791,-123.12773,Subway,Food,1949
+restaurant,49.269104,-123.03418,Poor Italian,Food,1950
+cafe,49.270977,-123.08768,Starbucks,Food,1951
+cafe,49.27216,-123.09772,Tim Hortons,Food,1952
+restaurant,49.267952,-123.15072,Indian Oven,Food,1953
+cafe,49.266277,-123.15271,Arbutus Coffee,Food,1954
+cafe,49.269024,-123.14601,Starbucks,Food,1955
+cafe,49.268772,-123.14515,Bel Café,Food,1956
+fast_food,49.27414,-123.12007,Fresh Bowl,Food,1957
+restaurant,49.274952,-123.11865,La Terrazza,Food,1958
+bank,49.274323,-123.12079,RBC,Business,1959
+restaurant,49.27658,-123.12558,Sushi Yamato,Food,1960
+restaurant,49.276695,-123.12574,Happy Noodle House,Food,1961
+restaurant,49.276802,-123.1259,Basil Pasta Bar,Food,1962
+restaurant,49.276833,-123.12601,Jako Sushi,Food,1963
+cafe,49.276886,-123.12606,Persian Tea House,Food,1964
+restaurant,49.273098,-123.12119,Honjin Yaletown Sushi Restaurant,Food,1965
+restaurant,49.31163,-123.0749,Sushi Mania,Food,1966
+restaurant,49.312054,-123.07434,V-Nam,Food,1967
+cafe,49.26823,-123.16617,Cornerstone Coffee Shop,Food,1968
+cafe,49.268192,-123.16471,Cafe Lokal,Food,1969
+bank,49.254803,-123.115425,TD Canada Trust,Business,1970
+fast_food,49.255516,-123.115326,Flying Wedge Pizza,Food,1971
+restaurant,49.279297,-123.09789,Jang Mo Jib Korean Restaurant,Food,1972
+cafe,49.277603,-123.12722,Tim Hortons,Food,1973
+cafe,49.279057,-123.12558,Starbucks,Food,1974
+cafe,49.276737,-123.12524,Starbucks,Food,1975
+restaurant,49.239384,-123.053085,Come Along Seafood Restaurant,Food,1976
+restaurant,49.280537,-123.10095,DD Mau Chinatown,Food,1977
+cafe,49.282566,-123.11139,Social Crust Cafe & Catering,Food,1978
+restaurant,49.311653,-123.080345,Freshslice Pizza,Food,1979
+cafe,49.311703,-123.08043,Tim Hortons,Food,1980
+restaurant,49.231678,-123.02981,Royal Nepalese Momo Palace,Food,1981
+restaurant,49.281338,-123.06252,Koko Japanese Restaurant,Food,1982
+cafe,49.281322,-123.063286,Yama Cafe,Food,1983
+restaurant,49.2809,-123.06254,Gold Penny Restaurant,Food,1984
+cafe,49.281315,-123.06088,Mr Red Cafe,Food,1985
+restaurant,49.281033,-123.05855,X-Site Grill & Bistro,Food,1986
+restaurant,49.281036,-123.05913,Chomp Vegan Eatery,Food,1987
+fast_food,49.29145,-123.13513,Donair Town,Food,1988
+fast_food,49.23365,-123.03612,Domino's,Food,1989
+restaurant,49.233448,-123.03631,Flip Side Desserts,Food,1990
+restaurant,49.233425,-123.03534,Kung Fu Noodle,Food,1991
+restaurant,49.23554,-123.0387,Dumpling House,Food,1992
+restaurant,49.244907,-123.02413,Kimu Japanese Cuisine,Food,1993
+bank,49.210278,-123.11747,Scotiabank,Business,1994
+cafe,49.21066,-123.11683,CoCo Fresh Tea & Juice,Food,1995
+bank,49.210598,-123.116585,RBC,Business,1996
+restaurant,49.20552,-123.13127,Cravings Restaurant and Sports Bar,Food,1997
+restaurant,49.20474,-123.13084,White Spot,Food,1998
+library,49.281055,-123.100006,VPL Carnegie Branch,Leisure,1999
+restaurant,49.204456,-123.13936,Thai Son Restaurant,Food,2000
+restaurant,49.209225,-123.14025,Jasmine Flower Shanghai Cuisine,Food,2001
+restaurant,49.21014,-123.14009,Wang's Taiwan Beef Noodle House,Food,2002
+fast_food,49.21116,-123.14086,Panago Pizza,Food,2003
+restaurant,49.211018,-123.14015,Red Star Seafood Restaurant,Food,2004
+restaurant,49.21192,-123.14066,Bing & Noodle World,Food,2005
+restaurant,49.21215,-123.1409,Pizza Hut,Food,2006
+restaurant,49.212887,-123.14017,Tai Tung,Food,2007
+bank,49.211987,-123.14016,HSBC,Business,2008
+restaurant,49.211674,-123.14018,Sushi King House,Food,2009
+restaurant,49.211628,-123.14068,Sushi Wow,Food,2010
+cafe,49.212475,-123.14064,Mr. Mustache Bubble Tea,Food,2011
+restaurant,49.212345,-123.140656,Sushi Bar Shu,Food,2012
+restaurant,49.213264,-123.14005,The Meat Up,Food,2013
+restaurant,49.21337,-123.14005,Snackshot,Food,2014
+restaurant,49.21356,-123.140144,Mirchi,Food,2015
+cafe,49.213985,-123.14013,Taan Char,Food,2016
+cafe,49.212696,-123.14065,Bubble Bear Cafe,Food,2017
+bank,49.21295,-123.140656,TD Canada Trust,Business,2018
+restaurant,49.28634,-123.12779,Rise & Noodle,Food,2019
+bicycle_rental,49.260876,-123.24858,Dropbike Haven,Transportation,2020
+theatre,49.267254,-123.250305,The Norm Theatre,Attraction,2021
+fast_food,49.267403,-123.249596,Subway,Food,2022
+fast_food,49.26733,-123.249756,Booster Juice,Food,2023
+cafe,49.26727,-123.24993,Starbucks,Food,2024
+marketplace,49.310204,-123.07963,Shipyards Christmas Market,Leisure,2025
+restaurant,49.28091,-123.06342,On Lok Restaurant & Wun Tun House,Food,2026
+restaurant,49.25647,-123.100555,Browns Crafthouse,Food,2027
+restaurant,49.257015,-123.10145,Kwong Chow Congee & Noodle House,Food,2028
+restaurant,49.249302,-123.10142,Chi House,Food,2029
+ice_cream,49.28349,-123.106735,The Praguery,Food,2030
+fast_food,49.26266,-123.091515,Domino's,Food,2031
+restaurant,49.26339,-123.13701,Shin Ka Gyuu,Food,2032
+cafe,49.26351,-123.142105,Boba Boy,Food,2033
+restaurant,49.27156,-123.15485,Basil Pasta Bar,Food,2034
+restaurant,49.307854,-123.040955,White Spot,Food,2035
+fast_food,49.305744,-123.03336,Wendy's,Food,2036
+cafe,49.306553,-123.03459,Tim Hortons,Food,2037
+restaurant,49.306934,-123.03455,Freshii,Food,2038
+ferry_terminal,49.290306,-123.11635,V2V Vacations Vancouver Dock,Transportation,2039
+fast_food,49.26617,-123.069496,La Pache Pizza,Food,2040
+ice_cream,49.26625,-123.0695,Elephant Garden Creamery,Food,2041
+restaurant,49.269558,-123.139984,Sushi HANABI,Food,2042
+cafe,49.26957,-123.13985,HY Tea Lounge,Food,2043
+cafe,49.23359,-123.06578,Starbucks,Food,2044
+cafe,49.286175,-123.140625,JJ Beans,Food,2045
+bar,49.28423,-123.11138,Red Room,Nightlife,2046
+cafe,49.283497,-123.11252,Indigo Age,Food,2047
+fast_food,49.283752,-123.1121,Waffle Frenzy,Food,2048
+fast_food,49.283913,-123.11236,Subway,Food,2049
+cafe,49.28447,-123.11034,Buro,Food,2050
+cafe,49.28419,-123.10992,Brioche,Food,2051
+bureau_de_change,49.283623,-123.11281,Currency Exchange,Business,2052
+restaurant,49.27651,-123.127426,Alpha,Food,2053
+restaurant,49.276775,-123.126465,Stack House,Food,2054
+bar,49.277042,-123.12663,Twelve West,Nightlife,2055
+pub,49.263958,-123.115204,Milestones,Nightlife,2056
+pub,49.28071,-123.11722,Kingston,Nightlife,2057
+restaurant,49.283943,-123.09984,Deacon's Corner,Food,2058
+restaurant,49.279736,-123.12666,Tokyo Joe's,Food,2059
+cafe,49.28014,-123.12726,Starbucks,Food,2060
+fast_food,49.278717,-123.12894,Mucho Burrito,Food,2061
+pub,49.279655,-123.12973,Fountainhead Pub,Nightlife,2062
+restaurant,49.2631,-123.11769,Rogue Kitchen & Wetbar,Food,2063
+cafe,49.287216,-123.128555,Starbucks,Food,2064
+restaurant,49.28594,-123.12658,Earl's,Food,2065
+cafe,49.27838,-123.114944,Waves Coffee House,Food,2066
+fast_food,49.279682,-123.12653,Subway,Food,2067
+cafe,49.28525,-123.11618,Sciué,Food,2068
+bank,49.285297,-123.11558,Tangerine,Business,2069
+cafe,49.284668,-123.1152,Starbucks,Food,2070
+cafe,49.284954,-123.115585,Tim Hortons,Food,2071
+bank,49.28628,-123.11769,Scotiabank,Business,2072
+bank,49.286522,-123.1172,CIBC,Business,2073
+theatre,49.279934,-123.12057,The Orpheum,Attraction,2074
+bicycle_rental,49.26346,-123.08884,8th & Fraser,Transportation,2075
+restaurant,49.2838,-123.12091,Notch8,Food,2076
+restaurant,49.283493,-123.11938,Hawksworth Restaurant,Food,2077
+cafe,49.26859,-123.25777,Seedlings,Food,2078
+restaurant,49.269524,-123.108215,WildTale Olympic Village,Food,2079
+restaurant,49.271404,-123.10596,Gusto,Food,2080
+bar,49.281277,-123.05519,The Brighton,Nightlife,2081
+restaurant,49.285732,-123.116234,Hydra Estiatorio Mediterranean,Food,2082
+restaurant,49.28315,-123.10652,Revel Room,Food,2083
+restaurant,49.249985,-123.11517,Corner 23,Food,2084
+cafe,49.206352,-123.030685,Starbucks,Food,2085
+bank,49.20495,-123.03615,TD Canada Trust,Business,2086
+cafe,49.263065,-123.11658,Honolulu Coffee,Food,2087
+restaurant,49.263496,-123.12549,Red Ginger,Food,2088
+cafe,49.26099,-123.11558,Starbucks,Food,2089
+bank,49.273907,-123.12078,HSBC,Business,2090
+restaurant,49.263763,-123.13904,Bin 942,Food,2091
+cafe,49.261272,-123.24656,Starbucks,Food,2092
+restaurant,49.26105,-123.24822,Pacific Poke,Food,2093
+cafe,49.262203,-123.24499,Perugia Italian Caffè,Food,2094
+restaurant,49.226833,-123.12881,Sushi Mura,Food,2095
+restaurant,49.256966,-123.089294,Straight Outta Brooklyn NYC Pizzeria,Food,2096
+restaurant,49.28268,-123.12055,Art Gallery Cafe,Food,2097
+restaurant,49.27879,-123.09954,Ba Le Sandwich Shop,Food,2098
+restaurant,49.278694,-123.09954,Straight Outta Brooklyn NYC Pizza,Food,2099
+ice_cream,49.27504,-123.123375,Yaletown Gelato,Food,2100
+bar,49.280415,-123.107414,Bismarck,Nightlife,2101
+fast_food,49.28054,-123.10741,Einstein Wrap House,Food,2102
+theatre,49.28069,-123.11256,Vancouver Playhouse,Attraction,2103
+theatre,49.28031,-123.11316,Queen Elizabeth Theatre,Attraction,2104
+restaurant,49.23964,-123.05409,Kwan Luck Restaurant,Food,2105
+restaurant,49.239666,-123.0537,I&I Jamaican Restaurant,Food,2106
+restaurant,49.239613,-123.0536,Yue Ting Seafood Restaurant,Food,2107
+cafe,49.230625,-123.09089,Off the Grid Waffle Cafe,Food,2108
+restaurant,49.23754,-123.0494,Top Cantonese Cuisine Restaurant,Food,2109
+restaurant,49.23714,-123.04828,McKim Wonton Mein Saga,Food,2110
+restaurant,49.244186,-123.062805,Excellent Dim Sum King Restaurant,Food,2111
+restaurant,49.244358,-123.06318,Vegan Pizza House,Food,2112
+car_rental,49.24396,-123.063,Mr. Rent-A-Car,Transportation,2113
+restaurant,49.244118,-123.06335,Zamzam Grill,Food,2114
+restaurant,49.238014,-123.06521,Fatty Cow Seafood Hot Pot,Food,2115
+restaurant,49.23725,-123.0656,Kalvin's Szechuan Restaurant,Food,2116
+restaurant,49.237335,-123.06558,Hanoi Old Quarter Restaurant,Food,2117
+fast_food,49.279613,-123.12393,Babylon Cafe,Food,2118
+fast_food,49.274757,-123.10026,Subway,Food,2119
+cafe,49.27988,-123.123634,Pallet Coffee Roasters,Food,2120
+restaurant,49.281036,-123.1042,Calabash,Food,2121
+bicycle_rental,49.277393,-123.07042,Commercial & Adanac,Transportation,2122
+bicycle_rental,49.27766,-123.073555,Adanac & McLean,Transportation,2123
+bicycle_rental,49.28104,-123.10441,Carrall & Hastings,Transportation,2124
+internet_cafe,49.2834,-123.11452,5FiftyGame,Leisure,2125
+bicycle_rental,49.284058,-123.09505,Alexander & Dunlevy,Transportation,2126
+bicycle_rental,49.283993,-123.0911,Alexander & Railway,Transportation,2127
+bar,49.25921,-123.13891,Caffe Barney,Nightlife,2128
+fast_food,49.262966,-123.09882,Pizza Pizza,Food,2129
+cafe,49.211254,-123.14017,Jenjudan,Food,2130
+cafe,49.274006,-123.1224,Cha Yuan,Food,2131
+restaurant,49.26819,-123.06988,Carthage Cafe,Food,2132
+bank,49.259666,-123.044624,Cibc Banking Centre,Business,2133
+restaurant,49.28198,-123.106316,Moltaqa,Food,2134
+restaurant,49.278637,-123.11532,Delicious Pho,Food,2135
+pub,49.28347,-123.07367,Andina Tasting Lounge,Nightlife,2136
+restaurant,49.28822,-123.122314,Prestons Restaurant + Lounge,Food,2137
+restaurant,49.287907,-123.120094,Showcase Restaurant & Bar,Food,2138
+bank,49.288574,-123.12128,TD Canada Trust,Business,2139
+restaurant,49.291603,-123.12848,6 Degrees Eatery,Food,2140
+bank,49.289352,-123.1389,G&F Financial Group,Business,2141
+restaurant,49.275917,-123.121376,Elisa Wood-Fired Grill,Food,2142
+cafe,49.274395,-123.12621,Matchstick,Food,2143
+cafe,49.25452,-123.11499,Xing Fu Tang,Food,2144
+restaurant,49.22397,-123.091034,New Novelty Restaurant,Food,2145
+cafe,49.260963,-123.06998,Kyle's Cafe,Food,2146
+bank,49.285526,-123.11585,National Bank,Business,2147
+cafe,49.28126,-123.02543,In the Moment Coffee,Food,2148
+bank,49.281006,-123.05423,Vancity,Business,2149
+bank,49.280987,-123.05227,HSBC,Business,2150
+restaurant,49.281006,-123.05329,Bo Laksa King's Bubbles & Bits,Food,2151
+bank,49.2813,-123.054886,TD Canada Trust,Business,2152
+cafe,49.28126,-123.05367,Starbucks,Food,2153
+fast_food,49.28126,-123.05373,FreshSlice,Food,2154
+restaurant,49.267895,-123.146225,Ajiya Sushi,Food,2155
+fast_food,49.28034,-123.10727,Abdul's BBQ,Food,2156
+fast_food,49.268307,-123.17239,Yak & Yeti Bistro,Food,2157
+fast_food,49.263687,-123.21136,Everyday Sushi,Food,2158
+restaurant,49.2311,-123.06581,Aji Kura,Food,2159
+fast_food,49.268784,-123.18522,The Cove Pub,Food,2160
+bank,49.213734,-123.140144,Primerica,Business,2161
+fast_food,49.251427,-123.127266,Best Neighbors,Food,2162
+cafe,49.262188,-123.25014,Starbucks,Food,2163
+restaurant,49.27568,-123.12175,Cioppino's Mediterranean Grill,Food,2164
+restaurant,49.27579,-123.12159,Urban Thai Bistro,Food,2165
+restaurant,49.276096,-123.12112,Blue Water Cafe + raw bar,Food,2166
+bank,49.276978,-123.11982,TD Canada Trust,Business,2167
+bank,49.276737,-123.11959,Bank Of Montreal,Business,2168
+restaurant,49.23238,-123.06531,Jun Yuan Restaurant,Food,2169
+restaurant,49.267414,-123.06994,Riddim & Spice,Food,2170
+cafe,49.267197,-123.06946,Prado Cafe,Food,2171
+cafe,49.27273,-123.02848,Ethical Bean Café,Food,2172
+bicycle_rental,49.261166,-123.06598,Victoria & 10th,Transportation,2173
+bicycle_rental,49.266632,-123.065865,Victoria & 4th,Transportation,2174
+bicycle_rental,49.280178,-123.06601,Pender & Victoria,Transportation,2175
+bicycle_rental,49.28032,-123.07007,Pender & Commercial,Transportation,2176
+cafe,49.26453,-123.10503,Elysian Coffee Roasters,Food,2177
+restaurant,49.265575,-123.06998,Harambe,Food,2178
+cafe,49.283905,-123.1095,Timbertrain,Food,2179
+restaurant,49.283848,-123.109406,Greedy Pig,Food,2180
+fast_food,49.283016,-123.10918,Meatball Kitchen,Food,2181
+cafe,49.28374,-123.10923,Bamboo Cafe,Food,2182
+restaurant,49.282944,-123.109215,Haru Korean Kitchen,Food,2183
+bar,49.28281,-123.10926,Pub 340,Nightlife,2184
+restaurant,49.27227,-123.06932,Famoso,Food,2185
+restaurant,49.272488,-123.06931,Memphis Blues,Food,2186
+restaurant,49.259766,-123.07002,Bandidas Taqueria,Food,2187
+restaurant,49.260155,-123.070015,Toby's Pub & Grill,Food,2188
+restaurant,49.287968,-123.12142,SMAK,Food,2189
+restaurant,49.28015,-123.10987,Chambar,Food,2190
+restaurant,49.28023,-123.11031,Fatburger,Food,2191
+restaurant,49.280327,-123.1105,Rickys All Day Burger,Food,2192
+fast_food,49.279263,-123.10785,Subway,Food,2193
+cafe,49.28097,-123.107834,Tim Hortons,Food,2194
+pub,49.26833,-123.10038,The Narrow Lounge,Nightlife,2195
+restaurant,49.27844,-123.12454,Templeton's,Food,2196
+bar,49.27695,-123.12616,Two Parrots,Nightlife,2197
+fast_food,49.277294,-123.12667,Fritz's European Fry House,Food,2198
+fast_food,49.277668,-123.126686,Freshslice Pizza,Food,2199
+restaurant,49.281258,-123.054184,Le Pho,Food,2200
+cafe,49.26482,-123.11725,Caffè Cittadella,Food,2201
+cafe,49.288868,-123.1311,PappaRoti,Food,2202
+fast_food,49.280056,-123.13091,Pokébar,Food,2203
+restaurant,49.275536,-123.12084,Yaletown Brewing Company,Food,2204
+restaurant,49.273525,-123.06937,Fets Whisky Kitchen,Food,2205
+restaurant,49.266518,-123.06947,Siddhartha's Indian Kitchen,Food,2206
+restaurant,49.26435,-123.17647,Midam Cafe,Food,2207
+restaurant,49.266354,-123.104095,Field & Social,Food,2208
+restaurant,49.252823,-123.101135,Published on Main,Food,2209
+restaurant,49.29024,-123.134445,Ramen Takanotsume,Food,2210
+restaurant,49.290348,-123.13428,Momo Sushi,Food,2211
+restaurant,49.263767,-123.16326,White Spot,Food,2212
+bicycle_rental,49.258022,-123.08335,Windsor & 14th,Transportation,2213
+bicycle_rental,49.257954,-123.08953,14th & Fraser,Transportation,2214
+pub,49.282223,-123.12412,Ballyhoo Public House,Nightlife,2215
+bar,49.31123,-123.07802,Streetcar Tasting Room,Nightlife,2216
+restaurant,49.212032,-123.140884,Golden Pair Vietnamese Asian Cuisine,Food,2217
+restaurant,49.21194,-123.14083,Neptune BBQ House,Food,2218
+restaurant,49.210773,-123.14068,Talay Thai Restaurant,Food,2219
+cafe,49.212776,-123.14019,Xing Fu Tang,Food,2220
+restaurant,49.218838,-123.10158,Best Quality Sweets & Restaurant,Food,2221
+restaurant,49.219097,-123.10208,Original Tandoori Kitchen,Food,2222
+restaurant,49.282482,-123.12363,Italian Kitchen,Food,2223
+restaurant,49.269352,-123.13083,Dockside,Food,2224
+pub,49.270554,-123.13567,Granville Island Brewing Taproom,Nightlife,2225
+pub,49.282795,-123.10415,Blarney Stone,Nightlife,2226
+cafe,49.26317,-123.120865,Lotus Seed Vegan,Food,2227
+restaurant,49.276234,-123.125015,The Ramenman,Food,2228
+fast_food,49.276012,-123.1219,Yopo,Food,2229
+restaurant,49.27592,-123.12456,Nuba,Food,2230
+bank,49.27614,-123.1217,Scotiabank,Business,2231
+fast_food,49.275333,-123.12373,Menchie's Frozen Yogourt,Food,2232
+bar,49.275707,-123.122284,The New Oxford,Nightlife,2233
+restaurant,49.275684,-123.12206,Brix & Mortar,Food,2234
+cafe,49.276108,-123.12176,O-Cha Tea Bar,Food,2235
+bar,49.27962,-123.101326,The Keefer,Nightlife,2236
+restaurant,49.279602,-123.10059,Bao Bei,Food,2237
+fast_food,49.279808,-123.12677,Balila,Food,2238
+restaurant,49.277847,-123.12482,The Edge,Food,2239
+cafe,49.27646,-123.121216,Small Victory,Food,2240
+place_of_worship,49.279938,-123.11653,Westside Church,Attraction,2241
+restaurant,49.26248,-123.07071,Hon's Wonton House,Food,2242
+cafe,49.286633,-123.134026,Greenhorn Espresso Bar,Food,2243
+car_rental,49.27342,-123.09811,Hertz,Transportation,2244
+cafe,49.28207,-123.11373,JJ Bean,Food,2245
+cafe,49.281998,-123.113625,Field & Social,Food,2246
+restaurant,49.287052,-123.12465,Yui Japanese Bistro,Food,2247
+cafe,49.28681,-123.11317,Blenz Coffee,Food,2248
+cafe,49.28774,-123.14086,Mediterranean Grill,Food,2249
+cinema,49.289196,-123.11035,FlyOver Canada,Leisure,2250
+marketplace,49.257996,-123.06193,Trout Lake Farmer's Market,Leisure,2251
+marketplace,49.24301,-123.104546,Riley Park Farmers Market,Leisure,2252
+marketplace,49.27994,-123.11378,Downtown Farmers Market,Leisure,2253
+marketplace,49.26214,-123.16155,Kitsilano Farmers Market,Leisure,2254
+marketplace,49.263786,-123.093735,Mount Pleasant Farmers Market,Leisure,2255
+marketplace,49.282673,-123.13042,West End Farmers Market,Leisure,2256
+restaurant,49.28457,-123.12293,Black+Blue,Food,2257
+place_of_worship,49.28893,-123.13184,Kingdom Hall of Jehovah's Witnesses,Attraction,2258
+restaurant,49.28132,-123.05891,Jackalope's Neighborhood Dive,Food,2259
+restaurant,49.263794,-123.139984,Freshii,Food,2260
+fast_food,49.276173,-123.12491,Chancho Tortilleria,Food,2261
+ice_cream,49.287827,-123.11621,Bella Gelateria,Food,2262
+fast_food,49.2638,-123.140594,Subway,Food,2263
+cafe,49.263832,-123.140785,Tim Hortons,Food,2264
+restaurant,49.278797,-123.12401,The Mexican Antojitos y Cantina,Food,2265
+bicycle_rental,49.27761,-123.095795,Union & Dunlevy,Transportation,2266
+restaurant,49.264854,-123.10861,Emelle's Westside Kitchen,Food,2267
+studio,49.26495,-123.108665,The Embassy,Business,2268
+bar,49.2024,-123.1442,Milltown Bar & Grill,Nightlife,2269
+cafe,49.219524,-123.0411,Starbucks,Food,2270
+fast_food,49.219265,-123.04083,A&W,Food,2271
+fast_food,49.21887,-123.040184,Subway,Food,2272
+bank,49.219276,-123.04011,BMO,Business,2273
+car_sharing,49.27706,-123.12545,Vancouver - Davie Street & Granville Street,Transportation,2274
+restaurant,49.256184,-123.10104,El camino's,Food,2275
+cafe,49.25782,-123.16828,Starbucks,Food,2276
+pub,49.264492,-123.184204,The Wolf and Hound,Nightlife,2277
+fast_food,49.264038,-123.17806,McDonald's,Food,2278
+cafe,49.264164,-123.1663,Starbucks,Food,2279
+pub,49.263943,-123.1492,Manchester Public Eatery,Nightlife,2280
+car_rental,49.27654,-123.126854,Enterprise,Transportation,2281
+cafe,49.27714,-123.12647,Blenz Coffee,Food,2282
+cafe,49.279922,-123.1179,Starbucks,Food,2283
+cinema,49.278667,-123.12646,The Cinematheque,Leisure,2284
+cafe,49.280724,-123.12249,Waves Coffee House,Food,2285
+pub,49.281143,-123.11982,Lennox Pub,Nightlife,2286
+bank,49.263996,-123.209305,RBC,Business,2287
+bank,49.26443,-123.17963,Vancity,Business,2288
+ferry_terminal,49.27424,-123.13437,Hornby Terminal (Aquabus),Transportation,2289
+restaurant,49.274178,-123.13286,GO Canada,Food,2290
+cafe,49.27507,-123.13333,Prego Cofee,Food,2291
+restaurant,49.276752,-123.130554,Sushi Hiyori,Food,2292
+restaurant,49.27695,-123.130066,Giardino Restaurant,Food,2293
+bank,49.265984,-123.243385,BMO,Business,2294
+bank,49.266407,-123.24371,CIBC,Business,2295
+fast_food,49.26668,-123.24251,McDonald's,Food,2296
+bank,49.25969,-123.13839,CIBC,Business,2297
+bank,49.26062,-123.13842,Scotiabank,Business,2298
+bank,49.26129,-123.13895,HSBC,Business,2299
+cafe,49.26322,-123.13892,Starbucks,Food,2300
+cafe,49.263454,-123.13836,Blenz Coffee,Food,2301
+bank,49.263783,-123.13833,RBC,Business,2302
+cafe,49.26548,-123.138275,Starbucks,Food,2303
+ferry_terminal,49.27657,-123.13673,Aquatic Centre Dock (False Creek Ferries),Transportation,2304
+place_of_worship,49.26566,-123.206215,St Helens Anglican Church,Attraction,2305
+restaurant,49.26434,-123.17606,Olympia Pizza,Food,2306
+pub,49.264233,-123.17257,Russel Brewing Company,Nightlife,2307
+restaurant,49.26428,-123.17272,East is East,Food,2308
+cafe,49.263973,-123.17027,Starbucks,Food,2309
+library,49.26472,-123.16872,VPL Kitsilano Branch,Leisure,2310
+cafe,49.264126,-123.16328,Thomas Haas,Food,2311
+cafe,49.26374,-123.157814,Platform 7,Food,2312
+fast_food,49.26371,-123.154594,Evelyn's Coffee and Grill,Food,2313
+cafe,49.263668,-123.14851,Solaris Coffee,Food,2314
+restaurant,49.26385,-123.14485,Denny's,Food,2315
+cafe,49.263546,-123.144394,Starbucks,Food,2316
+pub,49.26383,-123.14168,Storm Crow Alehouse,Nightlife,2317
+cafe,49.28325,-123.1164,Xing Fu Tang,Food,2318
+bicycle_rental,49.277275,-123.08735,Hawks & Union,Transportation,2319
+bicycle_rental,49.279217,-123.087494,Keefer & Hawks,Transportation,2320
+fast_food,49.262676,-123.09045,Subway,Food,2321
+restaurant,49.29026,-123.13388,Guu ​with Garlic,Food,2322
+cafe,49.259144,-123.10084,49th Parallel Café & Lucky's Donuts,Food,2323
+cafe,49.258522,-123.10088,Starbucks,Food,2324
+restaurant,49.241226,-123.101654,Long's Noodle House,Food,2325
+cafe,49.265472,-123.13589,Wicked Cafe,Food,2326
+bank,49.263687,-123.13397,Canadian Western Bank,Business,2327
+place_of_worship,49.2371,-123.1218,Oakridge Adventist Chruch,Attraction,2328
+place_of_worship,49.28163,-123.1037,Potters Place Mission,Attraction,2329
+fast_food,49.28046,-123.1219,Subway,Food,2330
+restaurant,49.282833,-123.11542,Peaceful Restaurant,Food,2331
+bar,49.285202,-123.120346,Grain Tasting Bar,Nightlife,2332
+restaurant,49.26881,-123.044876,Thai Son Restaurant,Food,2333
+restaurant,49.22575,-123.066216,Weirdo Cafe,Food,2334
+restaurant,49.231773,-123.030045,Kuan Zhai Road Restaurant,Food,2335
+cafe,49.231693,-123.02963,Jenjudan,Food,2336
+restaurant,49.27553,-123.12202,Tavern,Food,2337
+studio,49.26648,-123.11104,The Beaumont Studios,Business,2338
+place_of_worship,49.277042,-123.1248,Trinity Central,Attraction,2339
+bicycle_rental,49.270332,-123.10274,Quebec & 1st,Transportation,2340
+cafe,49.247345,-123.100945,Trafiq,Food,2341
+cafe,49.313427,-123.077354,Starbucks,Food,2342
+restaurant,49.26611,-123.06986,Tangent Cafe,Food,2343
+bank,49.27326,-123.12065,Coast Capital Savings,Business,2344
+restaurant,49.257286,-123.12698,De Dutch,Food,2345
+cafe,49.257,-123.12702,16th Avenue Cafe,Food,2346
+restaurant,49.25799,-123.12717,Kai Sushi Bar,Food,2347
+police,49.258976,-123.238396,University RCMP,Business,2348
+restaurant,49.269447,-123.14071,Apollinia,Food,2349
+theatre,49.278206,-123.11341,Frankie's Jazz Club,Attraction,2350
+pub,49.270573,-123.106384,Craft Restaurant & Bar,Nightlife,2351
+boat_rental,49.274994,-123.199295,Jericho Beach Kayak Centre,Transportation,2352
+boat_rental,49.275574,-123.20135,Windsure Adventure Watersports,Transportation,2353
+boat_rental,49.2764,-123.15249,Vancouver Water Adventures,Transportation,2354
+cafe,49.28576,-123.11167,Starbucks,Food,2355
+restaurant,49.285393,-123.111404,Rogue Kitchen & Wetbar,Food,2356
+bar,49.279697,-123.1304,Numbers,Nightlife,2357
+car_rental,49.270466,-123.14302,Enterprise,Transportation,2358
+bank,49.263474,-123.13913,CTC Bank Of Canada,Business,2359
+restaurant,49.263428,-123.139626,Cactus Club Cafe,Food,2360
+fast_food,49.276287,-123.214905,Spanish Banks East Concession,Food,2361
+restaurant,49.279972,-123.12531,Guu Garden,Food,2362
+fast_food,49.235928,-123.044716,Dairy Queen,Food,2363
+place_of_worship,49.23565,-123.044106,Fu-Niu Buddhist Temple,Attraction,2364
+restaurant,49.27504,-123.12112,Milssam Tacorea,Food,2365
+restaurant,49.256893,-123.089226,Sal y Limon,Food,2366
+restaurant,49.26408,-123.186066,Baru,Food,2367
+cafe,49.31164,-123.07847,West of Java Cafe,Food,2368
+restaurant,49.26379,-123.13968,Lin Chinese Cuisine And Tea House,Food,2369
+restaurant,49.281494,-123.13315,Dosa and Curry on Davie,Food,2370
+bicycle_rental,49.26759,-123.09467,Thornton & 1st,Transportation,2371
+bank,49.285606,-123.122215,Coast Capital Savings,Business,2372
+pub,49.277767,-123.09892,The Union,Nightlife,2373
+cafe,49.286037,-123.12303,49th Parallel Café & Lucky's Doughnuts,Food,2374
+restaurant,49.28099,-123.06111,IPOH Asian House,Food,2375
+restaurant,49.27868,-123.11539,Tacos & Cantina,Food,2376
+cafe,49.274364,-123.12687,Doux Crêpes,Food,2377
+fast_food,49.280827,-123.12479,One Saigon,Food,2378
+bank,49.280144,-123.12522,RBC,Business,2379
+restaurant,49.264492,-123.101166,Rumpus Room,Food,2380
+casino,49.28554,-123.0402,Casino Slots & Gaming Floor at Hastings Racecourse,Leisure,2381
+bicycle_rental,49.275562,-123.10275,Creekside Park North,Transportation,2382
+cafe,49.28759,-123.12162,Tim Hortons,Food,2383
+fast_food,49.286617,-123.120964,Triple O's,Food,2384
+restaurant,49.287548,-123.12104,Heritage Asian Eatery,Food,2385
+restaurant,49.287365,-123.12167,Indian Delicacy,Food,2386
+restaurant,49.287666,-123.121895,Symphonie,Food,2387
+cafe,49.249466,-123.11565,Tim Hortons,Food,2388
+cafe,49.263683,-123.23934,The Original Beanery,Food,2389
+restaurant,49.250134,-123.076515,Do Chay,Food,2390
+cafe,49.257797,-123.10092,Kind Cafe,Food,2391
+bank,49.258835,-123.10137,G&F Financial Group,Business,2392
+cafe,49.26334,-123.13265,Fufú Café,Food,2393
+cafe,49.28579,-123.12691,Castella Cheesecake,Food,2394
+restaurant,49.285587,-123.12381,Market by Jean-Georges,Food,2395
+restaurant,49.286934,-123.124664,Freshii,Food,2396
+restaurant,49.27977,-123.12993,Joe's Grill,Food,2397
+fast_food,49.27952,-123.130104,Vera's Burger Shack,Food,2398
+cafe,49.278755,-123.130104,Molli Cafe,Food,2399
+cafe,49.280384,-123.130936,Starbucks,Food,2400
+restaurant,49.239746,-123.02994,Sushi Taku,Food,2401
+bank,49.234196,-123.03559,Vancity,Business,2402
+restaurant,49.265045,-123.02427,Knight & Day Restaurant,Food,2403
+bank,49.257854,-123.034065,BMO,Business,2404
+restaurant,49.248234,-123.1009,Boiling Point,Food,2405
+restaurant,49.24909,-123.1014,Zakkushi Dining on Main,Food,2406
+cafe,49.25198,-123.10077,Hayan Mug,Food,2407
+restaurant,49.251884,-123.10076,Sushi Main,Food,2408
+cafe,49.246323,-123.101425,KingSize Bubble Tea & Games,Food,2409
+restaurant,49.246468,-123.10141,Trilussa Pizza & Pane,Food,2410
+fast_food,49.246864,-123.101395,Freshslice Pizza,Food,2411
+restaurant,49.247818,-123.100914,Rocky Mountain Flatbread,Food,2412
+restaurant,49.24796,-123.10091,The Reef,Food,2413
+restaurant,49.24609,-123.10103,The Shameful Tiki Room,Food,2414
+restaurant,49.246433,-123.10102,GRUB,Food,2415
+cafe,49.241882,-123.10166,Matchstick,Food,2416
+restaurant,49.258682,-123.10088,Hyde Restaurant & Lounge,Food,2417
+fast_food,49.259422,-123.100876,Dairy Queen,Food,2418
+restaurant,49.259583,-123.10087,Marutama Ramen,Food,2419
+restaurant,49.261036,-123.10177,Dock Lunch,Food,2420
+restaurant,49.26379,-123.10071,Soil Restaurant,Food,2421
+restaurant,49.263447,-123.1165,Benkei Ramen,Food,2422
+restaurant,49.263096,-123.116806,Hokkaido Ramen Santouka,Food,2423
+restaurant,49.263153,-123.104744,Indochine Kitchen + Bar,Food,2424
+restaurant,49.263187,-123.10621,Bogo Korean Kitchen,Food,2425
+restaurant,49.266365,-123.10458,Tacofino Ocho,Food,2426
+cafe,49.308422,-123.04206,JJ Bean Coffee Roasters,Food,2427
+restaurant,49.31008,-123.04172,Mumbai Masala,Food,2428
+bank,49.308475,-123.04081,TD Canada Trust,Business,2429
+cafe,49.308716,-123.04239,Starbucks,Food,2430
+cafe,49.31205,-123.079544,The Green Moustache Organic Café,Food,2431
+restaurant,49.31222,-123.07719,Il Castello Pizzeria,Food,2432
+restaurant,49.310608,-123.08027,Burgoo Bistro,Food,2433
+restaurant,49.310684,-123.0802,Anatoli Souvlaki,Food,2434
+restaurant,49.310833,-123.080025,The District Brasserie,Food,2435
+fast_food,49.31023,-123.0836,McDonald's,Food,2436
+cafe,49.30998,-123.082794,CACAO 70 Sweet House,Food,2437
+restaurant,49.311913,-123.07833,Kokoro Tokyo Mazesoba,Food,2438
+restaurant,49.312363,-123.07931,Colosseum Pizza,Food,2439
+cafe,49.26364,-123.12208,Tony's Coffee,Food,2440
+fast_food,49.263805,-123.18544,Mac Falafel,Food,2441
+restaurant,49.255424,-123.11534,Tokyo John,Food,2442
+bar,49.284744,-123.11451,One Under Vancouver,Nightlife,2443
+bar,49.289795,-123.12126,TAP shack Eatery,Nightlife,2444
+cafe,49.2324,-123.025505,Sharetea,Food,2445
+cafe,49.255608,-123.11493,TTOB,Food,2446
+restaurant,49.255264,-123.114944,Indian Junction Bar & Grill,Food,2447
+restaurant,49.255413,-123.11495,Pho Xe Lua 24,Food,2448
+restaurant,49.255535,-123.11494,Café Gloucester,Food,2449
+fast_food,49.270397,-123.10599,Subway,Food,2450
+bank,49.26996,-123.10616,Scotiabank,Business,2451
+cafe,49.269688,-123.10635,The Bubble Tea Shop,Food,2452
+cafe,49.269463,-123.10638,Blenz Coffee,Food,2453
+bank,49.26949,-123.10682,BMO Bank of Montreal,Business,2454
+restaurant,49.26872,-123.11099,Clubhouse Japanese Restaurant,Food,2455
+restaurant,49.264637,-123.115074,Pepper Lunch,Food,2456
+cafe,49.264233,-123.11449,Starbucks,Food,2457
+restaurant,49.263836,-123.11379,Uma Sushi,Food,2458
+restaurant,49.26308,-123.12642,Johnny Rockets,Food,2459
+restaurant,49.270798,-123.14669,Annalena,Food,2460
+restaurant,49.270596,-123.14771,Cacao,Food,2461
+cafe,49.281277,-123.04649,Tim Hortons,Food,2462
+restaurant,49.280987,-123.02601,The Workshop Vegetarian Cafe,Food,2463
+bar,49.26391,-123.10552,33 Brewing Experiment,Nightlife,2464
+bar,49.26391,-123.105316,33 Acres Brewing,Nightlife,2465
+cafe,49.285336,-123.11222,Sciué,Food,2466
+cafe,49.27011,-123.10919,JJ Bean,Food,2467
+restaurant,49.266094,-123.24304,5 Tastes,Food,2468
+fast_food,49.26579,-123.24322,Vera's Burgers,Food,2469
+fast_food,49.265915,-123.24317,Subway,Food,2470
+fast_food,49.266468,-123.243385,A&W,Food,2471
+fast_food,49.266457,-123.243484,Pizza Garden,Food,2472
+restaurant,49.312477,-123.07775,Sushi Bella,Food,2473
+cafe,49.287685,-123.1205,Caffè Artigiano,Food,2474
+cafe,49.27928,-123.116936,Starbucks,Food,2475
+cafe,49.277256,-123.11874,Starbucks,Food,2476
+cafe,49.27681,-123.11484,Starbucks,Food,2477
+fast_food,49.280834,-123.03051,McDonald's,Food,2478
+pub,49.280952,-123.02384,Oscar's Pub,Nightlife,2479
+cafe,49.28099,-123.048836,Chatime,Food,2480
+restaurant,49.262962,-123.0986,The Black Lodge,Food,2481
+restaurant,49.2822,-123.102745,La Mezcaleria,Food,2482
+restaurant,49.27013,-123.06943,La Mezcaleria,Food,2483
+cafe,49.25826,-123.10088,JJ Bean,Food,2484
+restaurant,49.264347,-123.17723,Thai Basil,Food,2485
+bicycle_rental,49.261147,-123.097435,11th & Kingsway,Transportation,2486
+bicycle_rental,49.285816,-123.137886,Cardero & Pendrell,Transportation,2487
+restaurant,49.249268,-123.0745,Ashiana Tandoori,Food,2488
+restaurant,49.31319,-123.084145,5 de mayo Mexican food,Food,2489
+cafe,49.235706,-123.18551,Q Coffee,Food,2490
+cafe,49.27209,-123.134964,Siegel's Bagels,Food,2491
+fast_food,49.257988,-123.168564,Subway,Food,2492
+fast_food,49.244568,-123.15379,Subway,Food,2493
+bank,49.264046,-123.2118,TD Canada Trust,Business,2494
+restaurant,49.264206,-123.168625,Pho Japolo,Food,2495
+restaurant,49.27054,-123.14737,Rocky Mountain Flatbread Co.,Food,2496
+restaurant,49.256325,-123.184944,Jethro's Fine Grub,Food,2497
+cafe,49.25614,-123.18552,Tim Hortons,Food,2498
+restaurant,49.255978,-123.18492,Kuma,Food,2499
+restaurant,49.22082,-123.0661,Grand Chinese Hotpot,Food,2500
+restaurant,49.26006,-123.10134,Maizal RMF,Food,2501
+cafe,49.283066,-123.116455,Tim Hortons,Food,2502
+pub,49.309822,-123.073586,Finch and Barley,Nightlife,2503
+bicycle_rental,49.277706,-123.09173,Princess & Union,Transportation,2504
+bar,49.309593,-123.07305,North Point Tasting Room,Nightlife,2505
+ice_cream,49.284817,-123.124756,Perverted Ice-Cream,Food,2506
+place_of_worship,49.28105,-123.130486,Central Presbyterian Church,Attraction,2507
+restaurant,49.288704,-123.13082,The Captain's Boil,Food,2508
+restaurant,49.28863,-123.13067,Ramen Koika,Food,2509
+bank,49.27935,-123.099945,BMO,Business,2510
+bicycle_rental,49.264233,-123.07386,7th & Woodland,Transportation,2511
+fast_food,49.263332,-123.13292,Subway,Food,2512
+fast_food,49.263332,-123.132835,Panago,Food,2513
+restaurant,49.28051,-123.131676,Samurai,Food,2514
+restaurant,49.263695,-123.13643,Shin Ju,Food,2515
+cafe,49.270206,-123.136375,Pedro's Organic Coffee House,Food,2516
+restaurant,49.23936,-123.065575,Western Lake,Food,2517
+restaurant,49.25789,-123.11459,Shiro Japanese Restaurant,Food,2518
+cafe,49.256634,-123.24003,Field House Cafe,Food,2519
+fast_food,49.28842,-123.13986,Nat's New York Pizzeria,Food,2520
+restaurant,49.28837,-123.139946,Kitaya,Food,2521
+cafe,49.28191,-123.10566,Lost + Found Cafe,Food,2522
+pub,49.278927,-123.12313,The Beaver Taphouse,Nightlife,2523
+cafe,49.28125,-123.08528,Prototype Coffee,Food,2524
+cafe,49.28585,-123.127,Prime's Thai Tea,Food,2525
+restaurant,49.29067,-123.13391,Nero Belgian Waffle Bar,Food,2526
+fast_food,49.28008,-123.13095,Beetbox,Food,2527
+pub,49.278015,-123.099594,Brickhouse,Nightlife,2528
+cafe,49.247894,-123.089966,Eclettico Art & Coffee,Food,2529
+restaurant,49.247826,-123.09036,Grand View Szechuan Restaurant,Food,2530
+restaurant,49.247135,-123.09037,Egg & Co.,Food,2531
+bank,49.20581,-123.0313,Scotiabank,Business,2532
+bank,49.206593,-123.03066,TD Canada Trust,Business,2533
+restaurant,49.20592,-123.02988,Sushi Mura,Food,2534
+restaurant,49.231636,-123.155846,Chi Noodle Bar,Food,2535
+cafe,49.231094,-123.15586,Chatime,Food,2536
+restaurant,49.234474,-123.1562,Baoguette Vietnamese Bistro,Food,2537
+restaurant,49.23479,-123.15934,La Vita,Food,2538
+restaurant,49.23478,-123.159096,Sofra Mediterranean Kitchen,Food,2539
+bank,49.234474,-123.16017,BlueShore Financial,Business,2540
+cafe,49.234695,-123.15381,Chase Tea,Food,2541
+restaurant,49.234406,-123.15294,Chef Hung Taiwanese Beef Noodle,Food,2542
+restaurant,49.264374,-123.13675,Mixxbao Taiwanese Fusion,Food,2543
+restaurant,49.258545,-123.13852,Breakfast Table,Food,2544
+restaurant,49.263508,-123.141624,Suika Japanese Restaurant,Food,2545
+restaurant,49.26366,-123.15357,Z&W Shanghai Kitchen,Food,2546
+restaurant,49.263668,-123.15418,Temaki Sushi,Food,2547
+cafe,49.230606,-123.09082,Off the Grid Waffle Cafe,Food,2548
+restaurant,49.269184,-123.04536,East One Seafood Restaurant,Food,2549
+cafe,49.270576,-123.148056,Be Fresh Market,Food,2550
+restaurant,49.258625,-123.02754,Triple O’s,Food,2551
+cafe,49.273056,-123.15746,Kitsilano Beach Cafe,Food,2552
+restaurant,49.27949,-123.11436,Triple O’s,Food,2553
+cafe,49.231926,-123.11687,Starbucks,Food,2554
+restaurant,49.259735,-123.13923,The Stable House Bistro,Food,2555
+restaurant,49.284714,-123.12321,COAST Restaurant,Food,2556
+restaurant,49.281487,-123.05621,Sushi Nanaimo,Food,2557
+fast_food,49.27885,-123.11569,McDonald's,Food,2558
+restaurant,49.268173,-123.14727,Romer's,Food,2559
+restaurant,49.26816,-123.14651,Bibo,Food,2560
+restaurant,49.26816,-123.1464,Ramen Danbo,Food,2561
+fast_food,49.26817,-123.146996,Noodle Box,Food,2562
+restaurant,49.26317,-123.1206,Pacific Poke,Food,2563
+cafe,49.25969,-123.0439,Starbucks,Food,2564
+cafe,49.258602,-123.03071,Starbucks,Food,2565
+restaurant,49.25843,-123.030685,Boston Pizza,Food,2566
+restaurant,49.281315,-123.048355,Bao Chau,Food,2567
+cafe,49.282146,-123.11855,Tim Hortons,Food,2568
+restaurant,49.27534,-123.12112,Bistro Sakana,Food,2569
+restaurant,49.275246,-123.12077,Minami Yaletown,Food,2570
+restaurant,49.275597,-123.12031,Hula,Food,2571
+restaurant,49.26205,-123.03325,SushiHolic,Food,2572
+bank,49.24137,-123.05746,RBC,Business,2573
+fast_food,49.241524,-123.05777,Subway,Food,2574
+cafe,49.24453,-123.125725,Second Cup,Food,2575
+cafe,49.245842,-123.12694,Bean Around the World,Food,2576
+clock,49.285145,-123.114006,Birks Clock,Attraction,2577
+restaurant,49.257256,-123.08955,Les Faux Bourgeois,Food,2578
+fast_food,49.274128,-123.12187,Jugo Juice,Food,2579
+restaurant,49.2741,-123.121956,Salsa and Agave Mexican Grill,Food,2580
+fast_food,49.274036,-123.12226,Subway,Food,2581
+fast_food,49.274017,-123.122345,DQ Orange Julius,Food,2582
+restaurant,49.250557,-123.07731,Po Kong,Food,2583
+fast_food,49.27987,-123.10688,Blazing Sushi,Food,2584
+restaurant,49.281254,-123.0274,Just Waffles,Food,2585
+restaurant,49.22797,-123.09088,Indochine Kitchen + Bar,Food,2586
+restaurant,49.227013,-123.090904,So Hyang Korean Cuisine,Food,2587
+restaurant,49.251335,-123.1273,Sabra Kosher Bakery & Restaurant,Food,2588
+restaurant,49.231487,-123.119125,Peninsula Seafood Restaurant,Food,2589
+bank,49.232227,-123.11937,BMO Bank of Montreal,Business,2590
+bank,49.23149,-123.11859,Scotiabank,Business,2591
+restaurant,49.22575,-123.10117,Main Kabab Hut,Food,2592
+bank,49.269375,-123.104485,RBC,Business,2593
+restaurant,49.269375,-123.10408,Hon's Wonton House,Food,2594
+cafe,49.27006,-123.10349,Boba Essence,Food,2595
+cafe,49.27038,-123.10091,Railtown Café,Food,2596
+restaurant,49.279175,-123.09735,Kokomo,Food,2597
+restaurant,49.27957,-123.099495,Rhinofish Noodle Bar,Food,2598
+ice_cream,49.280464,-123.09862,Umaluna Dairy-Free Gelato,Food,2599
+cafe,49.280254,-123.09883,Aubade Coffee,Food,2600
+bar,49.280445,-123.09768,La Boqueria,Nightlife,2601
+restaurant,49.28046,-123.098145,Kissa Tanto,Food,2602
+restaurant,49.28185,-123.10417,Pidgin,Food,2603
+restaurant,49.282646,-123.10453,Bauhaus,Food,2604
+library,49.26125,-123.24919,Computer Science Reading Room,Leisure,2605
+marketplace,49.242607,-123.10435,Vancouver Farmers Market,Leisure,2606
+marketplace,49.283062,-123.04235,Vancouver Farmers Market,Leisure,2607
+bicycle_rental,49.26197,-123.09734,10th & Kingsway,Transportation,2608
+cafe,49.257156,-123.12179,Willow Cafe & Bakery,Food,2609
+fast_food,49.279198,-123.11678,Big G,Food,2610
+restaurant,49.279167,-123.116745,Sushi Bros,Food,2611
+fast_food,49.2791,-123.11663,Brooklyn NYC Pizzeria,Food,2612
+bank,49.274323,-123.12114,RBC,Business,2613
+fast_food,49.2859,-123.11229,A&W,Food,2614
+fast_food,49.285908,-123.11197,Subway,Food,2615
+cafe,49.28586,-123.11186,Jugo Juice,Food,2616
+cafe,49.28833,-123.112686,Coal Harbour Cafe,Food,2617
+cafe,49.272137,-123.133804,GI Gelato & Coffee House,Food,2618
+library,49.228737,-123.11687,Multimedia Library AFV,Leisure,2619
+cafe,49.290737,-123.134,Comebuy Bubble Tea,Food,2620
+restaurant,49.291492,-123.1352,Pacific Poke,Food,2621
+restaurant,49.26121,-123.09761,Sprezzatura,Food,2622
+restaurant,49.26472,-123.10063,Como Taperia,Food,2623
+bank,49.26426,-123.17105,G&F Financial Group,Business,2624
+cafe,49.26423,-123.16943,Kung Fu Tea,Food,2625
+restaurant,49.264244,-123.17031,Great Wall Mongolian BBQ,Food,2626
+cafe,49.263935,-123.167915,Baroness Bubble Tea,Food,2627
+cafe,49.263958,-123.20959,YiFang Taiwan Fruit Tea,Food,2628
+cafe,49.26373,-123.211525,Starbucks,Food,2629
+cafe,49.264404,-123.18008,Storm City Coffee,Food,2630
+restaurant,49.264393,-123.1783,Jun Sushi,Food,2631
+ice_cream,49.264057,-123.17722,720 Sweets & Etc.,Food,2632
+restaurant,49.26435,-123.17655,Strike,Food,2633
+restaurant,49.264355,-123.17693,Colony,Food,2634
+cafe,49.264317,-123.17378,Starbucks,Food,2635
+cafe,49.264015,-123.17295,Cartems Donuts,Food,2636
+cafe,49.232944,-123.03325,BlackBall Taiwanese Dessert,Food,2637
+cafe,49.309505,-123.07941,Caffè Artigiano,Food,2638
+cafe,49.31076,-123.07936,InTea,Food,2639
+fast_food,49.287598,-123.11914,Assembli,Food,2640
+cafe,49.274525,-123.12242,Caffé Artigiano,Food,2641
+restaurant,49.274803,-123.12299,Simply Thai,Food,2642
+cafe,49.275257,-123.12361,JJBean,Food,2643
+cafe,49.275574,-123.1234,Glory Juice,Food,2644
+cafe,49.275738,-123.12373,Coo Coo Coffee,Food,2645
+cafe,49.272602,-123.06974,Abruzzo Capuccino Bar,Food,2646
+restaurant,49.272266,-123.06975,LIVIA Forno e Vino,Food,2647
+cafe,49.27244,-123.06975,Cafe Du Soleil,Food,2648
+restaurant,49.25323,-123.089745,Oka-San Kitchen,Food,2649
+restaurant,49.25496,-123.089676,Pho Long Restaurant,Food,2650
+restaurant,49.288998,-123.13942,Centro,Food,2651
+restaurant,49.271812,-123.19048,Brock House Restaurant,Food,2652
+restaurant,49.281162,-123.12186,Smak,Food,2653
+pub,49.26825,-123.1686,Darby's Public House & Liqour Store,Nightlife,2654
+restaurant,49.27881,-123.12816,Patterson Wonton House,Food,2655
+cafe,49.283173,-123.10946,Revolver,Food,2656
+restaurant,49.257877,-123.100945,Seiza Japanese Cuisine,Food,2657
+fast_food,49.264168,-123.13833,Fresh Slice,Food,2658
+restaurant,49.28149,-123.07777,Axum Ethiopian Restaurant,Food,2659
+restaurant,49.232666,-123.02397,Kingsway Sushi,Food,2660
+restaurant,49.263676,-123.130684,Raga,Food,2661
+restaurant,49.263626,-123.12985,Tojos,Food,2662
+cafe,49.263596,-123.12853,Chiffon Patisserie,Food,2663
+cafe,49.26161,-123.138275,Rangoli,Food,2664
+restaurant,49.289093,-123.13227,Tri's Restaurant,Food,2665
+restaurant,49.289417,-123.12815,Tri Family Place,Food,2666
+bank,49.281208,-123.10244,Pigeon Park Savings,Business,2667
+restaurant,49.269447,-123.10616,Pho Quynh Express,Food,2668
+cafe,49.288567,-123.13925,Coffee Bogo,Food,2669
+car_rental,49.283176,-123.12132,Avis,Transportation,2670
+cafe,49.279865,-123.12768,Elysian Coffee Roasters,Food,2671
+fast_food,49.233143,-123.090065,Camy's Pizza,Food,2672
+restaurant,49.233322,-123.09012,Koon Bo Seafood Restaurant,Food,2673
+restaurant,49.264538,-123.1849,Dharma Kitchen,Food,2674
+restaurant,49.264175,-123.18468,Dijon,Food,2675
+cafe,49.27321,-123.06931,Turk's,Food,2676
+bar,49.26581,-123.10057,Brassneck Tasting Room,Nightlife,2677
+bar,49.284264,-123.06725,Slow Hand Tasting Room,Nightlife,2678
+restaurant,49.263058,-123.05689,Trocadero Pizza & Steak House,Food,2679
+restaurant,49.273705,-123.06937,Havana,Food,2680
+restaurant,49.287426,-123.12888,Dae Bak Bon Ga,Food,2681
+restaurant,49.312584,-123.14264,Prospect Point Cafe,Food,2682
+fast_food,49.282433,-123.12442,Japadog,Food,2683
+cafe,49.287704,-123.113335,Starbucks,Food,2684
+restaurant,49.311535,-123.08015,Thai House Restaurant,Food,2685
+cafe,49.269394,-123.14098,Café Prado,Food,2686
+bank,49.268368,-123.15966,RBC,Business,2687
+restaurant,49.268078,-123.1573,Browns Social House,Food,2688
+bank,49.28101,-123.05174,CIBC,Business,2689
+restaurant,49.268234,-123.16698,The Naam,Food,2690
+spa,49.266308,-123.1381,Miraj Hammam Spa,Leisure,2691
+fast_food,49.263367,-123.13429,Domino's Pizza,Food,2692
+restaurant,49.26372,-123.13478,Boston Pizza,Food,2693
+clock,49.242027,-123.11293,Lions Clock,Attraction,2694
+restaurant,49.25854,-123.11492,The Firewood Café,Food,2695
+restaurant,49.258904,-123.11525,Tropika,Food,2696
+cafe,49.254078,-123.115005,Starbucks,Food,2697
+theatre,49.270798,-123.1363,The Improv Center,Attraction,2698
+restaurant,49.268074,-123.156906,Hi Nippon,Food,2699
+bar,49.307747,-123.07124,House of Funk Tasting Room,Nightlife,2700
+restaurant,49.289265,-123.12694,Kiku Sushi Restaurant,Food,2701
+cafe,49.312244,-123.056946,S'wich Cafe,Food,2702
+restaurant,49.260902,-123.138275,Fiore,Food,2703
+restaurant,49.260193,-123.13895,Café Crêpe,Food,2704
+cafe,49.25918,-123.13891,Bean Around The World,Food,2705
+cafe,49.258743,-123.13897,Phoscao Cafe,Food,2706
+bank,49.258133,-123.13847,Prospera Credit Union,Business,2707
+cafe,49.258625,-123.13851,Bump n Grind Cafe,Food,2708
+cafe,49.25884,-123.24809,Bean Around The World,Food,2709
+bank,49.232613,-123.032524,TD Canada Trust,Business,2710
+bureau_de_change,49.2854,-123.11642,Vancouver Bullion & Currency Exchange,Business,2711
+restaurant,49.277775,-123.12752,Firecrust Custom Salads + Pizzas,Food,2712
+restaurant,49.289165,-123.13222,The Holy Crab,Food,2713
+restaurant,49.27165,-123.13486,Edible Canada,Food,2714
+fast_food,49.250977,-123.12709,Subway,Food,2715
+restaurant,49.248524,-123.12563,Osaka Sushi,Food,2716
+restaurant,49.310158,-123.079056,Nook Restaurant,Food,2717
+restaurant,49.264416,-123.18107,The Eatery,Food,2718
+fast_food,49.28433,-123.11781,Carl's Jr.,Food,2719
+ice_cream,49.286674,-123.12831,Yogen Früz,Food,2720
+cafe,49.266586,-123.13541,Innocent Coffee,Food,2721
+cafe,49.272175,-123.13515,JJBean,Food,2722
+cafe,49.272583,-123.13548,Petit Ami,Food,2723
+cafe,49.272964,-123.13487,The Blue Parrot Coffee,Food,2724
+fast_food,49.272762,-123.13543,La Tortilleria,Food,2725
+fast_food,49.272717,-123.13526,Phoenix Fast Food,Food,2726
+fast_food,49.272743,-123.13522,OMI Teriyaki & Sushi,Food,2727
+fast_food,49.272774,-123.13516,Curry 2 U,Food,2728
+fast_food,49.272816,-123.13509,Celine's Fish & Chips,Food,2729
+cafe,49.27242,-123.134636,à la mode,Food,2730
+cafe,49.267147,-123.09039,Kafka,Food,2731
+restaurant,49.257732,-123.13908,The Rise Eatery,Food,2732
+bank,49.24892,-123.185074,TD Canada Trust,Business,2733
+bank,49.248913,-123.18534,RBC,Business,2734
+cafe,49.284386,-123.108635,Starbucks,Food,2735
+restaurant,49.26315,-123.12163,Meat & Bread,Food,2736
+fast_food,49.21068,-123.10281,Triple-O's,Food,2737
+cafe,49.25159,-123.12727,Pallet Coffee Roasters,Food,2738
+arts_centre,49.266727,-123.09676,Aurora Digitalis,Attraction,2739
+arts_centre,49.266697,-123.09671,Hfour,Attraction,2740
+ice_cream,49.28616,-123.127495,D'oro Gelato e Caffè,Food,2741
+restaurant,49.28478,-123.11688,Joyeaux Café and Restaurant,Food,2742
+restaurant,49.275635,-123.135284,Ten Ten Tapas,Food,2743
+cafe,49.291492,-123.13566,The Spot Cafe,Food,2744
+restaurant,49.28822,-123.12651,TurF,Food,2745
+fast_food,49.28873,-123.128136,Subway,Food,2746
+cafe,49.290318,-123.12894,Take Five Café,Food,2747
+restaurant,49.24626,-123.10103,Kizuna,Food,2748
+restaurant,49.250614,-123.1012,Sushi Mania,Food,2749
+bicycle_rental,49.28487,-123.12877,Bute & Barclay,Transportation,2750
+bicycle_rental,49.263954,-123.112656,8th & Yukon,Transportation,2751
+bicycle_rental,49.28333,-123.12526,Smithe & Burrard,Transportation,2752
+events_venue,49.268974,-123.14065,Indian Summer Festival,Nightlife,2753
+restaurant,49.28191,-123.1135,White Spot,Food,2754
+restaurant,49.259045,-123.13851,Bin 4 Burger Lounge,Food,2755
+restaurant,49.2807,-123.13196,Stepho's Greek Restaurant,Food,2756
+restaurant,49.28021,-123.131195,Denny's,Food,2757
+fast_food,49.279766,-123.130486,Subway,Food,2758
+theatre,49.276646,-123.14216,Bard On The Beach (Summer Only),Attraction,2759
+restaurant,49.281116,-123.072845,Yolks,Food,2760
+cafe,49.28113,-123.073944,Starbucks,Food,2761
+cafe,49.282078,-123.081535,Casa Del Caffe,Food,2762
+restaurant,49.28089,-123.085335,S2 Cafe House,Food,2763
+fast_food,49.275085,-123.06931,Pizza Garden,Food,2764
+restaurant,49.260994,-123.100815,Burdock & Co,Food,2765
+bicycle_rental,49.275856,-123.0719,Britannia Parking Lot,Transportation,2766
+cafe,49.234703,-123.15725,Bean Brothers Cafe Bistro,Food,2767
+research_institute,49.25099,-123.23959,Organic Vegetables Nutrient Management Project,Business,2768
+research_institute,49.250145,-123.23594,Honey Bee Pathogen Response Project- BeeCSI,Business,2769
+research_institute,49.249706,-123.23689,Truffle Establishment in BC,Business,2770
+research_institute,49.250572,-123.23994,Indigenous Land Based Pedagogies and Food Sovereignty in Urban Contexts,Business,2771
+research_institute,49.249344,-123.2385,Participatory Variety Trial And Breeding For Canadian Organic Farmers (CANOVI),Business,2772
+research_institute,49.250126,-123.24003,Identification and Characterisation of beneficial plant root-associated microbes,Business,2773
+research_institute,49.249405,-123.23599,Greenhouse Gas Mitigation in Organic Blueberries,Business,2774
+research_institute,49.249836,-123.23765,Ecological Pest Management for Spotted Wing Drosophila (SWD),Business,2775
+research_institute,49.248608,-123.235985,Click beetle monitoring,Business,2776
+research_institute,49.250843,-123.23917,Too much water or too little: Climate resilient vegetable farming,Business,2777
+research_institute,49.2512,-123.24143,Passive open top chambers (OTC): cost-effective methods for climate change research,Business,2778
+theatre,49.2811,-123.09837,The Rickshaw,Attraction,2779
+restaurant,49.27542,-123.06926,Britianna Sushi,Food,2780
+restaurant,49.27537,-123.06925,The Reef,Food,2781
+fast_food,49.225334,-123.053505,Wally's Burgers,Food,2782
+bank,49.28362,-123.11949,HSBC Bank Canada,Business,2783
+bank,49.287056,-123.11632,HSBC,Business,2784
+restaurant,49.287663,-123.11559,Rogue Kitchen & Wetbar,Food,2785
+restaurant,49.30739,-123.03221,Tour de Feast,Food,2786
+bus_station,49.310547,-123.08288,Lonsdale Quay Bus Loop,Transportation,2787
+motorcycle_rental,49.204575,-123.12807,EagleRider,Transportation,2788
+restaurant,49.263702,-123.20949,Four Olives Restaurant,Food,2789
+restaurant,49.263702,-123.20959,Sun Sushi,Food,2790
+restaurant,49.282616,-123.12341,JOEY Burrard,Food,2791
+cafe,49.28118,-123.124275,Tim Hortons,Food,2792
+restaurant,49.281593,-123.12376,Earl's,Food,2793
+cafe,49.283028,-123.121574,Cafe Bellagio,Food,2794
+fast_food,49.281273,-123.05622,VanCity Pizza,Food,2795
+restaurant,49.276314,-123.06971,Downlow Chicken Shack,Food,2796
+restaurant,49.25464,-123.11498,Viet House,Food,2797
+restaurant,49.260605,-123.115395,Kirin Cambie,Food,2798
+cafe,49.268524,-123.1709,Artistry Coffee Shop & Bistro,Food,2799
+restaurant,49.26228,-123.04472,Vallarta's Mexican Restaurant,Food,2800
+bank,49.26366,-123.20888,HSBC,Business,2801
+restaurant,49.263668,-123.208725,Hime Sushi,Food,2802
+cafe,49.310375,-123.08056,Nemesis,Food,2803
+cafe,49.274044,-123.06936,Joe's Cafe,Food,2804
+cafe,49.26968,-123.04451,Demi Bubble Tea,Food,2805
+bank,49.26253,-123.11542,Vancity,Business,2806
+restaurant,49.281265,-123.055336,Roundel Café,Food,2807
+cafe,49.25193,-123.10116,Liberty Bakery,Food,2808
+cafe,49.251686,-123.10118,Coco et Olive Café,Food,2809
+bank,49.248882,-123.10128,RBC,Business,2810
+bank,49.24789,-123.101364,Vancity,Business,2811
+cafe,49.247696,-123.1009,Blenz,Food,2812
+restaurant,49.24727,-123.100945,Alphabet City,Food,2813
+restaurant,49.247055,-123.10096,Sawasdee Thai Restaurant,Food,2814
+library,49.23104,-123.118576,Vancouver Public Library Oakridge Branch,Leisure,2815
+cafe,49.24731,-123.10139,Continental Coffee,Food,2816
+restaurant,49.268246,-123.15256,Sophies Cosmic Cafe,Food,2817
+theatre,49.270443,-123.13528,Carousel Theatre,Attraction,2818
+restaurant,49.2499,-123.03406,Ham & Eggman's,Food,2819
+cafe,49.249462,-123.12795,Dragon Ball Tea House,Food,2820
+restaurant,49.263542,-123.14637,Viet Flavour Restaurant,Food,2821
+restaurant,49.26319,-123.12246,Banana Leaf on Broadway,Food,2822
+cafe,49.260685,-123.03321,Tim Hortons,Food,2823
+restaurant,49.263832,-123.1137,Mr. Japanese Curry,Food,2824
+restaurant,49.237957,-123.0652,Viet Mama Cafe,Food,2825
+leisure,49.27686,-123.072586,Vancouver Hack Space,Leisure,2826
+restaurant,49.281185,-123.132225,Neptune Chinese Kitchen,Food,2827
+restaurant,49.279392,-123.123505,La Cantina,Food,2828
+ferry_terminal,49.27323,-123.13603,Granville Island Dock (False Creek Ferries),Transportation,2829
+cafe,49.284866,-123.06596,The Pie Shoppe,Food,2830
+restaurant,49.284893,-123.065834,Aleph,Food,2831
+cafe,49.225525,-123.10186,Tim Hortons,Food,2832
+fast_food,49.211308,-123.10185,HiFive Chicken 24,Food,2833
+bank,49.28653,-123.121185,TD Canada Trust,Business,2834
+bank,49.283432,-123.114174,RIA,Business,2835
+bank,49.263165,-123.105125,Scotiabank,Business,2836
+fast_food,49.263172,-123.10543,Best Burrito,Food,2837
+restaurant,49.27882,-123.122055,Heirs Pears,Food,2838
+restaurant,49.27942,-123.1206,Cibo Trattora,Food,2839
+restaurant,49.262333,-123.08973,Pizzeria Barbarella,Food,2840
+cafe,49.26234,-123.08959,Catoro Cafe,Food,2841
+fast_food,49.262756,-123.090454,Dallas Pizza & Souvlaki,Food,2842
+restaurant,49.262188,-123.0708,Broadway Station Sushi,Food,2843
+restaurant,49.247005,-123.06956,Shiok Singaporean Cuisine,Food,2844
+cafe,49.23605,-123.0411,Café Foam,Food,2845
+restaurant,49.235596,-123.03883,Paramount BBQ Restaurant,Food,2846
+fast_food,49.28529,-123.13902,McDonald's,Food,2847
+restaurant,49.28688,-123.14209,Milestones,Food,2848
+cafe,49.22701,-123.12873,Jazen Tea,Food,2849
+restaurant,49.2811,-123.12192,Poke Time,Food,2850
+restaurant,49.278904,-123.12381,Banh Mi Timon,Food,2851
+cafe,49.26379,-123.14006,Chatime,Food,2852
+bicycle_rental,49.30261,-123.15564,Stanley Park - Third Beach Parking Lot,Transportation,2853
+restaurant,49.254364,-123.23623,Chef Hung Taiwanese Beef Noodle,Food,2854
+bank,49.233788,-123.116615,TD Canada Trust,Business,2855
+bank,49.233776,-123.11733,HSBC,Business,2856
+bank,49.23191,-123.11764,RBC,Business,2857
+restaurant,49.233315,-123.11735,White Spot,Food,2858
+cafe,49.262657,-123.25175,Magma Cafè,Food,2859
+cafe,49.264046,-123.174164,Tim Hortons,Food,2860
+fast_food,49.264,-123.17376,Subway,Food,2861
+restaurant,49.25041,-123.07626,House of Dosas,Food,2862
